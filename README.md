@@ -1,3 +1,7 @@
+# BangBrave
+
+BangBrave is a fork of Unduck to change the main search engine from Google to Brave Search.
+
 # Unduck
 
 DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables all of DuckDuckGo's bangs to work, but much faster.
