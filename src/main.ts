@@ -8,7 +8,6 @@ const DEFAULT_SEARCH_ENGINES = [
     {name: "DuckDuckGo", value: "duckduckgo", url: "https://duckduckgo.com/?q={{{s}}}"},
     {name: "DuckDuckGo (HTML)", value: "duckduckgo-html", url: "https://html.duckduckgo.com/html/?q={{{s}}}"},
     {name: "Brave Search", value: "brave", url: "https://search.brave.com/search?q={{{s}}}"},
-    {name: "Kagi", value: "kagi", url: "https://kagi.com/search?q={{{s}}}"},
     {name: "Swisscows", value: "swisscows", url: "https://swisscows.com/web?query={{{s}}}"},
     {name: "Startpage", value: "startpage", url: "https://www.startpage.com/sp/search?query={{{s}}}"},
     {name: "Qwant", value: "qwant", url: "https://www.qwant.com/?q={{{s}}}"}
@@ -33,13 +32,7 @@ function noSearchDefaultPageRender() {
           </button>
         </div>
         <div class="button-container">
-          <button class="customize-button">
-            <img src="/gear.svg" alt="Settings" />
-            Customize
-          </button>
-        </div>
-        
-        <div class="settings-panel">
+        <div class="settings-panel open">
           <div class="settings-content">
             <h3>Search Customization</h3>
             <div class="setting-group">
@@ -76,11 +69,6 @@ function noSearchDefaultPageRender() {
       copyIcon.src = "/clipboard.svg";
     }, 2000);
   });
-
-    customizeButton.addEventListener("click", () => {
-        settingsPanel.classList.toggle("open");
-        customizeButton.classList.toggle("active");
-    });
 
     defaultSearchSelect.addEventListener("change", (e) => {
         const target = e.target as HTMLSelectElement;
