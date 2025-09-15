@@ -14,8 +14,8 @@ const DEFAULT_SEARCH_ENGINES = [
 ];
 
 function noSearchDefaultPageRender() {
-  const app = document.querySelector<HTMLDivElement>("#app")!;
-  app.innerHTML = `
+    const app = document.querySelector<HTMLDivElement>("#app")!;
+    app.innerHTML = `
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>FastBangs</h1>
@@ -39,8 +39,8 @@ function noSearchDefaultPageRender() {
                 <label for="default-search-select">Default search engine (when no bang is used):</label>
                 <select id="default-search-select" class="search-select">
                   ${DEFAULT_SEARCH_ENGINES.map(
-      engine => `<option value="${engine.value}">${engine.name}</option>`
-  ).join("")}
+        engine => `<option value="${engine.value}">${engine.name}</option>`
+    ).join("")}
                 </select>
                 <p class="setting-description">
                   This search engine will be used when you search without a bang (like "!g" or "!gh")
@@ -53,23 +53,23 @@ function noSearchDefaultPageRender() {
     </div>
   `;
 
-  const copyButton = app.querySelector<HTMLButtonElement>(".copy-button")!;
-  const copyIcon = copyButton.querySelector("img")!;
-  const urlInput = app.querySelector<HTMLInputElement>(".url-input")!;
+    const copyButton = app.querySelector<HTMLButtonElement>(".copy-button")!;
+    const copyIcon = copyButton.querySelector("img")!;
+    const urlInput = app.querySelector<HTMLInputElement>(".url-input")!;
     const defaultSearchSelect = app.querySelector<HTMLSelectElement>("#default-search-select")!;
 
     // Load saved default search engine
     const savedDefaultSearch = localStorage.getItem("default-search-engine") || "brave";
     defaultSearchSelect.value = savedDefaultSearch;
 
-  copyButton.addEventListener("click", async () => {
-    await navigator.clipboard.writeText(urlInput.value);
-    copyIcon.src = "/clipboard-check.svg";
+    copyButton.addEventListener("click", async () => {
+        await navigator.clipboard.writeText(urlInput.value);
+        copyIcon.src = "/clipboard-check.svg";
 
-    setTimeout(() => {
-      copyIcon.src = "/clipboard.svg";
-    }, 2000);
-  });
+        setTimeout(() => {
+            copyIcon.src = "/clipboard.svg";
+        }, 2000);
+    });
 
     defaultSearchSelect.addEventListener("change", (e) => {
         const target = e.target as HTMLSelectElement;
@@ -81,16 +81,16 @@ const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "brave";
 const defaultBang = bangs.find((b) => b.t === LS_DEFAULT_BANG);
 
 function getBangredirectUrl() {
-  const url = new URL(window.location.href);
-  const query = url.searchParams.get("q")?.trim() ?? "";
+    const url = new URL(window.location.href);
+    const query = url.searchParams.get("q")?.trim() ?? "";
 
-  if (!query) {
-    noSearchDefaultPageRender();
-    return null;
-  }
+    if (!query) {
+        noSearchDefaultPageRender();
+        return null;
+    }
 
-  const match = query.match(/!(\S+)/i);
-  const bangCandidate = match?.[1]?.toLowerCase();
+    const match = query.match(/!(\S+)/i);
+    const bangCandidate = match?.[1]?.toLowerCase();
 
     if (bangCandidate) {
         // Bang detected - use existing logic
@@ -123,9 +123,9 @@ function getBangredirectUrl() {
 }
 
 function doRedirect() {
-  const searchUrl = getBangredirectUrl();
-  if (!searchUrl) return;
-  window.location.replace(searchUrl);
+    const searchUrl = getBangredirectUrl();
+    if (!searchUrl) return;
+    window.location.replace(searchUrl);
 }
 
 doRedirect();
