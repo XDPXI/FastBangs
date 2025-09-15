@@ -19,7 +19,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>FastBangs</h1>
-        <p>A fork of Und*ck to set the main search engine to Brave Search</p>
+        <p>A fork of Und*ck that provides QoL features.</p>
         <div class="url-container"> 
           <input 
             type="text" 
