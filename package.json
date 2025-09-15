@@ -8,6 +8,9 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.7"
+  },
   "devDependencies": {
     "typescript": "^5.9.2",
     "vite": "7.1.5",
