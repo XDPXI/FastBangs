@@ -4,14 +4,14 @@ import "./global.css";
 // Default search engines for when no bang is used
 const DEFAULT_SEARCH_ENGINES = [
     {name: "Google", value: "google", url: "https://www.google.com/search?q={{{s}}}"},
+    {name: "Google (No AI)", value: "google-no-ai", url: "https://www.google.com/search?udm=14&q={{{s}}}"},
     {name: "DuckDuckGo", value: "duckduckgo", url: "https://duckduckgo.com/?q={{{s}}}"},
-    {name: "DuckDuckGo HTML", value: "duckduckgo-html", url: "https://html.duckduckgo.com/html/?q={{{s}}}"},
-    {name: "Google No AI (udm=14)", value: "google-no-ai", url: "https://www.google.com/search?udm=14&q={{{s}}}"},
+    {name: "DuckDuckGo (HTML)", value: "duckduckgo-html", url: "https://html.duckduckgo.com/html/?q={{{s}}}"},
+    {name: "Brave Search", value: "brave", url: "https://search.brave.com/search?q={{{s}}}"},
     {name: "Kagi", value: "kagi", url: "https://kagi.com/search?q={{{s}}}"},
     {name: "Swisscows", value: "swisscows", url: "https://swisscows.com/web?query={{{s}}}"},
     {name: "Startpage", value: "startpage", url: "https://www.startpage.com/sp/search?query={{{s}}}"},
-    {name: "Qwant", value: "qwant", url: "https://www.qwant.com/?q={{{s}}}"},
-    {name: "T3 Chat", value: "t3chat", url: "https://www.t3.chat/new?q={{{s}}}"}
+    {name: "Qwant", value: "qwant", url: "https://www.qwant.com/?q={{{s}}}"}
 ];
 
 function noSearchDefaultPageRender() {
