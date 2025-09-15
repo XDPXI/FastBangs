@@ -32,17 +32,20 @@ function noSearchDefaultPageRender() {
           </button>
         </div>
         <div class="button-container">
-        <div class="settings-panel open">
-          <div class="settings-content">
-            <h3>Search Customization</h3>
-            <div class="setting-group">
-              <label for="default-search-select">Default search engine (when no bang is used):</label>
-              <select id="default-search-select" class="search-select">
-                ${DEFAULT_SEARCH_ENGINES.map(engine =>
-      `<option value="${engine.value}">${engine.name}</option>`
-  ).join('')}
-              </select>
-              <p class="setting-description">This search engine will be used when you search without a bang (like "!g" or "!gh")</p>
+          <div class="settings-panel open">
+            <div class="settings-content">
+              <h3>Search Customization</h3>
+              <div class="setting-group">
+                <label for="default-search-select">Default search engine (when no bang is used):</label>
+                <select id="default-search-select" class="search-select">
+                  ${DEFAULT_SEARCH_ENGINES.map(
+      engine => `<option value="${engine.value}">${engine.name}</option>`
+  ).join("")}
+                </select>
+                <p class="setting-description">
+                  This search engine will be used when you search without a bang (like "!g" or "!gh")
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -53,8 +56,6 @@ function noSearchDefaultPageRender() {
   const copyButton = app.querySelector<HTMLButtonElement>(".copy-button")!;
   const copyIcon = copyButton.querySelector("img")!;
   const urlInput = app.querySelector<HTMLInputElement>(".url-input")!;
-    const customizeButton = app.querySelector<HTMLButtonElement>(".customize-button")!;
-    const settingsPanel = app.querySelector<HTMLDivElement>(".settings-panel")!;
     const defaultSearchSelect = app.querySelector<HTMLSelectElement>("#default-search-select")!;
 
     // Load saved default search engine
@@ -82,6 +83,7 @@ const defaultBang = bangs.find((b) => b.t === LS_DEFAULT_BANG);
 function getBangredirectUrl() {
   const url = new URL(window.location.href);
   const query = url.searchParams.get("q")?.trim() ?? "";
+
   if (!query) {
     noSearchDefaultPageRender();
     return null;
@@ -98,19 +100,17 @@ function getBangredirectUrl() {
         const cleanQuery = query.replace(/!\S+\s*/i, "").trim();
 
         // If the query is just `!gh`, use `github.com` instead of `github.com/search?q=`
-        if (cleanQuery === "")
+        if (cleanQuery === "") {
             return selectedBang ? `https://${selectedBang.d}` : null;
+        }
 
-        // Format of the url is:
-        // https://www.google.com/search?q={{{s}}}
+        // Format of the url is: https://www.google.com/search?q={{{s}}}
         const searchUrl = selectedBang?.u.replace(
             "{{{s}}}",
-            // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
-            encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),
+            encodeURIComponent(cleanQuery).replace(/%2F/g, "/") // fix formats like "!ghr+t3dotgg/unduck"
         );
-        if (!searchUrl) return null;
 
-        return searchUrl;
+        return searchUrl ?? null;
     } else {
         // No bang detected - use default search engine
         const defaultSearchEngine = localStorage.getItem("default-search-engine") || "brave";
