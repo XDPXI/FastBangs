@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>FastBangs</ShortName>
+    <Description>A fork of Und*ck that provides QoL features.</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Url type="text/html" method="GET" template="https://fastbangs.xdpxi.dev?q={searchTerms}"/>
+    <Image height="16" width="16" type="image/x-icon">https://fastbangs.xdpxi.dev/search.svg</Image>
+</OpenSearchDescription>
