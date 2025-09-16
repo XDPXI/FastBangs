@@ -23,7 +23,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>FastBangs</h1>
-        <p>A fork of Und*ck that provides QoL features.</p>
+        <p>A fork of Und*ck that provides QoL features</p>
         <div class="url-container"> 
           <input 
             type="text" 
@@ -40,14 +40,13 @@ function noSearchDefaultPageRender() {
             <div class="settings-content">
               <h3>Search Customization</h3>
               <div class="setting-group">
-                <label for="default-search-select">Default search engine (when no bang is used):</label>
+                <label for="default-search-select">Default search engine:</label>
                 <select id="default-search-select" class="search-select">
                   ${DEFAULT_SEARCH_ENGINES.map(
         engine => `<option value="${engine.value}">${engine.name}</option>`
     ).join("")}
                 </select>
                 <p class="setting-description">
-                  This search engine will be used when you search without a bang (like "!g" or "!gh")
                 </p>
               </div>
             </div>
