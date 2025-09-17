@@ -40,14 +40,12 @@ function noSearchDefaultPageRender() {
             <div class="settings-content">
               <h3>Search Customization</h3>
               <div class="setting-group">
-                <label for="default-search-select">Default search engine:</label>
+                <label for="default-search-select">Default search engine (When no bangs are used):</label>
                 <select id="default-search-select" class="search-select">
                   ${DEFAULT_SEARCH_ENGINES.map(
         engine => `<option value="${engine.value}">${engine.name}</option>`
     ).join("")}
                 </select>
-                <p class="setting-description">
-                </p>
               </div>
             </div>
           </div>
