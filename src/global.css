@@ -102,12 +102,14 @@ select {
 
 .copy-button {
     padding: 8px;
-    color: #666;
     border-radius: 4px;
     transition: all 0.2s;
     display: flex;
     align-items: center;
     justify-content: center;
+    background: #191919;
+    border-color: #3d3d3d;
+    color: #ddd;
 }
 
 .copy-button:hover {
