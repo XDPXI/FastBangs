@@ -1,7 +1,3 @@
-# BangBrave
-
-BangBrave is a fork of Unduck to change the main search engine from Google to Brave Search.
-
 # Unduck
 
 DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables all
@@ -16,11 +12,11 @@ and will never need to be downloaded again. Your device does the redirects, not 
 
 ## Browser Setup
 
-To use Unduck, you need to set it as your default search engine in your browser. Use the following URL as your search
+To use FastBangs, you need to set it as your default search engine in your browser. Use the following URL as your search
 engine:
 
 ```
-https://unduck.link?q=%s
+https://fastbangs.xdpxi.dev?q=%s
 ```
 
 For specific browser configuration instructions, refer to these guides:
