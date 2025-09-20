@@ -3,10 +3,8 @@
   "workspaces": {
     "": {
       "name": "unduck",
-      "dependencies": {
-        "@fontsource/inter": "^5.2.8",
-      },
       "devDependencies": {
+        "@fontsource/inter": "^5.2.8",
         "typescript": "^5.9.2",
         "vite": "^7.1.6",
         "vite-plugin-pwa": "^1.0.3",
