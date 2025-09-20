@@ -60,8 +60,7 @@ function noSearchDefaultPageRender() {
     const defaultSearchSelect = app.querySelector<HTMLSelectElement>("#default-search-select")!;
 
     // Load saved default search engine
-    const savedDefaultSearch = localStorage.getItem("default-search-engine") || "brave";
-    defaultSearchSelect.value = savedDefaultSearch;
+    defaultSearchSelect.value = localStorage.getItem("default-search-engine") || "brave";
 
     copyButton.addEventListener("click", async () => {
         await navigator.clipboard.writeText(urlInput.value);
