@@ -22,7 +22,7 @@ jobs:
           node-version: 24
 
       - name: Install deps
-        run: npm install
+        run: bun install
 
       - name: Fetch DDG bangs
         run: |
