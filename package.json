@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^5.9.2",
-    "vite": "^7.1.7",
-    "vite-plugin-pwa": "^1.0.3",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.6",
+    "vite-plugin-pwa": "^1.2.0",
     "@fontsource/inter": "^5.2.8"
   }
 }
