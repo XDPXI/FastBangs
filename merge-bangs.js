@@ -31,7 +31,7 @@ const kagi = kagiRaw
     }));
 
 // Load existing bangs to preserve custom ones
-const original = fs.readFileSync("src/bangs.ts", "utf8");
+const original = fs.readFileSync("src/bang.ts", "utf8");
 
 const customMatches = original.match(/export const bangs = \[(.[\s\S]*)\];/);
 let custom = [];
@@ -66,5 +66,5 @@ const unique = Object.values(
 
 // Write output
 const output = `export const bangs = ${JSON.stringify(unique, null, 4)};\n`;
-fs.writeFileSync("src/bangs.ts", output);
-console.log("Updated src/bangs.ts");
+fs.writeFileSync("src/bang.ts", output);
+console.log("Updated src/bang.ts");
