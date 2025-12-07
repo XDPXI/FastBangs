@@ -1,12 +1,46 @@
 import fs from "fs";
 
-// Load raw bangs
-const ddgRaw = JSON.parse(fs.readFileSync("ddg_bangs.json", "utf8"));
-const kagiRaw = JSON.parse(fs.readFileSync("kagi_bangs.json", "utf8"));
+// Helpers
 
-// Normalize DDG bangs -> your format, skip entries without URL
+function loadJSON(path) {
+    return JSON.parse(fs.readFileSync(path, "utf8"));
+}
+
+function safeRead(path) {
+    try {
+        return fs.readFileSync(path, "utf8");
+    } catch {
+        return "";
+    }
+}
+
+// Load raw sources
+
+const ddgRaw = loadJSON("ddg_bangs.json");
+const kagiRaw = loadJSON("kagi_bangs.json");
+const original = safeRead("src/bang.ts");
+
+// Parse custom bangs from existing file
+
+let custom = [];
+{
+    const match = original.match(/export const bangs\s*=\s*(\[[\s\S]*?\]);/);
+
+    if (match) {
+        try {
+            custom = JSON.parse(match[1]);
+        } catch (err) {
+            console.error("Failed to parse existing bangs; keeping only DDG + Kagi.");
+        }
+    } else {
+        console.warn("No existing bangs found in src/bang.ts");
+    }
+}
+
+// Normalize DDG
+
 const ddg = ddgRaw
-    .filter(b => b.url) // only keep entries with URL
+    .filter(b => b.url)
     .map(b => ({
         c: b.category || "Search",
         d: b.domain || "",
@@ -17,9 +51,10 @@ const ddg = ddgRaw
         u: b.url.replace("{{{s}}}", "{{{s}}}")
     }));
 
-// Normalize Kagi bangs -> your format, skip entries without URL
+// Normalize Kagi
+
 const kagi = kagiRaw
-    .filter(b => b.u) // only keep entries with URL
+    .filter(b => b.u)
     .map(b => ({
         c: b.c || "Search",
         d: b.d || "",
@@ -30,41 +65,21 @@ const kagi = kagiRaw
         u: b.u.replace("{query}", "{{{s}}}")
     }));
 
-// Load existing bangs to preserve custom ones
-const original = fs.readFileSync("src/bang.ts", "utf8");
+// Merge and dedup
 
-const customMatches = original.match(/export const bangs = \[(.[\s\S]*)\];/);
-let custom = [];
+const merged = [...custom, ...ddg, ...kagi];
 
-if (customMatches) {
-    const jsonish = customMatches[1]
-        .trim()
-        .replace(/^\s*\/\/.*$/gm, "") // remove comments
-        .replace(/(\w+):/g, '"$1":') // quote keys
-        .replace(/'/g, '"'); // ensure JSON
-
-    try {
-        custom = JSON.parse(`[${jsonish}]`);
-    } catch (e) {
-        console.error("Failed to parse existing bangs; keeping file as-is.");
-    }
-}
-
-// Combine and deduplicate
-const combined = [
-    ...custom,
-    ...ddg,
-    ...kagi
-];
-
-const unique = Object.values(
-    combined.reduce((acc, item) => {
+const deduped = Object.values(
+    merged.reduce((acc, item) => {
         acc[item.t] = item;
         return acc;
     }, {})
 );
 
 // Write output
-const output = `export const bangs = ${JSON.stringify(unique, null, 4)};\n`;
+
+const output = `export const bangs = ${JSON.stringify(deduped, null, 4)};\n`;
+
 fs.writeFileSync("src/bang.ts", output);
-console.log("Updated src/bang.ts");
+
+console.log(`Updated src/bang.ts with ${deduped.length} bangs.`);
