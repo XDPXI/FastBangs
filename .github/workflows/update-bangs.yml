@@ -1,4 +1,4 @@
-name: Update Bangs
+name: Update Bangs and Packages
 
 on:
   schedule:
@@ -21,8 +21,11 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Install dependencies (with Bun)
+      - name: Install dependencies
         run: bun install
+
+      - name: Update dependencies
+        run: bun update
 
       - name: Fetch DDG bangs
         run: |
@@ -61,6 +64,6 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           branch: ${{ steps.commit.outputs.branch }}
-          title: "Daily Bangs Update"
-          body: "Automated merge of DDG + Kagi bangs into src/bang.ts"
+          title: "Daily Bang and Package Update"
+          body: "Automated update of DuckDuckGo and Kagi bangs and bun packages."
           base: main
