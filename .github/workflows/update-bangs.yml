@@ -2,7 +2,7 @@ name: Update Bangs
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 21 * * *"   # 08:00 AEDT daily
   workflow_dispatch:
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v6
 
-      - name: Set up Node
-        uses: actions/setup-node@v6
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: 24
+          bun-version: latest
 
-      - name: Install deps
+      - name: Install dependencies (with Bun)
         run: bun install
 
       - name: Fetch DDG bangs
@@ -33,25 +33,29 @@ jobs:
           curl -s https://kagi.com/api/v0/bangs > kagi_bangs.json
 
       - name: Merge bangs into src/bangs.ts
-        run: |
-          node scripts/merge-bangs.js
+        run: bun run scripts/merge-bangs.js
 
-      - name: Create new branch
+      - name: Create new branch and commit changes
+        id: commit
         run: |
           BRANCH="update-bangs-$(date +%Y%m%d)"
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+
           git checkout -b "$BRANCH"
           git add src/bangs.ts
+
           if git diff --cached --quiet; then
             echo "No changes detected."
             exit 0
           fi
+
           git commit -m "Daily bang update"
           git push origin "$BRANCH"
 
       - name: Open PR
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: ${{ github.ref_name }}
+          branch: ${{ steps.commit.outputs.branch }}
           title: "Daily Bangs Update"
           body: "Automated merge of DDG + Kagi bangs into src/bangs.ts"
           base: main
