@@ -1,9 +1,10 @@
 import fs from "fs";
 
+// Load raw bangs
 const ddgRaw = JSON.parse(fs.readFileSync("ddg_bangs.json", "utf8"));
 const kagiRaw = JSON.parse(fs.readFileSync("kagi_bangs.json", "utf8"));
 
-// Normalize DDG bangs -> your format
+// Normalize DDG bangs -> your format, skip entries without URL
 const ddg = ddgRaw
     .filter(b => b.url) // only keep entries that have a URL
     .map(b => ({
@@ -16,18 +17,20 @@ const ddg = ddgRaw
         u: b.url.replace("{{{s}}}", "{{{s}}}")
     }));
 
-// Normalize Kagi bangs
-const kagi = kagiRaw.items.map(b => ({
-    c: b.category || "Search",
-    d: b.domain || "",
-    r: 0,
-    s: b.name,
-    sc: "Search Engine",
-    t: b.shortcut,
-    u: b.url_template.replace("{query}", "{{{s}}}")
-}));
+// Normalize Kagi bangs, skip entries without URL template
+const kagi = kagiRaw.items
+    .filter(b => b.url_template)
+    .map(b => ({
+        c: b.category || "Search",
+        d: b.domain || "",
+        r: 0,
+        s: b.name,
+        sc: "Search Engine",
+        t: b.shortcut,
+        u: b.url_template.replace("{query}", "{{{s}}}")
+    }));
 
-// Load your existing bangs file to preserve custom ones
+// Load existing bangs to preserve custom ones
 const original = fs.readFileSync("src/bangs.ts", "utf8");
 
 const customMatches = original.match(/export const bangs = \[(.[\s\S]*)\];/);
@@ -47,13 +50,13 @@ if (customMatches) {
     }
 }
 
+// Combine and deduplicate
 const combined = [
     ...custom,
     ...ddg,
     ...kagi
 ];
 
-// Deduplicate by bang shortcut
 const unique = Object.values(
     combined.reduce((acc, item) => {
         acc[item.t] = item;
@@ -61,8 +64,7 @@ const unique = Object.values(
     }, {})
 );
 
-// Build output
+// Write output
 const output = `export const bangs = ${JSON.stringify(unique, null, 4)};\n`;
-
 fs.writeFileSync("src/bangs.ts", output);
 console.log("Updated src/bangs.ts");
