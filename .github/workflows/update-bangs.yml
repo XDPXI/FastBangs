@@ -30,7 +30,7 @@ jobs:
 
       - name: Fetch Kagi bangs
         run: |
-          curl -s https://kagi.com/api/v0/bangs > kagi_bangs.json
+          curl -s https://raw.githubusercontent.com/kagisearch/bangs/refs/heads/main/data/bangs.json > kagi_bangs.json
 
       - name: Merge bangs into src/bangs.ts
         run: bun run scripts/merge-bangs.js
