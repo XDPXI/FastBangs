@@ -38,6 +38,9 @@ jobs:
       - name: Merge bangs into src/bangs.ts
         run: bun run merge-bangs.js
 
+      - name: Clean up fetched bang files
+        run: rm -f ddg_bangs.json kagi_bangs.json
+
       - name: Configure git identity
         run: |
           git config user.name "github-actions[bot]"
@@ -57,7 +60,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Daily bang update"
+          git commit -m "Daily Bang and Package Update"
           git push origin "$BRANCH"
 
       - name: Open PR
