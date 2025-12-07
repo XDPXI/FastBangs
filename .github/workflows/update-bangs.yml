@@ -42,7 +42,7 @@ jobs:
           echo "branch=$BRANCH" >> $GITHUB_OUTPUT
 
           git checkout -b "$BRANCH"
-          git add src/bangs.ts
+          git add src/bang.ts
 
           if git diff --cached --quiet; then
             echo "No changes detected."
@@ -57,5 +57,5 @@ jobs:
         with:
           branch: ${{ steps.commit.outputs.branch }}
           title: "Daily Bangs Update"
-          body: "Automated merge of DDG + Kagi bangs into src/bangs.ts"
+          body: "Automated merge of DDG + Kagi bangs into src/bang.ts"
           base: main
