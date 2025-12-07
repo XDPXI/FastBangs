@@ -6,7 +6,7 @@ const kagiRaw = JSON.parse(fs.readFileSync("kagi_bangs.json", "utf8"));
 
 // Normalize DDG bangs -> your format, skip entries without URL
 const ddg = ddgRaw
-    .filter(b => b.url) // only keep entries that have a URL
+    .filter(b => b.url) // only keep entries with URL
     .map(b => ({
         c: b.category || "Search",
         d: b.domain || "",
@@ -17,17 +17,17 @@ const ddg = ddgRaw
         u: b.url.replace("{{{s}}}", "{{{s}}}")
     }));
 
-// Normalize Kagi bangs, skip entries without URL template
-const kagi = kagiRaw.items
-    .filter(b => b.url_template)
+// Normalize Kagi bangs -> your format, skip entries without URL
+const kagi = kagiRaw
+    .filter(b => b.u) // only keep entries with URL
     .map(b => ({
-        c: b.category || "Search",
-        d: b.domain || "",
+        c: b.c || "Search",
+        d: b.d || "",
         r: 0,
-        s: b.name,
-        sc: "Search Engine",
-        t: b.shortcut,
-        u: b.url_template.replace("{query}", "{{{s}}}")
+        s: b.s,
+        sc: b.sc || "Search Engine",
+        t: b.t,
+        u: b.u.replace("{query}", "{{{s}}}")
     }));
 
 // Load existing bangs to preserve custom ones
