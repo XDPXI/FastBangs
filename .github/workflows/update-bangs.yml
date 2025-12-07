@@ -1,0 +1,57 @@
+name: Update Bangs
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-bangs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install deps
+        run: npm install
+
+      - name: Fetch DDG bangs
+        run: |
+          curl -s https://duckduckgo.com/bang.js > ddg_bangs.json
+
+      - name: Fetch Kagi bangs
+        run: |
+          curl -s https://kagi.com/api/v0/bangs > kagi_bangs.json
+
+      - name: Merge bangs into src/bangs.ts
+        run: |
+          node scripts/merge-bangs.js
+
+      - name: Create new branch
+        run: |
+          BRANCH="update-bangs-$(date +%Y%m%d)"
+          git checkout -b "$BRANCH"
+          git add src/bangs.ts
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+          git commit -m "Daily bang update"
+          git push origin "$BRANCH"
+
+      - name: Open PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: ${{ github.ref_name }}
+          title: "Daily Bangs Update"
+          body: "Automated merge of DDG + Kagi bangs into src/bangs.ts"
+          base: main
