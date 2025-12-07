@@ -33,7 +33,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/kagisearch/bangs/refs/heads/main/data/bangs.json > kagi_bangs.json
 
       - name: Merge bangs into src/bangs.ts
-        run: bun run scripts/merge-bangs.js
+        run: bun run merge-bangs.js
 
       - name: Create new branch and commit changes
         id: commit
