@@ -1,4 +1,4 @@
-name: Update Bangs and Packages
+name: Daily Update of Bangs and Packages
 
 on:
   schedule:
@@ -40,33 +40,13 @@ jobs:
 
       - name: Clean up fetched bang files
         run: rm -f ddg_bangs.json kagi_bangs.json
-
-      - name: Configure git identity
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Create new branch and commit changes
-        id: commit
-        run: |
-          BRANCH="update-bangs-$(date +%Y%m%d)"
-          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
-
-          git checkout -b "$BRANCH"
-          git add src/bang.ts
-
-          if git diff --cached --quiet; then
-            echo "No changes detected."
-            exit 0
-          fi
-
-          git commit -m "Daily Bang and Package Update"
-          git push origin "$BRANCH"
-
       - name: Open PR
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: ${{ steps.commit.outputs.branch }}
-          title: "Daily Bang and Package Update"
+          commit-message: "Daily Update of Bangs and Packages"
+          branch: update-bangs
+          title: "Daily Update of Bangs and Packages"
           body: "Automated update of DuckDuckGo and Kagi bangs and bun packages."
           base: main
+          add-paths: |
+            src/bang.ts
