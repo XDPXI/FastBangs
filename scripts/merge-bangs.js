@@ -4,15 +4,17 @@ const ddgRaw = JSON.parse(fs.readFileSync("ddg_bangs.json", "utf8"));
 const kagiRaw = JSON.parse(fs.readFileSync("kagi_bangs.json", "utf8"));
 
 // Normalize DDG bangs -> your format
-const ddg = ddgRaw.map(b => ({
-    c: b.category || "Search",
-    d: b.domain || "",
-    r: 0,
-    s: b.name || b.t,
-    sc: "Search Engine",
-    t: b.t,
-    u: b.url.replace("{{{s}}}", "{{{s}}}")
-}));
+const ddg = ddgRaw
+    .filter(b => b.url) // only keep entries that have a URL
+    .map(b => ({
+        c: b.category || "Search",
+        d: b.domain || "",
+        r: 0,
+        s: b.name || b.t,
+        sc: "Search Engine",
+        t: b.t,
+        u: b.url.replace("{{{s}}}", "{{{s}}}")
+    }));
 
 // Normalize Kagi bangs
 const kagi = kagiRaw.items.map(b => ({
