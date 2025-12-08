@@ -19,6 +19,14 @@ of DuckDuckGo's bangs to work, but much faster.
 
 ---
 
+## See it in action
+
+[![Unduck - Making DuckDuckGo Bangs Faster](https://img.youtube.com/vi/_DnNzRaBWUU/0.jpg)](https://www.youtube.com/watch?v=_DnNzRaBWUU)
+
+Click to watch how it works and why I built it
+
+---
+
 ## How is it that much faster?
 
 DuckDuckGo does their redirects server side. Their DNS is...not always great. Result is that it often takes ages.
