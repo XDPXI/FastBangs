@@ -57426,7 +57426,7 @@ export const bangs = [
         "s": "namuwiki",
         "sc": "Reference",
         "t": "namu",
-        "u": "https://namu.wiki/Search?q={{{s}}}"
+        "u": "https://namu.wiki/Go?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -65044,12 +65044,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "secure.php.net",
+        "d": "www.php.net",
         "r": 0,
         "s": "PHP.net",
         "sc": "Languages (php)",
         "t": "phpnet",
-        "u": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}"
+        "u": "https://www.php.net/manual-lookup.php?pattern={{{s}}}"
     },
     {
         "c": "Shopping",
