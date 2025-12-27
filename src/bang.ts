@@ -444,10 +444,10 @@ export const bangs = [
         "c": "Online Services",
         "d": "2gis.ru",
         "r": 0,
-        "s": "2gis.ru",
+        "s": "2GIS",
         "sc": "Maps",
         "t": "2gis",
-        "u": "https://2gis.ru/moscow/search/{{{s}}}"
+        "u": "https://2gis.ru/search/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -3624,7 +3624,7 @@ export const bangs = [
         "s": "Amazon.com order history",
         "sc": "Online",
         "t": "amazonorders",
-        "u": "https://www.amazon.com/gp/your-account/order-history?opt=ab&search={{{s}}}"
+        "u": "https://www.amazon.com/your-orders/search?opt=ab&search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -6871,9 +6871,9 @@ export const bangs = [
         "d": "www.avito.ru",
         "r": 0,
         "s": "Avito",
-        "sc": "Online (deals)",
+        "sc": "Online (marketplace)",
         "t": "avito",
-        "u": "https://www.avito.ru/rossiya?q={{{s}}}"
+        "u": "https://www.avito.ru/?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -13956,7 +13956,7 @@ export const bangs = [
         "s": "ChatGPT",
         "sc": "AI Chatbots",
         "t": "chatgpt",
-        "u": "https://chatgpt.com/?q={{{s}}}"
+        "u": "https://chatgpt.com/?prompt={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -57027,7 +57027,7 @@ export const bangs = [
         "c": "Shopping",
         "d": "market.yandex.ru",
         "r": 0,
-        "s": "market.yandex.ru",
+        "s": "Yandex Market",
         "sc": "Online (marketplace)",
         "t": "mya",
         "u": "https://market.yandex.ru/search?text={{{s}}}"
@@ -63129,10 +63129,10 @@ export const bangs = [
         "c": "Shopping",
         "d": "www.ozon.ru",
         "r": 0,
-        "s": "OZON.ru",
+        "s": "OZON",
         "sc": "Online",
         "t": "ozon",
-        "u": "http://www.ozon.ru/?context=search&text={{{s}}}"
+        "u": "https://www.ozon.ru/search/?text={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -94017,7 +94017,7 @@ export const bangs = [
         "c": "Multimedia",
         "d": "music.yandex.ru",
         "r": 0,
-        "s": "Yandex Music (ru)",
+        "s": "Yandex Music",
         "sc": "Music",
         "t": "yamusic",
         "u": "https://music.yandex.ru/search?text={{{s}}}"
@@ -94033,12 +94033,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "maps.yandex.ru",
+        "d": "yandex.ru",
         "r": 0,
         "s": "Yandex Maps",
         "sc": "Maps",
         "t": "yandexmaps",
-        "u": "https://maps.yandex.ru/?text={{{s}}}"
+        "u": "https://yandex.ru/maps/?text={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -94078,12 +94078,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "www.yandex.com",
+        "d": "yandex.com",
         "r": 0,
-        "s": "yandex.com",
-        "sc": "Search (Private)",
+        "s": "Yandex (en)",
+        "sc": "Search",
         "t": "yan",
-        "u": "https://www.yandex.com/?q={{{s}}}"
+        "u": "https://yandex.com/search?text={{{s}}}"
     },
     {
         "c": "Tech",
@@ -94125,8 +94125,8 @@ export const bangs = [
         "c": "Online Services",
         "d": "translate.yandex.com",
         "r": 0,
-        "s": "Yandex Translate",
-        "sc": "Search",
+        "s": "Yandex Translate (en)",
+        "sc": "Tools",
         "t": "yat",
         "u": "https://translate.yandex.com/?text={{{s}}}"
     },
@@ -94155,7 +94155,7 @@ export const bangs = [
         "s": "Yandex",
         "sc": "Search (non-US)",
         "t": "ya",
-        "u": "https://yandex.ru/search/?text={{{s}}}"
+        "u": "https://yandex.ru/search?text={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -94926,7 +94926,7 @@ export const bangs = [
         "c": "Online Services",
         "d": "translate.yandex.ru",
         "r": 0,
-        "s": "Yandex.Translate",
+        "s": "Yandex Translate",
         "sc": "Tools",
         "t": "ytr",
         "u": "https://translate.yandex.ru/?text={{{s}}}"
@@ -98206,5 +98206,59 @@ export const bangs = [
         "sc": "Online",
         "t": "libro",
         "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "home-manager-options.extranix.com",
+        "r": 0,
+        "s": "Home Manager - Option Search",
+        "sc": "Sysadmin",
+        "t": "hmo",
+        "u": "https://home-manager-options.extranix.com/?query={{{s}}}&release=master"
+    },
+    {
+        "c": "Online Services",
+        "d": "gemini.google.com",
+        "r": 0,
+        "s": "Gemini",
+        "sc": "AI Chatbots",
+        "t": "gemini",
+        "u": "https://gemini.google.com/?prompt_text={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "grokipedia.com",
+        "r": 0,
+        "s": "Grokipedia",
+        "sc": "Reference",
+        "t": "grokipedia",
+        "u": "https://grokipedia.com/search?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "yandex.com",
+        "r": 0,
+        "s": "Yandex Images (en)",
+        "sc": "Search (non-US)",
+        "t": "ymg",
+        "u": "https://yandex.com/images/search?text={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "pypi.org",
+        "r": 0,
+        "s": "PyPI",
+        "sc": "Languages (python)",
+        "t": "pypi",
+        "u": "https://pypi.org/search/?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "yandex.ru",
+        "r": 0,
+        "s": "Yandex Images",
+        "sc": "Search (non-US)",
+        "t": "yai",
+        "u": "https://yandex.ru/images/search?text={{{s}}}"
     }
 ];
