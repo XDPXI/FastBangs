@@ -75993,7 +75993,7 @@ export const bangs = [
         "s": "Scikit-Learn (Kagi Search)",
         "sc": "Academic (math/cs)",
         "t": "sklearn",
-        "u": "/search?q={{{s}}}+site:http://scikit-learn.org/stable/modules/generated/"
+        "u": "/search?q={{{s}}}+site:https://scikit-learn.org/stable/"
     },
     {
         "c": "Shopping",
