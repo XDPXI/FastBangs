@@ -16417,12 +16417,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "bing.com",
+        "d": "copilot.microsoft.com",
         "r": 0,
         "s": "Microsoft Copilot",
         "sc": "Tools",
         "t": "copilot",
-        "u": "https://bing.com/chat?q={{{s}}}&sendquery=1"
+        "u": "https://copilot.microsoft.com/?q={{{s}}}&bypassredir=1"
     },
     {
         "c": "Entertainment",
