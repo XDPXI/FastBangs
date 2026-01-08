@@ -98260,5 +98260,14 @@ export const bangs = [
         "sc": "Search (non-US)",
         "t": "yai",
         "u": "https://yandex.ru/images/search?text={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "wiki.leagueoflegends.com",
+        "r": 0,
+        "s": "League of Legends Wiki",
+        "sc": "Games (specific)",
+        "t": "lolw",
+        "u": "https://wiki.leagueoflegends.com/en-us/?search={{{s}}}"
     }
 ];
