@@ -6,7 +6,7 @@ export const bangs = [
         "s": "Fiverr",
         "sc": "Jobs",
         "t": "5",
-        "u": "http://fiverr.com/gigs/search?query={{{s}}}"
+        "u": "https://fiverr.com/gigs/search?query={{{s}}}"
     },
     {
         "c": "News",
@@ -132,7 +132,7 @@ export const bangs = [
         "s": "800notes.com",
         "sc": "Search",
         "t": "800",
-        "u": "http://800notes.com/Phone.aspx/{{{s}}}"
+        "u": "https://800notes.com/Phone.aspx/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -645,7 +645,7 @@ export const bangs = [
         "s": "4chan /b/",
         "sc": "Forum",
         "t": "4_b",
-        "u": "http://boards.4chan.org/b/catalog#s={{{s}}}"
+        "u": "https://boards.4chan.org/b/catalog#s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -690,7 +690,7 @@ export const bangs = [
         "s": "4chan Boards",
         "sc": "Misc",
         "t": "4chanb",
-        "u": "http://4chan.org/b/{{{s}}}"
+        "u": "https://4chan.org/b/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -789,7 +789,7 @@ export const bangs = [
         "s": "4chan, /vg/",
         "sc": "Games (general)",
         "t": "4cvg",
-        "u": "http://boards.4chan.org/vg/catalog#s={{{s}}}"
+        "u": "https://boards.4chan.org/vg/catalog#s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -798,7 +798,7 @@ export const bangs = [
         "s": "4chan - /g/ - Technology",
         "sc": "Blogs",
         "t": "4g",
-        "u": "http://4chan.org/g/{{{s}}}"
+        "u": "https://4chan.org/g/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -816,7 +816,7 @@ export const bangs = [
         "s": "4pda",
         "sc": "Forum",
         "t": "4pda",
-        "u": "http://4pda.to/forum/index.php?act=search&source=all&forums[]=all&query={{{s}}}&x=0&y=0"
+        "u": "https://4pda.to/forum/index.php?act=search&source=all&forums[]=all&query={{{s}}}&x=0&y=0"
     },
     {
         "c": "Entertainment",
@@ -1500,7 +1500,7 @@ export const bangs = [
         "s": "AllBookstores",
         "sc": "Online (deals)",
         "t": "abs",
-        "u": "http://www.allbookstores.com/search?q={{{s}}}"
+        "u": "https://www.allbookstores.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -1527,7 +1527,7 @@ export const bangs = [
         "s": "Wallpaper Abyss",
         "sc": "Images",
         "t": "abyss",
-        "u": "http://wall.alphacoders.com/search.php?search={{{s}}}"
+        "u": "https://wall.alphacoders.com/search.php?search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -1617,7 +1617,7 @@ export const bangs = [
         "s": "AccuWeather",
         "sc": "Weather",
         "t": "accuweather",
-        "u": "http://www.accuweather.com/us-city-list.asp?zipcode={{{s}}}"
+        "u": "https://www.accuweather.com/us-city-list.asp?zipcode={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -1779,7 +1779,7 @@ export const bangs = [
         "s": "ACS Publications",
         "sc": "Academic",
         "t": "acs",
-        "u": "http://pubs.acs.org/action/doSearch?AllField={{{s}}}"
+        "u": "https://pubs.acs.org/action/doSearch?AllField={{{s}}}"
     },
     {
         "c": "Research",
@@ -1828,12 +1828,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "www.ada-auth.org",
+        "d": "kagi.com",
         "r": 0,
         "s": "Ada 2005 Manual",
         "sc": "Academic",
         "t": "ada",
-        "u": "http://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN="
+        "u": "/search?q=site%3Awww.ada-auth.org+{{{s}}}"
     },
     {
         "c": "Tech",
@@ -1923,7 +1923,7 @@ export const bangs = [
         "s": "PrestaShop Addons",
         "sc": "Downloads (add-ons)",
         "t": "addons",
-        "u": "http://addons.prestashop.com/fr/recherche?search_query={{{s}}}"
+        "u": "https://addons.prestashop.com/fr/recherche?search_query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -1995,16 +1995,16 @@ export const bangs = [
         "s": "adidas",
         "sc": "Online",
         "t": "adidas",
-        "u": "http://www.adidas.fr/search?q={{{s}}}"
+        "u": "https://www.adidas.fr/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
-        "d": "adjective1.com",
+        "d": "kagi.com",
         "r": 0,
         "s": "Adjective1",
         "sc": "General",
         "t": "adjective",
-        "u": "http://adjective1.com/?s={{{s}}}"
+        "u": "/search?q=site%3Aadjective1.com+{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -2067,7 +2067,7 @@ export const bangs = [
         "s": "Adobe",
         "sc": "Companies",
         "t": "adobe",
-        "u": "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term={{{s}}}"
+        "u": "https://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term={{{s}}}"
     },
     {
         "c": "Tech",
@@ -2184,7 +2184,7 @@ export const bangs = [
         "s": "Adverts.ie",
         "sc": "Online (intl)",
         "t": "adverts",
-        "u": "http://www.adverts.ie/for-sale/q_{{{s}}}/"
+        "u": "https://www.adverts.ie/for-sale/q_{{{s}}}/"
     },
     {
         "c": "Online Services",
@@ -2256,7 +2256,7 @@ export const bangs = [
         "s": "AE7Q Amateur Extra Query Tools",
         "sc": "Tools",
         "t": "aeq",
-        "u": "http://ae7q.com/query/data/CallHistory.php?CALL={{{s}}}"
+        "u": "https://ae7q.com/query/data/CallHistory.php?CALL={{{s}}}"
     },
     {
         "c": "Tech",
@@ -2418,7 +2418,7 @@ export const bangs = [
         "s": "Android Geeks",
         "sc": "Blogs",
         "t": "ag",
-        "u": "http://www.android.gs/?s=&q={{{s}}}"
+        "u": "https://www.android.gs/?s=&q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -2557,12 +2557,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "www.arkhamhorrorwiki.com",
+        "d": "kagi.com",
         "r": 0,
         "s": "Arkham Horror Wiki",
         "sc": "Games (specific)",
         "t": "ahw",
-        "u": "http://www.arkhamhorrorwiki.com/wiki/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "/search?q=site%3Aarkhamhorrorwiki.com+{{{s}}}"
     },
     {
         "c": "News",
@@ -2679,7 +2679,7 @@ export const bangs = [
         "s": "Aircraft Registration Database Lookup",
         "sc": "Reference",
         "t": "airframes",
-        "u": "http://www.airframes.org/reg/{{{s}}}"
+        "u": "https://www.airframes.org/reg/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -2733,7 +2733,7 @@ export const bangs = [
         "s": "archive.is",
         "sc": "Tools (URLs)",
         "t": "ais",
-        "u": "http://archive.is/{{{s}}}"
+        "u": "https://archive.is/search/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -2805,7 +2805,7 @@ export const bangs = [
         "s": "Akakçe",
         "sc": "Online (deals)",
         "t": "akakce",
-        "u": "http://www.akakce.com/arama/?q={{{s}}}"
+        "u": "https://www.akakce.com/arama/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -3102,7 +3102,7 @@ export const bangs = [
         "s": "alibris",
         "sc": "Online",
         "t": "alibris",
-        "u": "http://www.alibris.com/booksearch?keyword={{{s}}}"
+        "u": "https://www.alibris.com/booksearch?keyword={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -3336,7 +3336,7 @@ export const bangs = [
         "s": "almaany",
         "sc": "Reference (words)",
         "t": "almaanyar",
-        "u": "http://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
+        "u": "https://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
     },
     {
         "c": "Research",
@@ -3345,7 +3345,7 @@ export const bangs = [
         "s": "Almaany",
         "sc": "Reference",
         "t": "almaanyen",
-        "u": "http://www.almaany.com/ar/dict/ar-en/{{{s}}}/"
+        "u": "https://www.almaany.com/ar/dict/ar-en/{{{s}}}/"
     },
     {
         "c": "Research",
@@ -3664,12 +3664,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "search.amd.com",
+        "d": "www.amd.com",
         "r": 0,
         "s": "AMD",
         "sc": "Companies",
         "t": "amd",
-        "u": "http://search.amd.com/en-us/Pages/results-all.aspx?k={{{s}}}"
+        "u": "https://www.amd.com/en/search/site-search.html#q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -3745,12 +3745,12 @@ export const bangs = [
     },
     {
         "c": "Shopping",
-        "d": "slist.amiami.com",
+        "d": "www.amiami.com",
         "r": 0,
         "s": "Amiami",
         "sc": "Online",
         "t": "amiami",
-        "u": "http://slist.amiami.com/top/search/list?s_keywords={{{s}}}"
+        "u": "https://www.amiami.com/eng/search/list/?s_keywords={{{s}}}"
     },
     {
         "c": "Tech",
@@ -3966,7 +3966,7 @@ export const bangs = [
         "s": "Anarchopedia",
         "sc": "Reference",
         "t": "anarchopedia",
-        "u": "http://anarchopedia.org/Special:Search?search={{{s}}}"
+        "u": "https://anarchopedia.org/Special:Search?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -57669,7 +57669,7 @@ export const bangs = [
         "s": "NAVER",
         "sc": "Search (non-US)",
         "t": "nv",
-        "u": "https://search.naver.com/search.naver?query={{{s}}}):"
+        "u": "https://search.naver.com/search.naver?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -98269,5 +98269,59 @@ export const bangs = [
         "sc": "Games (specific)",
         "t": "lolw",
         "u": "https://wiki.leagueoflegends.com/en-us/?search={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "alternativeto.net",
+        "r": 0,
+        "s": "AlternativeTo.net",
+        "sc": "Downloads (software)",
+        "t": "alto",
+        "u": "https://alternativeto.net/browse/search/?q={{{s}}}"
+    },
+    {
+        "c": "Multimedia",
+        "d": "www.abandonedtimes.com",
+        "r": 0,
+        "s": "Abandoned Times (fka Abandonia)",
+        "sc": "Games (general)",
+        "t": "abtimes",
+        "u": "https://www.abandonedtimes.com/?s={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "aretronics.com",
+        "r": 0,
+        "s": "Aretronics (fka All Electronics)",
+        "sc": "Tech",
+        "t": "aretronics",
+        "u": "https://aretronics.com/search?type=product&q={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "us.rs-online.com",
+        "r": 0,
+        "s": "RS (fka Allied Electronics)",
+        "sc": "Tech",
+        "t": "rselec",
+        "u": "https://us.rs-online.com/catalogsearch/result/?q={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "jpdb.io",
+        "r": 0,
+        "s": "jpdb japanese dictionary",
+        "sc": "Learning",
+        "t": "jpdb",
+        "u": "https://jpdb.io/search?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "nitter.net",
+        "r": 0,
+        "s": "Nitter (alternative Twitter front-end)",
+        "sc": "Social",
+        "t": "nitter",
+        "u": "https://nitter.net/search?f=tweets&q={{{s}}}"
     }
 ];
