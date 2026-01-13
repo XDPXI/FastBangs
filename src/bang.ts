@@ -98323,5 +98323,14 @@ export const bangs = [
         "sc": "Social",
         "t": "nitter",
         "u": "https://nitter.net/search?f=tweets&q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "umamusu.wiki",
+        "r": 0,
+        "s": "Umamusume Wiki",
+        "sc": "Games (specific)",
+        "t": "uma",
+        "u": "https://umamusu.wiki/w/index.php?search={{{s}}}"
     }
 ];
