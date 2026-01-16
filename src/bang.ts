@@ -36573,7 +36573,7 @@ export const bangs = [
         "s": "Google Shopping",
         "sc": "Google",
         "t": "gs",
-        "u": "https://www.google.com/products?q={{{s}}}&tab=pf"
+        "u": "https://www.google.com/search?q={{{s}}}&udm=28"
     },
     {
         "c": "Online Services",
