@@ -45865,12 +45865,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "kateglo.com",
+        "d": "kateglo.lostfocus.org",
         "r": 0,
         "s": "Kateglo",
         "sc": "Reference (words intl)",
         "t": "kateglo",
-        "u": "http://kateglo.com/?phrase={{{s}}}&mod=dictionary"
+        "u": "http://kateglo.lostfocus.org/?phrase={{{s}}}&mod=dictionary"
     },
     {
         "c": "Shopping",
@@ -45883,12 +45883,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "kbbi.kemdikbud.go.id",
+        "d": "kbbi.kemendikdasmen.go.id",
         "r": 0,
         "s": "Kamus Besar Bahasa Indonesia",
         "sc": "Reference",
         "t": "kbbi",
-        "u": "https://kbbi.kemdikbud.go.id/entri/{{{s}}}"
+        "u": "https://kbbi.kemendikdasmen.go.id/entri/{{{s}}}"
     },
     {
         "c": "Shopping",
