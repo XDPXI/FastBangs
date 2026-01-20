@@ -4092,7 +4092,7 @@ export const bangs = [
         "s": "Angelhalo Wiki",
         "sc": "Reference",
         "t": "angelhalowiki",
-        "u": "http://www.rigvedawiki.net/r1/wiki.php/{{{s}}}"
+        "u": "https://www.rigvedawiki.net/r1/wiki.php/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -4137,7 +4137,7 @@ export const bangs = [
         "s": "Angus Libraries Catalogue",
         "sc": "Reference",
         "t": "anguscatalogue",
-        "u": "http://library.angus.gov.uk/ipac20/ipac.jsp?session=138BN7L458484.310312&menu=search&aspect=subtab184&npp=10&ipp=20&spp=20&profile=ang--7&ri=&term={{{s}}}&index=.AW&x=-354&y=-218&aspect=subtab184&term=&index=.TW&term=&index=.SE&term=&index=.SW&term=&index=BSTLLR&sort="
+        "u": "https://library.angus.gov.uk/ipac20/ipac.jsp?session=138BN7L458484.310312&menu=search&aspect=subtab184&npp=10&ipp=20&spp=20&profile=ang--7&ri=&term={{{s}}}&index=.AW&x=-354&y=-218&aspect=subtab184&term=&index=.TW&term=&index=.SE&term=&index=.SW&term=&index=BSTLLR&sort="
     },
     {
         "c": "Entertainment",
@@ -4290,7 +4290,7 @@ export const bangs = [
         "s": "App Annie",
         "sc": "Tracking",
         "t": "annie",
-        "u": "http://www.appannie.com/search/?q={{{s}}}"
+        "u": "https://www.appannie.com/search/?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -4308,7 +4308,7 @@ export const bangs = [
         "s": "Anoik.is",
         "sc": "Games (specific)",
         "t": "anoikis",
-        "u": "http://anoik.is/systems/{{{s}}}"
+        "u": "https://anoik.is/systems/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -4434,7 +4434,7 @@ export const bangs = [
         "s": "The Australian National University Library",
         "sc": "Academic",
         "t": "anulib",
-        "u": "http://anu.summon.serialssolutions.com/search?q={{{s}}}"
+        "u": "https://anu.summon.serialssolutions.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -4542,7 +4542,7 @@ export const bangs = [
         "s": "AoWoW VanillaGaming",
         "sc": "Games (WOW)",
         "t": "aowow",
-        "u": "http://db.vanillagaming.org/?search={{{s}}}"
+        "u": "https://db.vanillagaming.org/?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -4551,7 +4551,7 @@ export const bangs = [
         "s": "APA Style",
         "sc": "Reference (science)",
         "t": "apa",
-        "u": "http://apastyle.org/search.aspx?query={{{s}}}"
+        "u": "https://apastyle.org/search.aspx?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -4785,7 +4785,7 @@ export const bangs = [
         "s": "APMEX",
         "sc": "Online",
         "t": "apmex",
-        "u": "http://www.apmex.com/search?q={{{s}}}"
+        "u": "https://www.apmex.com/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -4848,7 +4848,7 @@ export const bangs = [
         "s": "Appcelerator API Docs",
         "sc": "Languages (other)",
         "t": "appcel",
-        "u": "http://developer.appcelerator.com/apidoc/search/mobile/latest?q={{{s}}}"
+        "u": "https://developer.appcelerator.com/apidoc/search/mobile/latest?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -4965,7 +4965,7 @@ export const bangs = [
         "s": "Apple Realty",
         "sc": "Real Estate",
         "t": "applerealty",
-        "u": "http://applesold.com/search?q={{{s}}}"
+        "u": "https://applesold.com/search?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -5001,7 +5001,7 @@ export const bangs = [
         "s": "appnr",
         "sc": "Downloads",
         "t": "appnr",
-        "u": "http://appnr.com/search/{{{s}}}"
+        "u": "https://appnr.com/search/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -5181,7 +5181,7 @@ export const bangs = [
         "s": "Arab News",
         "sc": "Newspaper (intl)",
         "t": "arabnews",
-        "u": "http://www.arabnews.com/search/google/{{{s}}}"
+        "u": "https://www.arabnews.com/search/google/{{{s}}}"
     },
     {
         "c": "News",
@@ -5541,7 +5541,7 @@ export const bangs = [
         "s": "Area51",
         "sc": "Reference",
         "t": "area51",
-        "u": "http://discuss.area51.stackexchange.com/search?q={{{s}}}"
+        "u": "https://discuss.area51.stackexchange.com/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -5586,7 +5586,7 @@ export const bangs = [
         "s": "ÁrGép",
         "sc": "Search (non-US)",
         "t": "argep",
-        "u": "http://www.argep.hu/main.aspx?suche={{{s}}}&x=0&y=0"
+        "u": "https://www.argep.hu/main.aspx?suche={{{s}}}&x=0&y=0"
     },
     {
         "c": "Shopping",
@@ -5595,7 +5595,7 @@ export const bangs = [
         "s": "Argos UK",
         "sc": "Online",
         "t": "argos",
-        "u": "http://www.argos.co.uk/search/{{{s}}}"
+        "u": "https://www.argos.co.uk/search/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -5604,7 +5604,7 @@ export const bangs = [
         "s": "Argos Ireland",
         "sc": "Big box/department",
         "t": "argosie",
-        "u": "http://www.argos.ie/webapp/wcs/stores/servlet/Search?storeId=10152&catalogId=14551&langId=111&searchTerms={{{s}}}"
+        "u": "https://www.argos.ie/webapp/wcs/stores/servlet/Search?storeId=10152&catalogId=14551&langId=111&searchTerms={{{s}}}"
     },
     {
         "c": "Research",
@@ -5667,7 +5667,7 @@ export const bangs = [
         "s": "The Ayn Rand Lexicon",
         "sc": "Reference",
         "t": "arl",
-        "u": "http://aynrandlexicon.com/searchresults/index.html?q={{{s}}}"
+        "u": "https://aynrandlexicon.com/searchresults/index.html?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -5676,7 +5676,7 @@ export const bangs = [
         "s": "Armadeus Project",
         "sc": "Programming",
         "t": "armadeus",
-        "u": "http://www.armadeus.com/wiki/index.php?search={{{s}}}"
+        "u": "https://www.armadeus.com/wiki/index.php?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -5730,7 +5730,7 @@ export const bangs = [
         "s": "GamerEscape",
         "sc": "Games (specific)",
         "t": "arr",
-        "u": "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
+        "u": "https://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -5829,7 +5829,7 @@ export const bangs = [
         "s": "artcyclopedia.com (artists)",
         "sc": "Misc",
         "t": "artist",
-        "u": "http://www.artcyclopedia.com/scripts/tsearch.pl?type=1&t={{{s}}}"
+        "u": "https://www.artcyclopedia.com/scripts/tsearch.pl?type=1&t={{{s}}}"
     },
     {
         "c": "Research",
@@ -5865,7 +5865,7 @@ export const bangs = [
         "s": "artcyclopedia.com",
         "sc": "Misc",
         "t": "artwork",
-        "u": "http://www.artcyclopedia.com/scripts/tsearch.pl?t={{{s}}}&type=2"
+        "u": "https://www.artcyclopedia.com/scripts/tsearch.pl?t={{{s}}}&type=2"
     },
     {
         "c": "Shopping",
@@ -6009,7 +6009,7 @@ export const bangs = [
         "s": "AsianWiki",
         "sc": "Movies",
         "t": "asianwiki",
-        "u": "http://asianwiki.com/index.php?title=Special:Search&search={{{s}}}&fulltext=Search"
+        "u": "https://asianwiki.com/index.php?title=Special:Search&search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Research",
@@ -6036,7 +6036,7 @@ export const bangs = [
         "s": "asics",
         "sc": "Online (marketplace)",
         "t": "asics",
-        "u": "http://www.asics.com/us/en-us/search?text={{{s}}}"
+        "u": "https://www.asics.com/us/en-us/search?text={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -6225,7 +6225,7 @@ export const bangs = [
         "s": "Addictive Tips",
         "sc": "Blogs",
         "t": "addtips",
-        "u": "http://www.addictivetips.com/archives/search/?q={{{s}}}"
+        "u": "https://www.addictivetips.com/archives/search/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -6252,7 +6252,7 @@ export const bangs = [
         "s": "allthingsd",
         "sc": "Specialty",
         "t": "atd",
-        "u": "http://allthingsd.com/?s={{{s}}}:"
+        "u": "https://allthingsd.com/?s={{{s}}}:"
     },
     {
         "c": "Online Services",
@@ -6333,7 +6333,7 @@ export const bangs = [
         "s": "Atlas piv",
         "sc": "Food",
         "t": "atlaspiv",
-        "u": "http://www.atlaspiv.cz/?beername={{{s}}}"
+        "u": "https://www.atlaspiv.cz/?beername={{{s}}}"
     },
     {
         "c": "Research",
@@ -6405,7 +6405,7 @@ export const bangs = [
         "s": "ATP World Tour",
         "sc": "Sports",
         "t": "atp",
-        "u": "http://www.atpworldtour.com/Search/Site.aspx?q={{{s}}}"
+        "u": "https://www.atpworldtour.com/Search/Site.aspx?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -6585,7 +6585,7 @@ export const bangs = [
         "s": "Audubon Magazine",
         "sc": "Topical",
         "t": "audubonmag",
-        "u": "http://www.audubonmagazine.org/search/node?keys={{{s}}}"
+        "u": "https://www.audubonmagazine.org/search/node?keys={{{s}}}"
     },
     {
         "c": "Research",
@@ -6711,7 +6711,7 @@ export const bangs = [
         "s": "Autoblip",
         "sc": "Online (deals)",
         "t": "autoblip",
-        "u": "http://www.autoblip.com/used/{{{s}}}"
+        "u": "https://www.autoblip.com/used/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -6756,7 +6756,7 @@ export const bangs = [
         "s": "AutoZone",
         "sc": "Big box/department",
         "t": "autozone",
-        "u": "http://www.autozone.com/searchresult?searchText={{{s}}}"
+        "u": "https://www.autozone.com/searchresult?searchText={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -6792,7 +6792,7 @@ export const bangs = [
         "s": "Avatar Press",
         "sc": "Comics",
         "t": "avatarpress",
-        "u": "http://www.avatarpress.com/?s={{{s}}}"
+        "u": "https://www.avatarpress.com/?s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -6837,7 +6837,7 @@ export const bangs = [
         "s": "AVG Secure Search",
         "sc": "Search",
         "t": "avg",
-        "u": "http://search.avg.com/search?q={{{s}}}"
+        "u": "https://search.avg.com/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -6999,7 +6999,7 @@ export const bangs = [
         "s": "androidxref",
         "sc": "Libraries/Frameworks",
         "t": "ax",
-        "u": "http://androidxref.com/5.1.0_r1/search?q={{{s}}}"
+        "u": "https://androidxref.com/5.1.0_r1/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -7098,7 +7098,7 @@ export const bangs = [
         "s": "Biology4kids",
         "sc": "Academic (biology)",
         "t": "b4kids",
-        "u": "http://www.biology4kids.com/search.html?q={{{s}}}"
+        "u": "https://www.biology4kids.com/search.html?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -7125,7 +7125,7 @@ export const bangs = [
         "s": "Bab.la FR",
         "sc": "Reference (words)",
         "t": "bab",
-        "u": "http://www.babla.fr/anglais-francais/{{{s}}}"
+        "u": "https://www.babla.fr/anglais-francais/{{{s}}}"
     },
     {
         "c": "Translation",
@@ -7143,7 +7143,7 @@ export const bangs = [
         "s": "bab",
         "sc": "Tools",
         "t": "babdedk",
-        "u": "http://fr.bab.la/dictionnaire/danois-allemand/{{{s}}}"
+        "u": "https://fr.bab.la/dictionnaire/danois-allemand/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -7161,7 +7161,7 @@ export const bangs = [
         "s": "Bab.la NL",
         "sc": "Tools",
         "t": "babel",
-        "u": "http://nl.bab.la/woordenboek/nederlands-engels/{{{s}}}"
+        "u": "https://nl.bab.la/woordenboek/nederlands-engels/{{{s}}}"
     },
     {
         "c": "Research",
@@ -7170,7 +7170,7 @@ export const bangs = [
         "s": "BabelNet",
         "sc": "Reference (words)",
         "t": "babelnet",
-        "u": "http://babelnet.org/search?word={{{s}}}&lang=EN"
+        "u": "https://babelnet.org/search?word={{{s}}}&lang=EN"
     },
     {
         "c": "Research",
@@ -7179,7 +7179,7 @@ export const bangs = [
         "s": "en.bab.la/dictionary/english-german/",
         "sc": "Reference (words intl)",
         "t": "babende",
-        "u": "http://en.bab.la/dictionary/english-german/{{{s}}}"
+        "u": "https://en.bab.la/dictionary/english-german/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -7188,7 +7188,7 @@ export const bangs = [
         "s": "Bab.la English-Esperanto",
         "sc": "Tools",
         "t": "babeneo",
-        "u": "http://en.bab.la/dictionary/english-esperanto/{{{s}}}"
+        "u": "https://en.bab.la/dictionary/english-esperanto/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -7206,7 +7206,7 @@ export const bangs = [
         "s": "bab.la Spanish-German",
         "sc": "Tools",
         "t": "babesde",
-        "u": "http://de.bab.la/woerterbuch/spanisch-deutsch/{{{s}}}"
+        "u": "https://de.bab.la/woerterbuch/spanisch-deutsch/{{{s}}}"
     },
     {
         "c": "Translation",
@@ -7224,7 +7224,7 @@ export const bangs = [
         "s": "Bab.la",
         "sc": "Reference (words)",
         "t": "babpl",
-        "u": "http://pl.bab.la/slownik/angielski-polski/{{{s}}}"
+        "u": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -7242,7 +7242,7 @@ export const bangs = [
         "s": "bab.la",
         "sc": "Tools",
         "t": "babsv",
-        "u": "http://sv.bab.la/lexikon/engelsk-svensk/{{{s}}}"
+        "u": "https://sv.bab.la/lexikon/engelsk-svensk/{{{s}}}"
     },
     {
         "c": "Research",
@@ -7251,7 +7251,7 @@ export const bangs = [
         "s": "Babylon Translator <en-es>",
         "sc": "Reference (words intl)",
         "t": "babylonee",
-        "u": "http://traductor.babylon-software.com/ingles/a-espanol/{{{s}}}"
+        "u": "https://traductor.babylon-software.com/ingles/a-espanol/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -7413,7 +7413,7 @@ export const bangs = [
         "s": "Books-A-Million",
         "sc": "Online",
         "t": "bam",
-        "u": "http://www.booksamillion.com/search?query={{{s}}}"
+        "u": "https://www.booksamillion.com/search?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -7692,7 +7692,7 @@ export const bangs = [
         "s": "Bax-shop",
         "sc": "Online",
         "t": "bax",
-        "u": "http://www.bax-shop.nl/assortiment?keyword={{{s}}}&avz=true"
+        "u": "https://www.bax-shop.nl/assortiment?keyword={{{s}}}&avz=true"
     },
     {
         "c": "Entertainment",
@@ -7953,7 +7953,7 @@ export const bangs = [
         "s": "BBS Consultant",
         "sc": "Blogs",
         "t": "bbsfr",
-        "u": "http://www.bbs-consultant.net/search/node/{{{s}}}"
+        "u": "https://www.bbs-consultant.net/search/node/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -7989,7 +7989,7 @@ export const bangs = [
         "s": "Best Buy",
         "sc": "Big box/department",
         "t": "bbuy",
-        "u": "http://www.bestbuy.com/site/Brands/Apple/pcmcat128500050005.c?id=pcmcat128500050005&pageType=REDIRECT&issolr=1&searchterm={{{s}}}"
+        "u": "https://www.bestbuy.com/site/Brands/Apple/pcmcat128500050005.c?id=pcmcat128500050005&pageType=REDIRECT&issolr=1&searchterm={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -7998,7 +7998,7 @@ export const bangs = [
         "s": "Bestbuy",
         "sc": "Tech",
         "t": "bby",
-        "u": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
+        "u": "https://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
     },
     {
         "c": "Shopping",
@@ -8025,7 +8025,7 @@ export const bangs = [
         "s": "Blockchain",
         "sc": "Online (marketplace)",
         "t": "bc",
-        "u": "http://blockchain.info/search/{{{s}}}"
+        "u": "https://blockchain.info/search/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -8043,7 +8043,7 @@ export const bangs = [
         "s": "BCC",
         "sc": "Online",
         "t": "bcc",
-        "u": "http://www.bcc.nl/search?fh_location=//catalog01/nl_NL/channel>{m2ebcc2enl}&search={{{s}}}"
+        "u": "https://www.bcc.nl/search?fh_location=//catalog01/nl_NL/channel>{m2ebcc2enl}&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -8088,7 +8088,7 @@ export const bangs = [
         "s": "Brawl Custom Music",
         "sc": "Games (specific)",
         "t": "bcm",
-        "u": "http://www.brawlcustommusic.com/index.php?song={{{s}}}&submit=Search"
+        "u": "https://www.brawlcustommusic.com/index.php?song={{{s}}}&submit=Search"
     },
     {
         "c": "Entertainment",
@@ -8727,7 +8727,7 @@ export const bangs = [
         "s": "BestPrice",
         "sc": "Online (marketplace)",
         "t": "bestprice",
-        "u": "http://www.bestprice.gr/search?q={{{s}}}"
+        "u": "https://www.bestprice.gr/search?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -8736,7 +8736,7 @@ export const bangs = [
         "s": "BetaList",
         "sc": "Startups",
         "t": "betalist",
-        "u": "http://betalist.com/search?q={{{s}}}"
+        "u": "https://betalist.com/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -8979,7 +8979,7 @@ export const bangs = [
         "s": "Board Game Search (Australia)",
         "sc": "Online",
         "t": "bgs",
-        "u": "http://www.boardgamesearch.com.au/#!/search/{{{s}}}"
+        "u": "https://www.boardgamesearch.com.au/#!/search/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -9006,7 +9006,7 @@ export const bangs = [
         "s": "B&H Photo Video",
         "sc": "Big box/department",
         "t": "bh",
-        "u": "http://www.bhphotovideo.com/c/search?Ntt={{{s}}}"
+        "u": "https://www.bhphotovideo.com/c/search?Ntt={{{s}}}"
     },
     {
         "c": "Research",
@@ -9051,7 +9051,7 @@ export const bangs = [
         "s": "Bibliotheek Gent",
         "sc": "Books",
         "t": "bibgent",
-        "u": "http://zoeken.gent.bibliotheek.be/?q={{{s}}}"
+        "u": "https://zoeken.gent.bibliotheek.be/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -9438,7 +9438,7 @@ export const bangs = [
         "s": "Binny's Beverage Depot",
         "sc": "Online",
         "t": "binnys",
-        "u": "http://www.binnys.com/all/{{{s}}}"
+        "u": "https://www.binnys.com/all/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -9555,7 +9555,7 @@ export const bangs = [
         "s": "BookPrice",
         "sc": "Online",
         "t": "bisbn",
-        "u": "http://bookprice.co/isbn/{{{s}}}"
+        "u": "https://bookprice.co/isbn/{{{s}}}"
     },
     {
         "c": "Research",
@@ -9681,7 +9681,7 @@ export const bangs = [
         "s": "Biznar",
         "sc": "Search",
         "t": "biznar",
-        "u": "http://www.biznar.com/biznar/result-list/fullRecord:{{{s}}}"
+        "u": "https://www.biznar.com/biznar/result-list/fullRecord:{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -9717,7 +9717,7 @@ export const bangs = [
         "s": "BookAdda",
         "sc": "Online",
         "t": "bkadda",
-        "u": "http://www.bookadda.com/general-search?searchkey={{{s}}}"
+        "u": "https://www.bookadda.com/general-search?searchkey={{{s}}}"
     },
     {
         "c": "News",
@@ -9735,7 +9735,7 @@ export const bangs = [
         "s": "博客來",
         "sc": "Online (marketplace)",
         "t": "bkl",
-        "u": "http://search.books.com.tw/search/query/key/{{{s}}}/cat/all"
+        "u": "https://search.books.com.tw/search/query/key/{{{s}}}/cat/all"
     },
     {
         "c": "Research",
@@ -9762,7 +9762,7 @@ export const bangs = [
         "s": "BlackBook",
         "sc": "Blogs",
         "t": "blackbook",
-        "u": "http://www.blackbookmag.com/search/articles#keywords:{{{s}}}"
+        "u": "https://www.blackbookmag.com/search/articles#keywords:{{{s}}}"
     },
     {
         "c": "Tech",
@@ -9933,7 +9933,7 @@ export const bangs = [
         "s": "Blick am Abend",
         "sc": "Newspaper",
         "t": "blickaa",
-        "u": "http://www.blickamabend.ch/suche/?q={{{s}}}"
+        "u": "https://www.blickamabend.ch/suche/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -9978,7 +9978,7 @@ export const bangs = [
         "s": "British Library Explore Archives and Manuscripts",
         "sc": "Academic",
         "t": "blms",
-        "u": "http://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+        "u": "https://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
     },
     {
         "c": "Tech",
@@ -10023,7 +10023,7 @@ export const bangs = [
         "s": "BlogAnChoi",
         "sc": "Magazine",
         "t": "bloganchoi",
-        "u": "http://bloganchoi.com/?s={{{s}}}"
+        "u": "https://bloganchoi.com/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -10086,7 +10086,7 @@ export const bangs = [
         "s": "The British Library Catalogue",
         "sc": "Academic",
         "t": "bl",
-        "u": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+        "u": "https://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -10095,7 +10095,7 @@ export const bangs = [
         "s": "Blue Apron",
         "sc": "Online (marketplace)",
         "t": "blueapron",
-        "u": "http://blueapron.com/?q={{{s}}}"
+        "u": "https://blueapron.com/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -10140,7 +10140,7 @@ export const bangs = [
         "s": "Blox.pl",
         "sc": "Search (non-US)",
         "t": "blx",
-        "u": "http://www.blox.pl/html?page=blogPublicSearch&container_search={{{s}}}"
+        "u": "https://www.blox.pl/html?page=blogPublicSearch&container_search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -10230,7 +10230,7 @@ export const bangs = [
         "s": "BookMY Show",
         "sc": "Misc",
         "t": "bms",
-        "u": "http://in.bookmyshow.com/search/results/?_s=0.2&search={{{s}}}"
+        "u": "https://in.bookmyshow.com/search/results/?_s=0.2&search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -10365,7 +10365,7 @@ export const bangs = [
         "s": "bodeka.org",
         "sc": "Sports",
         "t": "bodeka",
-        "u": "http://bodeka.org/?s={{{s}}}"
+        "u": "https://bodeka.org/?s={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -10482,7 +10482,7 @@ export const bangs = [
         "s": "Bom Negócio",
         "sc": "Online (intl)",
         "t": "bomnegocio",
-        "u": "http://www.bomnegocio.com/brasil?q={{{s}}}"
+        "u": "https://www.bomnegocio.com/brasil?q={{{s}}}"
     },
     {
         "c": "News",
@@ -10563,7 +10563,7 @@ export const bangs = [
         "s": "bookdepository",
         "sc": "Online",
         "t": "bookdep",
-        "u": "http://bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
+        "u": "https://bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
     },
     {
         "c": "Shopping",
@@ -10599,7 +10599,7 @@ export const bangs = [
         "s": "Bookflavor",
         "sc": "Books",
         "t": "bookflavor",
-        "u": "http://bookflavor.com/#!{{{s}}}"
+        "u": "https://bookflavor.com/#!{{{s}}}"
     },
     {
         "c": "Research",
@@ -10653,7 +10653,7 @@ export const bangs = [
         "s": "boomkat",
         "sc": "Music",
         "t": "boomkat",
-        "u": "http://boomkat.com/products?q[keywords]={{{s}}}"
+        "u": "https://boomkat.com/products?q[keywords]={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -10761,7 +10761,7 @@ export const bangs = [
         "s": "Boulanger",
         "sc": "Tech",
         "t": "boulanger",
-        "u": "http://www.boulanger.com/resultats?tr={{{s}}}"
+        "u": "https://www.boulanger.com/resultats?tr={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -11049,7 +11049,7 @@ export const bangs = [
         "s": "B-Rhymes",
         "sc": "Reference (words)",
         "t": "b-rhymes",
-        "u": "http://www.b-rhymes.com/rhyme/word/{{{s}}}"
+        "u": "https://www.b-rhymes.com/rhyme/word/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -11157,7 +11157,7 @@ export const bangs = [
         "s": "British Slang",
         "sc": "Reference (words)",
         "t": "british",
-        "u": "http://www.britishslang.co.uk/search/default.aspx?q={{{s}}}"
+        "u": "https://www.britishslang.co.uk/search/default.aspx?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -11220,7 +11220,7 @@ export const bangs = [
         "s": "BroPages",
         "sc": "Sysadmin",
         "t": "bro",
-        "u": "http://bropages.org/{{{s}}}"
+        "u": "https://bropages.org/{{{s}}}"
     },
     {
         "c": "Research",
@@ -11283,7 +11283,7 @@ export const bangs = [
         "s": "Brønnøysundregistrene",
         "sc": "Search",
         "t": "brreg",
-        "u": "http://w2.brreg.no/enhet/sok/treffliste.jsp?navn={{{s}}}&orgform=0&fylke=0&kommune=0"
+        "u": "https://w2.brreg.no/enhet/sok/treffliste.jsp?navn={{{s}}}&orgform=0&fylke=0&kommune=0"
     },
     {
         "c": "Entertainment",
@@ -11580,7 +11580,7 @@ export const bangs = [
         "s": "BUCea - Bibliotecas UCM",
         "sc": "Academic",
         "t": "bucea",
-        "u": "http://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=%E2%9C%93"
+        "u": "https://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=%E2%9C%93"
     },
     {
         "c": "Shopping",
@@ -11661,7 +11661,7 @@ export const bangs = [
         "s": "Build.com",
         "sc": "Big box/department",
         "t": "build",
-        "u": "http://www.build.com/index.cfm?page=search:browse&term={{{s}}}"
+        "u": "https://www.build.com/index.cfm?page=search:browse&term={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -11931,7 +11931,7 @@ export const bangs = [
         "s": "BSD Cross Reference",
         "sc": "Sysadmin",
         "t": "bxr",
-        "u": "http://bxr.su/search?refs={{{s}}}"
+        "u": "https://bxr.su/search?refs={{{s}}}"
     },
     {
         "c": "Research",
@@ -11949,7 +11949,7 @@ export const bangs = [
         "s": "Byond",
         "sc": "Games (general)",
         "t": "byond",
-        "u": "http://www.byond.com/games/?text={{{s}}}"
+        "u": "https://www.byond.com/games/?text={{{s}}}"
     },
     {
         "c": "Tech",
@@ -12165,7 +12165,7 @@ export const bangs = [
         "s": "Carrefour",
         "sc": "Online (marketplace)",
         "t": "cafr",
-        "u": "http://www.carrefour.fr/?q={{{s}}}"
+        "u": "https://www.carrefour.fr/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -12174,7 +12174,7 @@ export const bangs = [
         "s": "Cagematch - The Internet Wrestling Database",
         "sc": "Sports",
         "t": "cagematch",
-        "u": "http://www.cagematch.net/?id=666&search={{{s}}}"
+        "u": "https://www.cagematch.net/?id=666&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -12201,7 +12201,7 @@ export const bangs = [
         "s": "Cairn",
         "sc": "Academic",
         "t": "cairn",
-        "u": "http://www.cairn.info/resultats_recherche.php?searchTerm={{{s}}}"
+        "u": "https://www.cairn.info/resultats_recherche.php?searchTerm={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -12327,7 +12327,7 @@ export const bangs = [
         "s": "CamelCamelCamel",
         "sc": "Online",
         "t": "ccc",
-        "u": "http://camelcamelcamel.com/search?sq={{{s}}}"
+        "u": "https://camelcamelcamel.com/search?sq={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -12498,7 +12498,7 @@ export const bangs = [
         "s": "Candlestick Patterns",
         "sc": "Tools",
         "t": "candlestickpatterns",
-        "u": "http://www.candlestickpatterns.org/?s={{{s}}}"
+        "u": "https://www.candlestickpatterns.org/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -12606,7 +12606,7 @@ export const bangs = [
         "s": "CAPP/USA",
         "sc": "Online",
         "t": "capp",
-        "u": "http://www.cappusa.com/catalogsearch/result/?q={{{s}}}"
+        "u": "https://www.cappusa.com/catalogsearch/result/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -12651,7 +12651,7 @@ export const bangs = [
         "s": "CareerBuilder",
         "sc": "Jobs",
         "t": "careerbuilder",
-        "u": "http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&ch=&rs=&s_rawwords={{{s}}}&s_jobtypes=ALL&s_freshness=30&s_education=DRNS&s_freeloc=&qsbButton=Find+Jobs+>>"
+        "u": "https://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&ch=&rs=&s_rawwords={{{s}}}&s_jobtypes=ALL&s_freshness=30&s_education=DRNS&s_freeloc=&qsbButton=Find+Jobs+>>"
     },
     {
         "c": "Tech",
@@ -12732,7 +12732,7 @@ export const bangs = [
         "s": "Common Chemistry (CAS Registry Number)",
         "sc": "Academic",
         "t": "cas",
-        "u": "http://www.commonchemistry.org/ChemicalDetail.aspx?ref={{{s}}}"
+        "u": "https://www.commonchemistry.org/ChemicalDetail.aspx?ref={{{s}}}"
     },
     {
         "c": "Research",
@@ -13002,7 +13002,7 @@ export const bangs = [
         "s": "Camelcamelcamel",
         "sc": "Online",
         "t": "cccuk",
-        "u": "http://uk.camelcamelcamel.com/search?sq={{{s}}}"
+        "u": "https://uk.camelcamelcamel.com/search?sq={{{s}}}"
     },
     {
         "c": "Research",
@@ -13218,7 +13218,7 @@ export const bangs = [
         "s": "Collins Dictionary",
         "sc": "Reference (words intl)",
         "t": "cd",
-        "u": "http://www.collinsdictionary.com/dictionary/english/{{{s}}}?showCookiePolicy=true"
+        "u": "https://www.collinsdictionary.com/dictionary/english/{{{s}}}?showCookiePolicy=true"
     },
     {
         "c": "Entertainment",
@@ -13245,7 +13245,7 @@ export const bangs = [
         "s": "Computer Desktop Encyclopedia",
         "sc": "Academic (math/cs)",
         "t": "cde",
-        "u": "http://lookup.computerlanguage.com/host_app/search?cid=C999999&term={{{s}}}&lookup.x=0&lookup.y=0"
+        "u": "https://lookup.computerlanguage.com/host_app/search?cid=C999999&term={{{s}}}&lookup.x=0&lookup.y=0"
     },
     {
         "c": "Online Services",
@@ -13254,7 +13254,7 @@ export const bangs = [
         "s": "Collins Dictionary (English German)",
         "sc": "Search (Private)",
         "t": "cdeen",
-        "u": "http://www.collinsdictionary.com/spellcheck/english-german?q={{{s}}}"
+        "u": "https://www.collinsdictionary.com/spellcheck/english-german?q={{{s}}}"
     },
     {
         "c": "Translation",
@@ -13353,7 +13353,7 @@ export const bangs = [
         "s": "Collins Dictionaries (English for Learners)",
         "sc": "Reference (words intl)",
         "t": "cdl",
-        "u": "http://www.collinsdictionary.com/dictionary/english-cobuild-learners/{{{s}}}"
+        "u": "https://www.collinsdictionary.com/dictionary/english-cobuild-learners/{{{s}}}"
     },
     {
         "c": "News",
@@ -13398,7 +13398,7 @@ export const bangs = [
         "s": "CDON",
         "sc": "Online",
         "t": "cdon",
-        "u": "http://cdon.se/search?q={{{s}}}"
+        "u": "https://cdon.se/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -13407,7 +13407,7 @@ export const bangs = [
         "s": "CDON.com (Denmark/Danmark)",
         "sc": "Online",
         "t": "cdondk",
-        "u": "http://cdon.dk/search?q={{{s}}}"
+        "u": "https://cdon.dk/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -13416,7 +13416,7 @@ export const bangs = [
         "s": "CDON.com (Finland/Suomi)",
         "sc": "Online",
         "t": "cdonfi",
-        "u": "http://cdon.fi/search?q={{{s}}}"
+        "u": "https://cdon.fi/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -13425,7 +13425,7 @@ export const bangs = [
         "s": "CDON.com (Norway/Norge)",
         "sc": "Online",
         "t": "cdonno",
-        "u": "http://cdon.no/search?q={{{s}}}"
+        "u": "https://cdon.no/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -13587,7 +13587,7 @@ export const bangs = [
         "s": "Collins French Dictionary (to French)",
         "sc": "Search",
         "t": "cenfr",
-        "u": "http://www.collinsdictionary.com/dictionary/english-french/{{{s}}}"
+        "u": "https://www.collinsdictionary.com/dictionary/english-french/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -13605,7 +13605,7 @@ export const bangs = [
         "s": "Centre Daily Times",
         "sc": "Newspaper",
         "t": "centredailytimes",
-        "u": "http://www.centredaily.com/search/?q={{{s}}}"
+        "u": "https://www.centredaily.com/search/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -13623,7 +13623,7 @@ export const bangs = [
         "s": "CercaVino",
         "sc": "Online",
         "t": "cercavino",
-        "u": "http://cercavino.com/cerca?vino={{{s}}}"
+        "u": "https://cercavino.com/cerca?vino={{{s}}}"
     },
     {
         "c": "Research",
@@ -13740,7 +13740,7 @@ export const bangs = [
         "s": "WikiCFP",
         "sc": "Reference",
         "t": "cfp",
-        "u": "http://wikicfp.com/cfp/servlet/tool.search?q={{{s}}}&year=f"
+        "u": "https://wikicfp.com/cfp/servlet/tool.search?q={{{s}}}&year=f"
     },
     {
         "c": "Online Services",
@@ -13749,7 +13749,7 @@ export const bangs = [
         "s": "Collins French Dictionary (to English)",
         "sc": "Search",
         "t": "cfren",
-        "u": "http://www.collinsdictionary.com/dictionary/french-english/{{{s}}}"
+        "u": "https://www.collinsdictionary.com/dictionary/french-english/{{{s}}}"
     },
     {
         "c": "Research",
@@ -13812,7 +13812,7 @@ export const bangs = [
         "s": "Chabad.org",
         "sc": "Reference (religion)",
         "t": "chabad",
-        "u": "http://www.chabad.org/search/results.asp?searchWord={{{s}}}"
+        "u": "https://www.chabad.org/search/results.asp?searchWord={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -13830,7 +13830,7 @@ export const bangs = [
         "s": "The Chakra Project",
         "sc": "Chakra",
         "t": "chakraforum",
-        "u": "http://chakraos.org/forum/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+        "u": "https://chakraos.org/forum/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
     },
     {
         "c": "Tech",
@@ -13839,7 +13839,7 @@ export const bangs = [
         "s": "The Chakra Project Packages",
         "sc": "Libraries/Frameworks",
         "t": "chakrapkg",
-        "u": "http://www.chakraos.org/packages/index.php?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}}"
+        "u": "https://www.chakraos.org/packages/index.php?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}}"
     },
     {
         "c": "Tech",
@@ -13848,7 +13848,7 @@ export const bangs = [
         "s": "Chakra Wiki",
         "sc": "Chakra",
         "t": "chakrawiki",
-        "u": "http://chakraos.org/wiki/index.php?search={{{s}}}&go=Go"
+        "u": "https://chakraos.org/wiki/index.php?search={{{s}}}&go=Go"
     },
     {
         "c": "Research",
@@ -13866,7 +13866,7 @@ export const bangs = [
         "s": "Champs Sports",
         "sc": "Online",
         "t": "champssports",
-        "u": "http://www.champssports.com/_-_/keyword-{{{s}}}"
+        "u": "https://www.champssports.com/_-_/keyword-{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -14163,7 +14163,7 @@ export const bangs = [
         "s": "Chegg",
         "sc": "Online",
         "t": "chegg",
-        "u": "http://www.chegg.com/search/{{{s}}}"
+        "u": "https://www.chegg.com/search/{{{s}}}"
     },
     {
         "c": "Research",
@@ -14226,7 +14226,7 @@ export const bangs = [
         "s": "chewy.com",
         "sc": "Online",
         "t": "chewy",
-        "u": "http://www.chewy.com/s?dept=all&query={{{s}}}"
+        "u": "https://www.chewy.com/s?dept=all&query={{{s}}}"
     },
     {
         "c": "News",
@@ -14316,7 +14316,7 @@ export const bangs = [
         "s": "msarnoff.org ChipDB",
         "sc": "Reference",
         "t": "chipdb",
-        "u": "http://www.msarnoff.org/chipdb/{{{s}}}"
+        "u": "https://www.msarnoff.org/chipdb/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -14550,7 +14550,7 @@ export const bangs = [
         "s": "Ciao.de",
         "sc": "Online",
         "t": "ciao",
-        "u": "http://www.ciao.de/sr/q-{{{s}}}"
+        "u": "https://www.ciao.de/sr/q-{{{s}}}"
     },
     {
         "c": "Research",
@@ -14595,7 +14595,7 @@ export const bangs = [
         "s": "Cinema In Focus",
         "sc": "Movies",
         "t": "cif",
-        "u": "http://www.cinemainfocus.com/search?q={{{s}}}"
+        "u": "https://www.cinemainfocus.com/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -14721,7 +14721,7 @@ export const bangs = [
         "s": "citroenC3owners.com",
         "sc": "Reference",
         "t": "citroenc3owners",
-        "u": "http://citroenc3owners.com/search.php?keywords={{{s}}}&terms=all&author=&fid[]=5&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Search"
+        "u": "https://citroenc3owners.com/search.php?keywords={{{s}}}&terms=all&author=&fid[]=5&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Search"
     },
     {
         "c": "Tech",
@@ -15045,7 +15045,7 @@ export const bangs = [
         "s": "Microsoft Clipart",
         "sc": "Companies",
         "t": "clipart",
-        "u": "http://office.microsoft.com/en-us/clipart/results.aspx?qu={{{s}}}&sc=20"
+        "u": "https://office.microsoft.com/en-us/clipart/results.aspx?qu={{{s}}}&sc=20"
     },
     {
         "c": "Multimedia",
@@ -15270,7 +15270,7 @@ export const bangs = [
         "s": "compare.eu",
         "sc": "Online (deals)",
         "t": "cmpeu",
-        "u": "http://compare.eu/?fs={{{s}}}"
+        "u": "https://compare.eu/?fs={{{s}}}"
     },
     {
         "c": "Research",
@@ -15306,7 +15306,7 @@ export const bangs = [
         "s": "CNBC",
         "sc": "Broadcast",
         "t": "cnbc",
-        "u": "http://search.cnbc.com/main.do?target=all&keywords={{{s}}}"
+        "u": "https://search.cnbc.com/main.do?target=all&keywords={{{s}}}"
     },
     {
         "c": "Research",
@@ -15315,7 +15315,7 @@ export const bangs = [
         "s": "Naver Chinese Dictionary",
         "sc": "Learning",
         "t": "cndic",
-        "u": "http://cndic.naver.com/search/all?q={{{s}}}"
+        "u": "https://cndic.naver.com/search/all?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -15369,7 +15369,7 @@ export const bangs = [
         "s": "Cineplex",
         "sc": "Movies",
         "t": "cnplx",
-        "u": "http://www.cineplex.com/search-2015?search-query={{{s}}}"
+        "u": "https://www.cineplex.com/search-2015?search-query={{{s}}}"
     },
     {
         "c": "Research",
@@ -15594,7 +15594,7 @@ export const bangs = [
         "s": "Codepen",
         "sc": "Programming",
         "t": "cpen",
-        "u": "http://codepen.io/search?q={{{s}}}&limit=all&depth=everything&show_forks=false"
+        "u": "https://codepen.io/search?q={{{s}}}&limit=all&depth=everything&show_forks=false"
     },
     {
         "c": "Online Services",
@@ -15801,7 +15801,7 @@ export const bangs = [
         "s": "ComboDeck",
         "sc": "Games (specific)",
         "t": "combodeck",
-        "u": "http://combodeck.net/Query/{{{s}}}"
+        "u": "https://combodeck.net/Query/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -15918,7 +15918,7 @@ export const bangs = [
         "s": "Compare Games",
         "sc": "Online",
         "t": "comparegames",
-        "u": "http://www.comparegames.com.br/comprar/{{{s}}}"
+        "u": "https://www.comparegames.com.br/comprar/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -15927,7 +15927,7 @@ export const bangs = [
         "s": "Compass",
         "sc": "Libraries/Frameworks",
         "t": "compass",
-        "u": "http://compass-style.org/search/?q={{{s}}}"
+        "u": "https://compass-style.org/search/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -16017,7 +16017,7 @@ export const bangs = [
         "s": "Computing Research and Education Association of Australasia, CORE",
         "sc": "Academic (math/cs)",
         "t": "confrank",
-        "u": "http://portal.core.edu.au/conf-ranks/?search={{{s}}}&by=all&source=all&sort=atitle&page=1"
+        "u": "https://portal.core.edu.au/conf-ranks/?search={{{s}}}&by=all&source=all&sort=atitle&page=1"
     },
     {
         "c": "Search",
@@ -16026,7 +16026,7 @@ export const bangs = [
         "s": "Conference Ranks",
         "sc": "Search Engine",
         "t": "confranks",
-        "u": "http://www.conferenceranks.com/?searchall={{{s}}}"
+        "u": "https://www.conferenceranks.com/?searchall={{{s}}}"
     },
     {
         "c": "Research",
@@ -16098,7 +16098,7 @@ export const bangs = [
         "s": "Connect NY",
         "sc": "Academic",
         "t": "connectny",
-        "u": "http://www.connectny.info/search/?searchtype=X&SORT=D&searcharg={{{s}}}"
+        "u": "https://www.connectny.info/search/?searchtype=X&SORT=D&searcharg={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -16242,7 +16242,7 @@ export const bangs = [
         "s": "Cooks.com",
         "sc": "Food",
         "t": "cook",
-        "u": "http://www.cooks.com/?/q={{{s}}}"
+        "u": "https://www.cooks.com/?/q={{{s}}}"
     },
     {
         "c": "Research",
@@ -16368,7 +16368,7 @@ export const bangs = [
         "s": "Coop (DE)",
         "sc": "Big box/department",
         "t": "coop_de",
-        "u": "http://www.coop.ch/pb/site/search/search/2057/Lde/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=de&_sid=4aea1684-910e-4741-9099-86fff3d8a570"
+        "u": "https://www.coop.ch/pb/site/search/search/2057/Lde/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=de&_sid=4aea1684-910e-4741-9099-86fff3d8a570"
     },
     {
         "c": "Shopping",
@@ -16377,7 +16377,7 @@ export const bangs = [
         "s": "Coop (FR)",
         "sc": "Big box/department",
         "t": "coop_fr",
-        "u": "http://www.coop.ch/pb/site/search/search/2057/Lfr/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=fr&_sid=2fae98df-7f08-49a8-86b5-38148b71ebdb"
+        "u": "https://www.coop.ch/pb/site/search/search/2057/Lfr/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=fr&_sid=2fae98df-7f08-49a8-86b5-38148b71ebdb"
     },
     {
         "c": "Shopping",
@@ -16386,7 +16386,7 @@ export const bangs = [
         "s": "Coop (IT)",
         "sc": "Big box/department",
         "t": "coop_it",
-        "u": "http://www.coop.ch/pb/site/search/search/2057/Lit/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=it&_sid=537d493c-9c35-41dc-8881-d878b57e702f"
+        "u": "https://www.coop.ch/pb/site/search/search/2057/Lit/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=it&_sid=537d493c-9c35-41dc-8881-d878b57e702f"
     },
     {
         "c": "Entertainment",
@@ -16575,7 +16575,7 @@ export const bangs = [
         "s": "Costco.com",
         "sc": "Big box/department",
         "t": "costco",
-        "u": "http://www.costco.com/CatalogSearch?storeId=10301&catalogId=10701&langId=-1&keyword={{{s}}}"
+        "u": "https://www.costco.com/CatalogSearch?storeId=10301&catalogId=10701&langId=-1&keyword={{{s}}}"
     },
     {
         "c": "Research",
@@ -16647,7 +16647,7 @@ export const bangs = [
         "s": "CouponCabin",
         "sc": "Online (deals)",
         "t": "couponcabin",
-        "u": "http://www.couponcabin.com/ps/{{{s}}}/1/"
+        "u": "https://www.couponcabin.com/ps/{{{s}}}/1/"
     },
     {
         "c": "Shopping",
@@ -16656,7 +16656,7 @@ export const bangs = [
         "s": "CouponMeUp",
         "sc": "Online (deals)",
         "t": "couponmeup",
-        "u": "http://www.couponmeup.com/cgi-bin/display.pl?search=1&q={{{s}}}"
+        "u": "https://www.couponmeup.com/cgi-bin/display.pl?search=1&q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -16755,7 +16755,7 @@ export const bangs = [
         "s": "CPAN Dependencies Checker",
         "sc": "Languages (perl)",
         "t": "cpandeps",
-        "u": "http://deps.cpantesters.org/?module={{{s}}}&perl=any+version&os=any+OS"
+        "u": "https://deps.cpantesters.org/?module={{{s}}}&perl=any+version&os=any+OS"
     },
     {
         "c": "Shopping",
@@ -16989,7 +16989,7 @@ export const bangs = [
         "s": "CrawlWiki",
         "sc": "Games (general)",
         "t": "crawl",
-        "u": "http://crawl.chaosforge.org/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "https://crawl.chaosforge.org/index.php?title=Special:Search&search={{{s}}}&go=Go"
     },
     {
         "c": "Entertainment",
@@ -17142,7 +17142,7 @@ export const bangs = [
         "s": "CRISCO Dictionnaire Electronique des Synonymes",
         "sc": "Reference (words intl)",
         "t": "crisco",
-        "u": "http://www.crisco.unicaen.fr/des/synonymes/{{{s}}}"
+        "u": "https://www.crisco.unicaen.fr/des/synonymes/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -17412,7 +17412,7 @@ export const bangs = [
         "s": "Consorzio Sistema Bibliotecario Nord Ovest",
         "sc": "Learning (intl)",
         "t": "csbno",
-        "u": "http://webopac.csbno.net/opac/search/lst?q={{{s}}}"
+        "u": "https://webopac.csbno.net/opac/search/lst?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -17664,7 +17664,7 @@ export const bangs = [
         "s": "Collins English Thesaurus",
         "sc": "Reference (words)",
         "t": "cth",
-        "u": "http://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
+        "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
     },
     {
         "c": "News",
@@ -17736,7 +17736,7 @@ export const bangs = [
         "s": "Skutchi Designs",
         "sc": "Online",
         "t": "cubicles",
-        "u": "http://www.skutchi.com/catalogsearch/result/?q={{{s}}}"
+        "u": "https://www.skutchi.com/catalogsearch/result/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -17952,7 +17952,7 @@ export const bangs = [
         "s": "Consulta de Documentos de Companhias Abertas (CVM)",
         "sc": "Business",
         "t": "cvmcia",
-        "u": "http://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/ResultBuscaParticCiaAb.aspx?CNPJNome={{{s}}}&TipoConsult=C"
+        "u": "https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/ResultBuscaParticCiaAb.aspx?CNPJNome={{{s}}}&TipoConsult=C"
     },
     {
         "c": "Online Services",
@@ -17988,7 +17988,7 @@ export const bangs = [
         "s": "CVS",
         "sc": "Online",
         "t": "cvs",
-        "u": "http://www.cvs.com/search/_/N-0?searchTerm={{{s}}}&pt=global"
+        "u": "https://www.cvs.com/search/_/N-0?searchTerm={{{s}}}&pt=global"
     },
     {
         "c": "Tech",
@@ -18069,7 +18069,7 @@ export const bangs = [
         "s": "Cyberport",
         "sc": "Online",
         "t": "cyberport",
-        "u": "http://www.cyberport.de/?EVENT=itemsearch&query={{{s}}}"
+        "u": "https://www.cyberport.de/?EVENT=itemsearch&query={{{s}}}"
     },
     {
         "c": "Research",
@@ -18150,7 +18150,7 @@ export const bangs = [
         "s": "CZC.cz",
         "sc": "Online",
         "t": "czc",
-        "u": "http://www.czc.cz/search?q-fulltext={{{s}}}"
+        "u": "https://www.czc.cz/search?q-fulltext={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -18312,7 +18312,7 @@ export const bangs = [
         "s": "dafoodmall",
         "sc": "Online (marketplace)",
         "t": "dafoodmall",
-        "u": "http://www.dafoodmall.com/goods/search.asp?sword={{{s}}}"
+        "u": "https://www.dafoodmall.com/goods/search.asp?sword={{{s}}}"
     },
     {
         "c": "News",
@@ -18348,7 +18348,7 @@ export const bangs = [
         "s": "The Daily Collegian",
         "sc": "Newspaper",
         "t": "dailycollegian",
-        "u": "http://www.collegian.psu.edu/search/?f=html&q={{{s}}}"
+        "u": "https://www.collegian.psu.edu/search/?f=html&q={{{s}}}"
     },
     {
         "c": "News",
@@ -18411,7 +18411,7 @@ export const bangs = [
         "s": "Diccionariu de l'Academia de la Llingua Asturiana",
         "sc": "Academic",
         "t": "dalla",
-        "u": "http://asturianu.elahorcado.net/search.php?search={{{s}}}"
+        "u": "https://asturianu.elahorcado.net/search.php?search={{{s}}}"
     },
     {
         "c": "News",
@@ -18438,7 +18438,7 @@ export const bangs = [
         "s": "Danawa",
         "sc": "Online (deals)",
         "t": "danawa",
-        "u": "http://search.danawa.com/dsearch.php?query={{{s}}}"
+        "u": "https://search.danawa.com/dsearch.php?query={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -18564,7 +18564,7 @@ export const bangs = [
         "s": "DarkLyrics.com",
         "sc": "Music (Lyrics)",
         "t": "darklyrics",
-        "u": "http://www.darklyrics.com/search?q={{{s}}}"
+        "u": "https://www.darklyrics.com/search?q={{{s}}}"
     },
     {
         "c": "News",
@@ -18753,7 +18753,7 @@ export const bangs = [
         "s": "DeviantArt User",
         "sc": "Images",
         "t": "dauser",
-        "u": "http://{{{s}}}.deviantart.com/"
+        "u": "https://{{{s}}}.deviantart.com/"
     },
     {
         "c": "Online Services",
@@ -18762,7 +18762,7 @@ export const bangs = [
         "s": "Dave's Garden",
         "sc": "Social",
         "t": "davesgarden",
-        "u": "http://davesgarden.com/sitewidesearch.php?q={{{s}}}"
+        "u": "https://davesgarden.com/sitewidesearch.php?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -19131,7 +19131,7 @@ export const bangs = [
         "s": "Dict.cn Chinese<>English Dictionary",
         "sc": "General",
         "t": "dcn",
-        "u": "http://dict.cn/{{{s}}}"
+        "u": "https://dict.cn/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -19185,7 +19185,7 @@ export const bangs = [
         "s": "Crawl Wiki",
         "sc": "Games (specific)",
         "t": "dcss",
-        "u": "http://crawl.chaosforge.org/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search"
+        "u": "https://crawl.chaosforge.org/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Research",
@@ -20616,7 +20616,7 @@ export const bangs = [
         "s": "Dicionário Histórico e Biográfico Brasileiro do CPDOC",
         "sc": "Academic",
         "t": "dhbb",
-        "u": "http://www.fgv.br/cpdoc/acervo/arquivo?busca={{{s}}}&TipoUD=0&MacroTipoUD=0&nItens=100"
+        "u": "https://www.fgv.br/cpdoc/acervo/arquivo?busca={{{s}}}&TipoUD=0&MacroTipoUD=0&nItens=100"
     },
     {
         "c": "Research",
@@ -20625,7 +20625,7 @@ export const bangs = [
         "s": "High Court of Delhi",
         "sc": "Law",
         "t": "dhc",
-        "u": "http://delhihighcourt.nic.in/SiteSearch.asp?zoom_query={{{s}}}"
+        "u": "https://delhihighcourt.nic.in/SiteSearch.asp?zoom_query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -20652,7 +20652,7 @@ export const bangs = [
         "s": "DHGate",
         "sc": "Online (marketplace)",
         "t": "dhgate",
-        "u": "http://www.dhgate.com/wholesale/search.do?act=search&supplierid=&isfactory=&sus=&searchkey={{{s}}}&catalog=#search"
+        "u": "https://www.dhgate.com/wholesale/search.do?act=search&supplierid=&isfactory=&sus=&searchkey={{{s}}}&catalog=#search"
     },
     {
         "c": "Shopping",
@@ -20661,7 +20661,7 @@ export const bangs = [
         "s": "DHgate",
         "sc": "Online (intl)",
         "t": "dhg",
-        "u": "http://www.dhgate.com/wholesale/search.do?act=search&sus=&searchkey={{{s}}}"
+        "u": "https://www.dhgate.com/wholesale/search.do?act=search&sus=&searchkey={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -20742,7 +20742,7 @@ export const bangs = [
         "s": "Difference Between",
         "sc": "Reference",
         "t": "dibe",
-        "u": "http://www.differencebetween.net/search/?q={{{s}}}"
+        "u": "https://www.differencebetween.net/search/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -20760,7 +20760,7 @@ export const bangs = [
         "s": "Diccionari de la llengua Catalana",
         "sc": "Academic",
         "t": "diccionari",
-        "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}"
+        "u": "https://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}"
     },
     {
         "c": "Research",
@@ -21048,7 +21048,7 @@ export const bangs = [
         "s": "Digital Comic Museum",
         "sc": "Comics",
         "t": "digitalcomicmuseum",
-        "u": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
+        "u": "https://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -21264,7 +21264,7 @@ export const bangs = [
         "s": "Discogs",
         "sc": "Music",
         "t": "discogs",
-        "u": "http://www.discogs.com/search?q={{{s}}}&type=all"
+        "u": "https://www.discogs.com/search?q={{{s}}}&type=all"
     },
     {
         "c": "Online Services",
@@ -21318,7 +21318,7 @@ export const bangs = [
         "s": "Discovery.com",
         "sc": "TV",
         "t": "discovery",
-        "u": "http://dsc.discovery.com/search.htm?terms={{{s}}}"
+        "u": "https://dsc.discovery.com/search.htm?terms={{{s}}}"
     },
     {
         "c": "Tech",
@@ -21390,7 +21390,7 @@ export const bangs = [
         "s": "Dizionario Internazionale De Mauro",
         "sc": "Reference (words intl)",
         "t": "dit",
-        "u": "http://dizionario.internazionale.it/parola/{{{s}}}"
+        "u": "https://dizionario.internazionale.it/parola/{{{s}}}"
     },
     {
         "c": "Research",
@@ -21453,7 +21453,7 @@ export const bangs = [
         "s": "DIY Network",
         "sc": "TV",
         "t": "diy",
-        "u": "http://www.diynetwork.com/search/{{{s}}}"
+        "u": "https://www.diynetwork.com/search/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -21471,7 +21471,7 @@ export const bangs = [
         "s": "Internazionale.it",
         "sc": "Reference (words)",
         "t": "dizint",
-        "u": "http://dizionario.internazionale.it/cerca/{{{s}}}"
+        "u": "https://dizionario.internazionale.it/cerca/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -21705,7 +21705,7 @@ export const bangs = [
         "s": "Discipleship Library",
         "sc": "General",
         "t": "dlib",
-        "u": "http://discipleshiplibrary.com/search.php?a=1&e=1&m=0&p=0&n=0&s=topic1&t=TOPIC A&ss={{{s}}}&st=all&ssf="
+        "u": "https://discipleshiplibrary.com/search.php?a=1&e=1&m=0&p=0&n=0&s=topic1&t=TOPIC A&ss={{{s}}}&st=all&ssf="
     },
     {
         "c": "Entertainment",
@@ -21786,7 +21786,7 @@ export const bangs = [
         "s": "Daum Map",
         "sc": "Maps",
         "t": "dmap",
-        "u": "http://map.daum.net/?q={{{s}}}"
+        "u": "https://map.daum.net/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -21930,7 +21930,7 @@ export const bangs = [
         "s": "DNS",
         "sc": "Online (marketplace)",
         "t": "dnsshop",
-        "u": "http://www.dns-shop.ru/search/?q={{{s}}}"
+        "u": "https://www.dns-shop.ru/search/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -22164,7 +22164,7 @@ export const bangs = [
         "s": "Dogpile",
         "sc": "Search",
         "t": "dogpile",
-        "u": "http://results.dogpile.com/search/web?q={{{s}}}&ql=&topSearchSubmit.x=0&topSearchSubmit.y=0&fcoid=417&fcop=topnav&fpid=27&om_nextpage=True"
+        "u": "https://results.dogpile.com/search/web?q={{{s}}}&ql=&topSearchSubmit.x=0&topSearchSubmit.y=0&fcoid=417&fcop=topnav&fpid=27&om_nextpage=True"
     },
     {
         "c": "Shopping",
@@ -22407,7 +22407,7 @@ export const bangs = [
         "s": "niconico douga bypass",
         "sc": "Tools",
         "t": "douga",
-        "u": "http://en.niconico.sarashi.com/?{{{s}}}"
+        "u": "https://en.niconico.sarashi.com/?{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -22524,7 +22524,7 @@ export const bangs = [
         "s": "Dogpile Images",
         "sc": "Search",
         "t": "dpi",
-        "u": "http://www.dogpile.com/search/images?q={{{s}}}"
+        "u": "https://www.dogpile.com/search/images?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -22587,7 +22587,7 @@ export const bangs = [
         "s": "Dogpile News",
         "sc": "Search",
         "t": "dpn",
-        "u": "http://www.dogpile.com/search/news?q={{{s}}}"
+        "u": "https://www.dogpile.com/search/news?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -22623,7 +22623,7 @@ export const bangs = [
         "s": "Dogpile Video",
         "sc": "Search",
         "t": "dpv",
-        "u": "http://www.dogpile.com/search/video?q={{{s}}}"
+        "u": "https://www.dogpile.com/search/video?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -22632,7 +22632,7 @@ export const bangs = [
         "s": "Dogpile Web",
         "sc": "Search",
         "t": "dpw",
-        "u": "http://www.dogpile.com/search/web?q={{{s}}}"
+        "u": "https://www.dogpile.com/search/web?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -22857,7 +22857,7 @@ export const bangs = [
         "s": "Drinkify",
         "sc": "Audio",
         "t": "drinkify",
-        "u": "http://www.drinkify.org/{{{s}}}"
+        "u": "https://www.drinkify.org/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -23100,7 +23100,7 @@ export const bangs = [
         "s": "Den Store Danske",
         "sc": "Reference",
         "t": "dsd",
-        "u": "http://www.denstoredanske.dk/Special:Opslag?q={{{s}}}"
+        "u": "https://www.denstoredanske.dk/Special:Opslag?q={{{s}}}"
     },
     {
         "c": "News",
@@ -23244,7 +23244,7 @@ export const bangs = [
         "s": "DebTags",
         "sc": "Sysadmin (debian)",
         "t": "dtag",
-        "u": "http://debtags.debian.net/search/?q={{{s}}}"
+        "u": "https://debtags.debian.net/search/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -23361,7 +23361,7 @@ export const bangs = [
         "s": "Fabasoft app.ducx Help",
         "sc": "Programming",
         "t": "ducx",
-        "u": "http://help.appducx.com/index.php?topic=doc/Search-Result/index_en.htm&q={{{s}}}"
+        "u": "https://help.appducx.com/index.php?topic=doc/Search-Result/index_en.htm&q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -23784,7 +23784,7 @@ export const bangs = [
         "s": "Eastbay",
         "sc": "Online",
         "t": "eastbay",
-        "u": "http://www.eastbay.com/_-_/keyword-{{{s}}}"
+        "u": "https://www.eastbay.com/_-_/keyword-{{{s}}}"
     },
     {
         "c": "Research",
@@ -23856,7 +23856,7 @@ export const bangs = [
         "s": "Eat Tender",
         "sc": "Food",
         "t": "eattender",
-        "u": "http://eattender.com/recipes/search?q={{{s}}}"
+        "u": "https://eattender.com/recipes/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -23973,7 +23973,7 @@ export const bangs = [
         "s": "ebay.com.hk",
         "sc": "Online (marketplace)",
         "t": "ebayhk",
-        "u": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -23991,7 +23991,7 @@ export const bangs = [
         "s": "ebay.in",
         "sc": "Online (marketplace)",
         "t": "ebayin",
-        "u": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -24018,7 +24018,7 @@ export const bangs = [
         "s": "ebay.com.my",
         "sc": "Online (marketplace)",
         "t": "ebaymy",
-        "u": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -24036,7 +24036,7 @@ export const bangs = [
         "s": "ebay.ph",
         "sc": "Online (marketplace)",
         "t": "ebayph",
-        "u": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -24045,7 +24045,7 @@ export const bangs = [
         "s": "ebay.pl",
         "sc": "Online (marketplace)",
         "t": "ebaypl",
-        "u": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -24054,7 +24054,7 @@ export const bangs = [
         "s": "ebay.com.sg",
         "sc": "Online (marketplace)",
         "t": "ebaysg",
-        "u": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+        "u": "https://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
     },
     {
         "c": "Shopping",
@@ -24252,7 +24252,7 @@ export const bangs = [
         "s": "ECIA Authorized",
         "sc": "Tech",
         "t": "ecia",
-        "u": "http://www.eciaauthorized.com/search?pn={{{s}}}"
+        "u": "https://www.eciaauthorized.com/search?pn={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -24324,7 +24324,7 @@ export const bangs = [
         "s": "Ecolab",
         "sc": "Companies",
         "t": "ecolab",
-        "u": "http://www.ecolab.com/search/#q={{{s}}}&sort=relevancy"
+        "u": "https://www.ecolab.com/search/#q={{{s}}}&sort=relevancy"
     },
     {
         "c": "Research",
@@ -24396,7 +24396,7 @@ export const bangs = [
         "s": "ecoshopper.de",
         "sc": "Online",
         "t": "ecoshopper",
-        "u": "http://www.ecoshopper.de/ecoshopper2/faces/SuchErgebnis.jsp?query={{{s}}}&brancheDropDown=alle&preisspanneDropDown=0&_charset_=UTF-8&suchen=Suchen&searchrange=namen"
+        "u": "https://www.ecoshopper.de/ecoshopper2/faces/SuchErgebnis.jsp?query={{{s}}}&brancheDropDown=alle&preisspanneDropDown=0&_charset_=UTF-8&suchen=Suchen&searchrange=namen"
     },
     {
         "c": "News",
@@ -24486,7 +24486,7 @@ export const bangs = [
         "s": "Ebay Germany",
         "sc": "Online (marketplace)",
         "t": "e.de",
-        "u": "http://www.ebay.de/sch/i.html?_nkw={{{s}}}"
+        "u": "https://www.ebay.de/sch/i.html?_nkw={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -24513,7 +24513,7 @@ export const bangs = [
         "s": "EDGAR",
         "sc": "Government",
         "t": "edgar",
-        "u": "http://www.sec.gov/cgi-bin/browse-edgar?company={{{s}}}&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany"
+        "u": "https://www.sec.gov/cgi-bin/browse-edgar?company={{{s}}}&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany"
     },
     {
         "c": "Research",
@@ -24522,7 +24522,7 @@ export const bangs = [
         "s": "Edgar",
         "sc": "Government",
         "t": "edgart",
-        "u": "http://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK={{{s}}}&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany"
+        "u": "https://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK={{{s}}}&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany"
     },
     {
         "c": "News",
@@ -24567,7 +24567,7 @@ export const bangs = [
         "s": "editus.lu",
         "sc": "Local",
         "t": "editus",
-        "u": "http://www.editus.lu/ed/fr/recherche.html?q={{{s}}}"
+        "u": "https://www.editus.lu/ed/fr/recherche.html?q={{{s}}}"
     },
     {
         "c": "News",
@@ -24747,7 +24747,7 @@ export const bangs = [
         "s": "Egged",
         "sc": "Search (non-US)",
         "t": "egged",
-        "u": "http://mslworld.egged.co.il/?state=3&language=he&freelang={{{s}}}&width=1280#/search"
+        "u": "https://mslworld.egged.co.il/?state=3&language=he&freelang={{{s}}}&width=1280#/search"
     },
     {
         "c": "Multimedia",
@@ -24819,7 +24819,7 @@ export const bangs = [
         "s": "eHow",
         "sc": "Blogs",
         "t": "ehow",
-        "u": "http://www.ehow.com/search.html?s={{{s}}}"
+        "u": "https://www.ehow.com/search.html?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -24918,7 +24918,7 @@ export const bangs = [
         "s": "eBay Kleinanzeigen Berlin",
         "sc": "Online",
         "t": "ekb",
-        "u": "http://kleinanzeigen.ebay.de/anzeigen/s-berlin/{{{s}}}/k0l3331"
+        "u": "https://kleinanzeigen.ebay.de/anzeigen/s-berlin/{{{s}}}/k0l3331"
     },
     {
         "c": "Tech",
@@ -25305,7 +25305,7 @@ export const bangs = [
         "s": "Elm Search",
         "sc": "Languages (other)",
         "t": "elm",
-        "u": "http://klaftertief.github.io/elm-search/?q={{{s}}}"
+        "u": "https://klaftertief.github.io/elm-search/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -25467,7 +25467,7 @@ export const bangs = [
         "s": "eBay Motors",
         "sc": "Online (marketplace)",
         "t": "em",
-        "u": "http://motors.shop.ebay.com/eBay-Motors-/6000/i.html?_nkw={{{s}}}&_trksid=p2050885.m570.l1313&_rdc=1"
+        "u": "https://motors.shop.ebay.com/eBay-Motors-/6000/i.html?_nkw={{{s}}}&_trksid=p2050885.m570.l1313&_rdc=1"
     },
     {
         "c": "Research",
@@ -25935,7 +25935,7 @@ export const bangs = [
         "s": "IHS Engineering360",
         "sc": "Online (marketplace)",
         "t": "engineering360",
-        "u": "http://www.globalspec.com/search/all?query={{{s}}}"
+        "u": "https://www.globalspec.com/search/all?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -25971,7 +25971,7 @@ export const bangs = [
         "s": "Eng Tips",
         "sc": "Design",
         "t": "engtips",
-        "u": "http://www.eng-tips.com/search.cfm?q={{{s}}}&action=search"
+        "u": "https://www.eng-tips.com/search.cfm?q={{{s}}}&action=search"
     },
     {
         "c": "Online Services",
@@ -26007,7 +26007,7 @@ export const bangs = [
         "s": "Enigma: Unpuzzling difficult Latin readings in medieval manuscripts",
         "sc": "Reference (words intl)",
         "t": "enig",
-        "u": "http://enigma.huma-num.fr/index.php?q=1&w={{{s}}}"
+        "u": "https://enigma.huma-num.fr/index.php?q=1&w={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -26241,7 +26241,7 @@ export const bangs = [
         "s": "Encyclopedia of Earth",
         "sc": "Reference (science)",
         "t": "eoearth",
-        "u": "http://www.eoearth.org/results/all/?searchnext=true&q={{{s}}}"
+        "u": "https://www.eoearth.org/results/all/?searchnext=true&q={{{s}}}"
     },
     {
         "c": "Translation",
@@ -26493,7 +26493,7 @@ export const bangs = [
         "s": "Episode World",
         "sc": "TV",
         "t": "epw",
-        "u": "http://www.episodeworld.com/search/?searchitem={{{s}}}"
+        "u": "https://www.episodeworld.com/search/?searchitem={{{s}}}"
     },
     {
         "c": "News",
@@ -26646,7 +26646,7 @@ export const bangs = [
         "s": "RSA Games",
         "sc": "Games (general)",
         "t": "escape",
-        "u": "http://rsagames.com/?s={{{s}}}"
+        "u": "https://rsagames.com/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -26691,7 +26691,7 @@ export const bangs = [
         "s": "ESEA",
         "sc": "Games (specific)",
         "t": "esea",
-        "u": "http://play.esea.net/index.php?s=search&query={{{s}}}"
+        "u": "https://play.esea.net/index.php?s=search&query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -26925,7 +26925,7 @@ export const bangs = [
         "s": "ESV Bible",
         "sc": "Books",
         "t": "esv",
-        "u": "http://www.esvbible.org/search/?q={{{s}}}"
+        "u": "https://www.esvbible.org/search/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -26934,7 +26934,7 @@ export const bangs = [
         "s": "ESVonline",
         "sc": "Reference (religion)",
         "t": "esvonline",
-        "u": "http://www.esvonline.org/search/{{{s}}}/"
+        "u": "https://www.esvonline.org/search/{{{s}}}/"
     },
     {
         "c": "Shopping",
@@ -27033,7 +27033,7 @@ export const bangs = [
         "s": "EtherScan",
         "sc": "Tools",
         "t": "eth",
-        "u": "http://etherscan.io/search?q={{{s}}}"
+        "u": "https://etherscan.io/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -27150,7 +27150,7 @@ export const bangs = [
         "s": "Europa Universalis III Wiki",
         "sc": "Games (specific)",
         "t": "eu3",
-        "u": "http://www.eu3wiki.com/index.php?title=Special:Search&search={{{s}}}"
+        "u": "https://www.eu3wiki.com/index.php?title=Special:Search&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -27321,7 +27321,7 @@ export const bangs = [
         "s": "Evans Cycles",
         "sc": "Online",
         "t": "evans",
-        "u": "http://www.evanscycles.com/search?query={{{s}}}&x=0&y=0"
+        "u": "https://www.evanscycles.com/search?query={{{s}}}&x=0&y=0"
     },
     {
         "c": "Research",
@@ -27366,7 +27366,7 @@ export const bangs = [
         "s": "EventID",
         "sc": "Sysadmin",
         "t": "eventid",
-        "u": "http://eventid.net/display.asp?eventid={{{s}}}&source="
+        "u": "https://eventid.net/display.asp?eventid={{{s}}}&source="
     },
     {
         "c": "Entertainment",
@@ -27375,7 +27375,7 @@ export const bangs = [
         "s": "Eventim",
         "sc": "Events",
         "t": "eventim",
-        "u": "http://www.eventim.de/Tickets.html?affiliate=TUG&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}&btn=true&x10=4"
+        "u": "https://www.eventim.de/Tickets.html?affiliate=TUG&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}&btn=true&x10=4"
     },
     {
         "c": "Online Services",
@@ -27429,7 +27429,7 @@ export const bangs = [
         "s": "EVESTA KASHI KENSAKU",
         "sc": "Music (Lyrics)",
         "t": "evesta",
-        "u": "http://www.evesta.jp/lyric/search2.php?ct=1&go=検索&a=&ca=0&l=&cl=0&k=&t={{{s}}}"
+        "u": "https://www.evesta.jp/lyric/search2.php?ct=1&go=検索&a=&ca=0&l=&cl=0&k=&t={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -27636,7 +27636,7 @@ export const bangs = [
         "s": "Excite",
         "sc": "Search",
         "t": "exite",
-        "u": "http://msxml.excite.com/search/web?q={{{s}}}"
+        "u": "https://msxml.excite.com/search/web?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -27807,7 +27807,7 @@ export const bangs = [
         "s": "EzyDVD",
         "sc": "Online",
         "t": "ezydvd",
-        "u": "http://www.ezydvd.com.au/search?q={{{s}}}&t=all"
+        "u": "https://www.ezydvd.com.au/search?q={{{s}}}&t=all"
     },
     {
         "c": "News",
@@ -27825,7 +27825,7 @@ export const bangs = [
         "s": "France 3",
         "sc": "Broadcast",
         "t": "f3",
-        "u": "http://www.france3.fr/recherche?s={{{s}}}"
+        "u": "https://www.france3.fr/recherche?s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -28032,7 +28032,7 @@ export const bangs = [
         "s": "Fallen London wiki",
         "sc": "Games (specific)",
         "t": "fallenlondon",
-        "u": "http://fallenlondon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+        "u": "https://fallenlondon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Entertainment",
@@ -28113,7 +28113,7 @@ export const bangs = [
         "s": "TheFancy",
         "sc": "Online",
         "t": "fancy",
-        "u": "http://www.thefancy.com/search?q={{{s}}}"
+        "u": "https://www.thefancy.com/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -28221,7 +28221,7 @@ export const bangs = [
         "s": "Farnell Italia",
         "sc": "Online",
         "t": "farit",
-        "u": "http://it.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-4&storeId=10165&categoryName=Tutte le categorie&selectedCategoryId=&gs=true&st={{{s}}}"
+        "u": "https://it.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-4&storeId=10165&categoryName=Tutte le categorie&selectedCategoryId=&gs=true&st={{{s}}}"
     },
     {
         "c": "News",
@@ -28257,7 +28257,7 @@ export const bangs = [
         "s": "Farnell DE",
         "sc": "Tech",
         "t": "farnde",
-        "u": "http://de.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-3&storeId=10161&categoryName=Alle Kategorien&selectedCategoryId=&gs=true&st={{{s}}}"
+        "u": "https://de.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-3&storeId=10161&categoryName=Alle Kategorien&selectedCategoryId=&gs=true&st={{{s}}}"
     },
     {
         "c": "Tech",
@@ -28266,7 +28266,7 @@ export const bangs = [
         "s": "Farnell (UK)",
         "sc": "Design",
         "t": "farnell",
-        "u": "http://uk.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
+        "u": "https://uk.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -28275,7 +28275,7 @@ export const bangs = [
         "s": "Farnell france",
         "sc": "Online",
         "t": "farnellfr",
-        "u": "http://fr.farnell.com/{{{s}}}"
+        "u": "https://fr.farnell.com/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -28509,7 +28509,7 @@ export const bangs = [
         "s": "FC Bayern Munich (ar)",
         "sc": "Sports",
         "t": "fcbar",
-        "u": "http://www.fcbayern.de/ar/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/ar/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28518,7 +28518,7 @@ export const bangs = [
         "s": "FC Bayern Munich (en)",
         "sc": "Sports",
         "t": "fcben",
-        "u": "http://www.fcbayern.de/en/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/en/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28527,7 +28527,7 @@ export const bangs = [
         "s": "FC Bayern Munich (es)",
         "sc": "Sports",
         "t": "fcbes",
-        "u": "http://www.fcbayern.de/es/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/es/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28536,7 +28536,7 @@ export const bangs = [
         "s": "FC Bayern München",
         "sc": "Sports",
         "t": "fcb",
-        "u": "http://www.fcbayern.de/de/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/de/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28545,7 +28545,7 @@ export const bangs = [
         "s": "FC Bayern Munich (jp)",
         "sc": "Sports",
         "t": "fcbjp",
-        "u": "http://www.fcbayern.de/jp/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/jp/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28554,7 +28554,7 @@ export const bangs = [
         "s": "FC Bayern Munich (ru)",
         "sc": "Sports",
         "t": "fcbru",
-        "u": "http://www.fcbayern.de/ru/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayern.de/ru/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Entertainment",
@@ -28563,7 +28563,7 @@ export const bangs = [
         "s": "FC Bayern Munich",
         "sc": "Sports",
         "t": "fcbus",
-        "u": "http://www.fcbayernmunich.com/us/search#search={{{s}}}&chronology=chrono"
+        "u": "https://www.fcbayernmunich.com/us/search#search={{{s}}}&chronology=chrono"
     },
     {
         "c": "Tech",
@@ -28725,7 +28725,7 @@ export const bangs = [
         "s": "freedesktop.org bugs",
         "sc": "Programming",
         "t": "fdobugs",
-        "u": "http://bugs.freedesktop.org/buglist.cgi?quicksearch={{{s}}}"
+        "u": "https://bugs.freedesktop.org/buglist.cgi?quicksearch={{{s}}}"
     },
     {
         "c": "Tech",
@@ -28896,7 +28896,7 @@ export const bangs = [
         "s": "fegtherm",
         "sc": "Services",
         "t": "fegtherm",
-        "u": "http://fegtherm.hu/?s={{{s}}}"
+        "u": "https://fegtherm.hu/?s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -28914,7 +28914,7 @@ export const bangs = [
         "s": "Felleskatalogen",
         "sc": "Tools",
         "t": "felleskatalogen",
-        "u": "http://felleskatalogen.no/medisin/sok?sokord={{{s}}}"
+        "u": "https://felleskatalogen.no/medisin/sok?sokord={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -29031,7 +29031,7 @@ export const bangs = [
         "s": "fanfiction.net",
         "sc": "Misc",
         "t": "ff",
-        "u": "http://www.fanfiction.net/search.php?type=story&keywords={{{s}}}&match=title&sort=0&genreid=0&subgenreid=0&characterid=0&subcharacterid=0&words=0&ready=1&categoryid=0"
+        "u": "https://www.fanfiction.net/search.php?type=story&keywords={{{s}}}&match=title&sort=0&genreid=0&subgenreid=0&characterid=0&subcharacterid=0&words=0&ready=1&categoryid=0"
     },
     {
         "c": "Online Services",
@@ -29337,7 +29337,7 @@ export const bangs = [
         "s": "Filefacts",
         "sc": "Downloads",
         "t": "filefacts",
-        "u": "http://www.filefacts.net/search.php?ext={{{s}}}"
+        "u": "https://www.filefacts.net/search.php?ext={{{s}}}"
     },
     {
         "c": "Tech",
@@ -29409,7 +29409,7 @@ export const bangs = [
         "s": "FilmOn",
         "sc": "TV",
         "t": "filmon",
-        "u": "http://www.filmon.tv/search/?term={{{s}}}"
+        "u": "https://www.filmon.tv/search/?term={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -29508,7 +29508,7 @@ export const bangs = [
         "s": "FindLaw",
         "sc": "Law",
         "t": "findlaw",
-        "u": "http://public.findlaw.com/LCsearch.html?entry={{{s}}}"
+        "u": "https://public.findlaw.com/LCsearch.html?entry={{{s}}}"
     },
     {
         "c": "Research",
@@ -29598,7 +29598,7 @@ export const bangs = [
         "s": "Finlex",
         "sc": "Law",
         "t": "finlex",
-        "u": "http://finlex.fi/fi/laki/haku/?search[type]=pika&search[pika]={{{s}}}"
+        "u": "https://finlex.fi/fi/laki/haku/?search[type]=pika&search[pika]={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -29643,7 +29643,7 @@ export const bangs = [
         "s": "Finnkino (en)",
         "sc": "Movies",
         "t": "finnkinoen",
-        "u": "http://www.finnkino.fi/eng/Search/?query={{{s}}}"
+        "u": "https://www.finnkino.fi/eng/Search/?query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -29652,7 +29652,7 @@ export const bangs = [
         "s": "Finnkino",
         "sc": "Movies",
         "t": "finnkino",
-        "u": "http://www.finnkino.fi/Search?query={{{s}}}"
+        "u": "https://www.finnkino.fi/Search?query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -29769,7 +29769,7 @@ export const bangs = [
         "s": "FIU Libraries EDS",
         "sc": "Academic",
         "t": "fiueds",
-        "u": "http://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[{{{s}}}]"
+        "u": "https://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[{{{s}}}]"
     },
     {
         "c": "Online Services",
@@ -29787,7 +29787,7 @@ export const bangs = [
         "s": "FixYT",
         "sc": "Video",
         "t": "fixyt",
-        "u": "http://fixyt.com/search?q={{{s}}}"
+        "u": "https://fixyt.com/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -29814,7 +29814,7 @@ export const bangs = [
         "s": "Flipkart",
         "sc": "Online",
         "t": "fk",
-        "u": "http://www.flipkart.com/search?q={{{s}}}"
+        "u": "https://www.flipkart.com/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -29850,7 +29850,7 @@ export const bangs = [
         "s": "Flask WebFramework",
         "sc": "Libraries/Frameworks",
         "t": "flask",
-        "u": "http://flask.pocoo.org/search/?q={{{s}}}"
+        "u": "https://flask.pocoo.org/search/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -30003,7 +30003,7 @@ export const bangs = [
         "s": "FlipJuke",
         "sc": "Forum",
         "t": "flipjuke",
-        "u": "http://www.flipjuke.fr/search.php?keywords={{{s}}}"
+        "u": "https://www.flipjuke.fr/search.php?keywords={{{s}}}"
     },
     {
         "c": "Research",
@@ -30030,7 +30030,7 @@ export const bangs = [
         "s": "Wildflower Center",
         "sc": "Learning",
         "t": "flower",
-        "u": "http://www.wildflower.org/plants/search.php?search_field={{{s}}}&newsearch=true"
+        "u": "https://www.wildflower.org/plants/search.php?search_field={{{s}}}&newsearch=true"
     },
     {
         "c": "Research",
@@ -30138,7 +30138,7 @@ export const bangs = [
         "s": "Foromedios",
         "sc": "Broadcast",
         "t": "fms",
-        "u": "http://www.foromedios.com/index.php?app=core&module=search&do=search&andor_type=&sid=&search_app_filters[forums][sortKey]=date&search_app_filters[forums][sortKey]=date&search_app_filters[forums][searchInKey]=&search_term={{{s}}}&search_app=forums"
+        "u": "https://www.foromedios.com/index.php?app=core&module=search&do=search&andor_type=&sid=&search_app_filters[forums][sortKey]=date&search_app_filters[forums][sortKey]=date&search_app_filters[forums][searchInKey]=&search_term={{{s}}}&search_app=forums"
     },
     {
         "c": "Entertainment",
@@ -30156,7 +30156,7 @@ export const bangs = [
         "s": "Fnac.es",
         "sc": "Online",
         "t": "fnaces",
-        "u": "http://busqueda.fnac.es/Search/SearchResult.aspx?SCat=0!1&Search={{{s}}}&sft=1&submitbtn=OK"
+        "u": "https://busqueda.fnac.es/Search/SearchResult.aspx?SCat=0!1&Search={{{s}}}&sft=1&submitbtn=OK"
     },
     {
         "c": "Shopping",
@@ -30165,7 +30165,7 @@ export const bangs = [
         "s": "fnac",
         "sc": "Online",
         "t": "fnac",
-        "u": "http://recherche.fnac.com/SearchResult/ResultList.aspx?Search={{{s}}}"
+        "u": "https://recherche.fnac.com/SearchResult/ResultList.aspx?Search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -30174,7 +30174,7 @@ export const bangs = [
         "s": "Fnac Portugal",
         "sc": "Online",
         "t": "fnacportugal",
-        "u": "http://pesquisa.fnac.pt/Search/SearchResult.aspx?Search={{{s}}}"
+        "u": "https://pesquisa.fnac.pt/Search/SearchResult.aspx?Search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -30300,7 +30300,7 @@ export const bangs = [
         "s": "FolkWiki",
         "sc": "Reference (fun)",
         "t": "folkwiki",
-        "u": "http://www.folkwiki.se/?n=Meta.Start&action=search&q={{{s}}}"
+        "u": "https://www.folkwiki.se/?n=Meta.Start&action=search&q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -30327,7 +30327,7 @@ export const bangs = [
         "s": "fonq",
         "sc": "Online (marketplace)",
         "t": "fonq",
-        "u": "http://www.fonq.be/nl_BE/search/?search_term={{{s}}}#s=2"
+        "u": "https://www.fonq.be/nl_BE/search/?search_term={{{s}}}#s=2"
     },
     {
         "c": "Shopping",
@@ -30345,7 +30345,7 @@ export const bangs = [
         "s": "Identifont",
         "sc": "Reference",
         "t": "font",
-        "u": "http://www.identifont.com/find?similar={{{s}}}"
+        "u": "https://www.identifont.com/find?similar={{{s}}}"
     },
     {
         "c": "Tech",
@@ -30372,7 +30372,7 @@ export const bangs = [
         "s": "Identifont (similar)",
         "sc": "Reference",
         "t": "fontslike",
-        "u": "http://www.identifont.com/find?similar={{{s}}}&q=Go"
+        "u": "https://www.identifont.com/find?similar={{{s}}}&q=Go"
     },
     {
         "c": "Tech",
@@ -30417,7 +30417,7 @@ export const bangs = [
         "s": "Food Network",
         "sc": "Misc",
         "t": "foodnetwork",
-        "u": "http://www.foodnetwork.com/search/delegate.do?fnSearchString={{{s}}}&fnSearchType=site"
+        "u": "https://www.foodnetwork.com/search/delegate.do?fnSearchString={{{s}}}&fnSearchType=site"
     },
     {
         "c": "Research",
@@ -30462,7 +30462,7 @@ export const bangs = [
         "s": "Foot Locker",
         "sc": "Online",
         "t": "footlocker",
-        "u": "http://www.footlocker.com/_-_/keyword-{{{s}}}"
+        "u": "https://www.footlocker.com/_-_/keyword-{{{s}}}"
     },
     {
         "c": "News",
@@ -30534,7 +30534,7 @@ export const bangs = [
         "s": "Epic Games Fortnite",
         "sc": "Games (general)",
         "t": "fortnite",
-        "u": "http://epicgames.com/fortnite/en-US/search?q={{{s}}}"
+        "u": "https://epicgames.com/fortnite/en-US/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -30552,7 +30552,7 @@ export const bangs = [
         "s": "Forvo",
         "sc": "Reference (words)",
         "t": "forvo",
-        "u": "http://forvo.com/search/{{{s}}}/"
+        "u": "https://forvo.com/search/{{{s}}}/"
     },
     {
         "c": "Tech",
@@ -30678,7 +30678,7 @@ export const bangs = [
         "s": "Foyles",
         "sc": "Online",
         "t": "foyles",
-        "u": "http://www.foyles.co.uk/qsearch/All/All?term={{{s}}}"
+        "u": "https://www.foyles.co.uk/qsearch/All/All?term={{{s}}}"
     },
     {
         "c": "Tech",
@@ -30696,7 +30696,7 @@ export const bangs = [
         "s": "freepatentsonline",
         "sc": "Search",
         "t": "fpo",
-        "u": "http://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt={{{s}}}&submit=&patents=on"
+        "u": "https://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt={{{s}}}&submit=&patents=on"
     },
     {
         "c": "Tech",
@@ -30795,7 +30795,7 @@ export const bangs = [
         "s": "Slovarji Inštituta za slovenski jezik Frana Ramovša ZRC SAZU",
         "sc": "Reference (words intl)",
         "t": "fran",
-        "u": "http://www.fran.si/iskanje?View=2&Query={{{s}}}"
+        "u": "https://www.fran.si/iskanje?View=2&Query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -31488,7 +31488,7 @@ export const bangs = [
         "s": "FilmUP.com",
         "sc": "Movies",
         "t": "fup",
-        "u": "http://filmup.com/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q={{{s}}}"
+        "u": "https://filmup.com/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -31686,7 +31686,7 @@ export const bangs = [
         "s": "FreeBSD Cross Reference",
         "sc": "Programming",
         "t": "fxr",
-        "u": "http://fxr.watson.org/fxr/ident?i={{{s}}}"
+        "u": "https://fxr.watson.org/fxr/ident?i={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -31866,7 +31866,7 @@ export const bangs = [
         "s": "Gdgts",
         "sc": "Blogs",
         "t": "gadgets",
-        "u": "http://gdgts.de/?s={{{s}}}"
+        "u": "https://gdgts.de/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -32028,7 +32028,7 @@ export const bangs = [
         "s": "GameFAQs.com",
         "sc": "Games (general)",
         "t": "gamefaqs",
-        "u": "http://www.gamefaqs.com/search/index.html?game={{{s}}}&platform=0"
+        "u": "https://www.gamefaqs.com/search/index.html?game={{{s}}}&platform=0"
     },
     {
         "c": "Research",
@@ -32055,7 +32055,7 @@ export const bangs = [
         "s": "Game",
         "sc": "Online",
         "t": "game",
-        "u": "http://www.game.co.uk/webapp/wcs/stores/servlet/AjaxCatalogSearch?storeId=10151&catalogId=10201&langId=44&pageSize=&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&predictiveSearchURL=&searchTerm={{{s}}}&searchBtn=z"
+        "u": "https://www.game.co.uk/webapp/wcs/stores/servlet/AjaxCatalogSearch?storeId=10151&catalogId=10201&langId=44&pageSize=&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&predictiveSearchURL=&searchTerm={{{s}}}&searchBtn=z"
     },
     {
         "c": "Entertainment",
@@ -32226,7 +32226,7 @@ export const bangs = [
         "s": "The Gamingbox",
         "sc": "Games (general)",
         "t": "gamingbox",
-        "u": "http://thegamingbox.pfweb.eu/?s={{{s}}}"
+        "u": "https://thegamingbox.pfweb.eu/?s={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -32379,7 +32379,7 @@ export const bangs = [
         "s": "Gatherer",
         "sc": "Games (specific)",
         "t": "gatherer",
-        "u": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+        "u": "https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
     },
     {
         "c": "Online Services",
@@ -32505,7 +32505,7 @@ export const bangs = [
         "s": "Gigablast",
         "sc": "Search",
         "t": "gblast",
-        "u": "http://gigablast.org/search?q={{{s}}}"
+        "u": "https://gigablast.org/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -32523,7 +32523,7 @@ export const bangs = [
         "s": "German-Bash.org",
         "sc": "Misc",
         "t": "gbo",
-        "u": "http://german-bash.org/?searchtext={{{s}}}&search_in=both&action=search_"
+        "u": "https://german-bash.org/?searchtext={{{s}}}&search_in=both&action=search_"
     },
     {
         "c": "Research",
@@ -32685,7 +32685,7 @@ export const bangs = [
         "s": "Great Circle Mapper",
         "sc": "Travel",
         "t": "gcmap",
-        "u": "http://www.gcmap.com/mapui?P={{{s}}}"
+        "u": "https://www.gcmap.com/mapui?P={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -32775,7 +32775,7 @@ export const bangs = [
         "s": "Deutsches Creepypasta Wikia",
         "sc": "Misc",
         "t": "gcw",
-        "u": "http://de.creepypasta.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
+        "u": "https://de.creepypasta.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -32910,7 +32910,7 @@ export const bangs = [
         "s": "Gran diccionari de la llengua catalana",
         "sc": "Academic",
         "t": "gdlc",
-        "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0"
+        "u": "https://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0"
     },
     {
         "c": "Online Services",
@@ -33414,7 +33414,7 @@ export const bangs = [
         "s": "Zeno.org - Georges 1913",
         "sc": "Learning (intl)",
         "t": "georges",
-        "u": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Georges-1913"
+        "u": "https://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Georges-1913"
     },
     {
         "c": "Online Services",
@@ -33459,7 +33459,7 @@ export const bangs = [
         "s": "Getchu.com",
         "sc": "Online",
         "t": "getchu",
-        "u": "http://www.getchu.com/php/nsearch.phtml?search_keyword={{{s}}}"
+        "u": "https://www.getchu.com/php/nsearch.phtml?search_keyword={{{s}}}"
     },
     {
         "c": "Translation",
@@ -33486,7 +33486,7 @@ export const bangs = [
         "s": "GetLinkInfo",
         "sc": "Tools (URLs)",
         "t": "getlinkinfo",
-        "u": "http://www.getlinkinfo.com/info?link={{{s}}}"
+        "u": "https://www.getlinkinfo.com/info?link={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -33531,7 +33531,7 @@ export const bangs = [
         "s": "GameFAQs",
         "sc": "Games (general)",
         "t": "gfaq",
-        "u": "http://www.gamefaqs.com/search/index.html?game={{{s}}}"
+        "u": "https://www.gamefaqs.com/search/index.html?game={{{s}}}"
     },
     {
         "c": "Translation",
@@ -33729,7 +33729,7 @@ export const bangs = [
         "s": "Global Game Jam",
         "sc": "Design",
         "t": "ggj",
-        "u": "http://globalgamejam.org/?q={{{s}}}"
+        "u": "https://globalgamejam.org/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -34008,7 +34008,7 @@ export const bangs = [
         "s": "GIA",
         "sc": "Tracking",
         "t": "gia",
-        "u": "http://www.gia.edu/cs/Satellite?pagename=GST/Dispatcher&childpagename=GIA/Page/ReportCheck&c=Page&cid=1355954554547&reportno={{{s}}}"
+        "u": "https://www.gia.edu/cs/Satellite?pagename=GST/Dispatcher&childpagename=GIA/Page/ReportCheck&c=Page&cid=1355954554547&reportno={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -34152,7 +34152,7 @@ export const bangs = [
         "s": "GIGABLAST",
         "sc": "Search",
         "t": "gigablast",
-        "u": "http://www.gigablast.org/search?q={{{s}}}"
+        "u": "https://www.gigablast.org/search?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -34170,7 +34170,7 @@ export const bangs = [
         "s": "Gigantti Finland",
         "sc": "Online",
         "t": "gigantti",
-        "u": "http://www.gigantti.fi/search?SearchTerm={{{s}}}"
+        "u": "https://www.gigantti.fi/search?SearchTerm={{{s}}}"
     },
     {
         "c": "Tech",
@@ -34656,7 +34656,7 @@ export const bangs = [
         "s": "Glyde",
         "sc": "Online (marketplace)",
         "t": "glyde",
-        "u": "http://glyde.com/stores/glyde#!display_as=2&s_query={{{s}}}"
+        "u": "https://glyde.com/stores/glyde#!display_as=2&s_query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -35313,7 +35313,7 @@ export const bangs = [
         "s": "Wiki Göttingen",
         "sc": "General",
         "t": "goettingen",
-        "u": "http://www.wiki-goettingen.de/index.php?search={{{s}}}"
+        "u": "https://www.wiki-goettingen.de/index.php?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -35367,7 +35367,7 @@ export const bangs = [
         "s": "gokifu.com",
         "sc": "Games (offline)",
         "t": "gokifu",
-        "u": "http://gokifu.com/index.php?q={{{s}}}"
+        "u": "https://gokifu.com/index.php?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -35727,7 +35727,7 @@ export const bangs = [
         "s": "Number Gossip",
         "sc": "Learning",
         "t": "gossip",
-        "u": "http://www.numbergossip.com/?number={{{s}}}"
+        "u": "https://www.numbergossip.com/?number={{{s}}}"
     },
     {
         "c": "Tech",
@@ -35826,7 +35826,7 @@ export const bangs = [
         "s": "Go Wireless NZ",
         "sc": "Online",
         "t": "gowifi",
-        "u": "http://www.gowifi.co.nz/product-search.html?keyword={{{s}}}"
+        "u": "https://www.gowifi.co.nz/product-search.html?keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -36105,7 +36105,7 @@ export const bangs = [
         "s": "Classical Armenian to Modern Armenian Dictionary",
         "sc": "Reference (words)",
         "t": "grabar",
-        "u": "http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=28&dt=HY_HY&query={{{s}}}"
+        "u": "https://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=28&dt=HY_HY&query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -36150,7 +36150,7 @@ export const bangs = [
         "s": "grailed",
         "sc": "Online (marketplace)",
         "t": "grailed",
-        "u": "http://www.grailed.com/search?search={{{s}}}"
+        "u": "https://www.grailed.com/search?search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -37788,7 +37788,7 @@ export const bangs = [
         "s": "Günstiger.de",
         "sc": "Online (deals)",
         "t": "gue",
-        "u": "http://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}"
+        "u": "https://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}"
     },
     {
         "c": "News",
@@ -37887,7 +37887,7 @@ export const bangs = [
         "s": "GunBroker",
         "sc": "Online (marketplace)",
         "t": "gunbroker",
-        "u": "http://www.gunbroker.com/All/BI.aspx?Keywords={{{s}}}"
+        "u": "https://www.gunbroker.com/All/BI.aspx?Keywords={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -38094,7 +38094,7 @@ export const bangs = [
         "s": "Gale Virtual Reference Library",
         "sc": "Academic",
         "t": "gvrl",
-        "u": "http://go.galegroup.com/ps/headerQuickSearch.do?quickSearchTerm={{{s}}}&inputFieldNames[0]=OQE&searchType=BasicSearchForm&userGroupName=mlin_m_newtnsh&nwf=y&prodId=GVRL&stw.option=&ebook=&quicksearchIndex=OQE&spellCheck=true&hasCoProduct=false"
+        "u": "https://go.galegroup.com/ps/headerQuickSearch.do?quickSearchTerm={{{s}}}&inputFieldNames[0]=OQE&searchType=BasicSearchForm&userGroupName=mlin_m_newtnsh&nwf=y&prodId=GVRL&stw.option=&ebook=&quicksearchIndex=OQE&spellCheck=true&hasCoProduct=false"
     },
     {
         "c": "Entertainment",
@@ -38337,7 +38337,7 @@ export const bangs = [
         "s": "Geizhals",
         "sc": "Online (deals)",
         "t": "gzh",
-        "u": "http://www.geizhals.at/eu/?such={{{s}}}"
+        "u": "https://www.geizhals.at/eu/?such={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -38355,7 +38355,7 @@ export const bangs = [
         "s": "h2g2",
         "sc": "Reference (fun)",
         "t": "h2g2",
-        "u": "http://www.h2g2.com/search?search_type=article_quick_search&searchstring={{{s}}}&approved_entries_only_chk=1"
+        "u": "https://www.h2g2.com/search?search_type=article_quick_search&searchstring={{{s}}}&approved_entries_only_chk=1"
     },
     {
         "c": "Online Services",
@@ -38382,7 +38382,7 @@ export const bangs = [
         "s": "Habbo Ruilwaarde",
         "sc": "Games (specific)",
         "t": "habbotrading",
-        "u": "http://www.ruilwaarde.nl/?p={{{s}}}"
+        "u": "https://www.ruilwaarde.nl/?p={{{s}}}"
     },
     {
         "c": "Tech",
@@ -38481,7 +38481,7 @@ export const bangs = [
         "s": "Search-Hadoop",
         "sc": "Libraries/Frameworks",
         "t": "hadoop",
-        "u": "http://search-hadoop.com/?q={{{s}}}"
+        "u": "https://search-hadoop.com/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -38580,7 +38580,7 @@ export const bangs = [
         "s": "Naver Hanja Dictionary",
         "sc": "Reference (words intl)",
         "t": "hanja",
-        "u": "http://hanja.naver.com/search?query={{{s}}}"
+        "u": "https://hanja.naver.com/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -38589,7 +38589,7 @@ export const bangs = [
         "s": "Hannaford",
         "sc": "Big box/department",
         "t": "hannaford",
-        "u": "http://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword={{{s}}}"
+        "u": "https://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword={{{s}}}"
     },
     {
         "c": "Research",
@@ -38625,7 +38625,7 @@ export const bangs = [
         "s": "hanziDB",
         "sc": "Learning (intl)",
         "t": "hanzidb",
-        "u": "http://hanzidb.org/character/{{{s}}}"
+        "u": "https://hanzidb.org/character/{{{s}}}"
     },
     {
         "c": "Research",
@@ -38661,7 +38661,7 @@ export const bangs = [
         "s": "Hakkani",
         "sc": "Video",
         "t": "haq",
-        "u": "http://hakkani.org/?term={{{s}}}"
+        "u": "https://hakkani.org/?term={{{s}}}"
     },
     {
         "c": "News",
@@ -38841,7 +38841,7 @@ export const bangs = [
         "s": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen",
         "sc": "Reference (science)",
         "t": "hbz",
-        "u": "http://okeanos-www.hbz-nrw.de/F/?func=find-c&ccl_term=WRD=\"{{{s}}}\""
+        "u": "https://okeanos-www.hbz-nrw.de/F/?func=find-c&ccl_term=WRD=\"{{{s}}}\""
     },
     {
         "c": "Entertainment",
@@ -38850,7 +38850,7 @@ export const bangs = [
         "s": "HolidayCheck",
         "sc": "Games (WOW)",
         "t": "hc",
-        "u": "http://www.holidaycheck.de/schnellsuche.php?q={{{s}}}"
+        "u": "https://www.holidaycheck.de/schnellsuche.php?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -38922,7 +38922,7 @@ export const bangs = [
         "s": "Hyperdictionary",
         "sc": "Reference (words)",
         "t": "hdict",
-        "u": "http://hyperdictionary.com/search.aspx?define={{{s}}}"
+        "u": "https://hyperdictionary.com/search.aspx?define={{{s}}}"
     },
     {
         "c": "Tech",
@@ -38976,7 +38976,7 @@ export const bangs = [
         "s": "Home Depot",
         "sc": "Big box/department",
         "t": "hdx",
-        "u": "http://www.homedepot.com/s/{{{s}}}"
+        "u": "https://www.homedepot.com/s/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -39075,7 +39075,7 @@ export const bangs = [
         "s": "HEEZA - L'Univers du Cartoon",
         "sc": "Comics",
         "t": "heeza",
-        "u": "http://www.heeza.fr/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Rechercher"
+        "u": "https://www.heeza.fr/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Rechercher"
     },
     {
         "c": "Research",
@@ -39192,7 +39192,7 @@ export const bangs = [
         "s": "Hepsi Burada",
         "sc": "Online",
         "t": "hepsib",
-        "u": "http://www.hepsiburada.com/ara?q={{{s}}}"
+        "u": "https://www.hepsiburada.com/ara?q={{{s}}}"
     },
     {
         "c": "News",
@@ -39372,7 +39372,7 @@ export const bangs = [
         "s": "HardcoreGaming101",
         "sc": "Games (general)",
         "t": "hg101",
-        "u": "http://www.hardcoregaming101.net/?s={{{s}}}"
+        "u": "https://www.hardcoregaming101.net/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -39462,7 +39462,7 @@ export const bangs = [
         "s": "Hi5",
         "sc": "Social",
         "t": "hi5",
-        "u": "http://hi5.com/friend/processHeaderNameSearch.do?searchText={{{s}}}"
+        "u": "https://hi5.com/friend/processHeaderNameSearch.do?searchText={{{s}}}"
     },
     {
         "c": "Tech",
@@ -39921,7 +39921,7 @@ export const bangs = [
         "s": "Hearts of Iron 3 Wiki",
         "sc": "Games (specific)",
         "t": "hoi3",
-        "u": "http://www.hoi3wiki.com/index.php?search={{{s}}}"
+        "u": "https://www.hoi3wiki.com/index.php?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -40164,7 +40164,7 @@ export const bangs = [
         "s": "Hotstar",
         "sc": "TV",
         "t": "hotsar",
-        "u": "http://www.hotstar.com/search?q={{{s}}}"
+        "u": "https://www.hotstar.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -40281,7 +40281,7 @@ export const bangs = [
         "s": "HowtoForge",
         "sc": "Blogs",
         "t": "howtoforge",
-        "u": "http://www.howtoforge.com/trip_search?keys={{{s}}}"
+        "u": "https://www.howtoforge.com/trip_search?keys={{{s}}}"
     },
     {
         "c": "Tech",
@@ -40335,7 +40335,7 @@ export const bangs = [
         "s": "HP",
         "sc": "Companies",
         "t": "hp",
-        "u": "http://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt={{{s}}}&la=en&cc=us"
+        "u": "https://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt={{{s}}}&la=en&cc=us"
     },
     {
         "c": "Research",
@@ -40416,7 +40416,7 @@ export const bangs = [
         "s": "Homestar Runner Wiki",
         "sc": "Misc",
         "t": "hrwiki",
-        "u": "http://hrwiki.org/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "https://hrwiki.org/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
     },
     {
         "c": "Research",
@@ -40452,7 +40452,7 @@ export const bangs = [
         "s": "Honyaku Star",
         "sc": "Reference (words intl)",
         "t": "hs",
-        "u": "http://honyakustar.com/en/{{{s}}}"
+        "u": "https://honyakustar.com/en/{{{s}}}"
     },
     {
         "c": "Research",
@@ -40749,7 +40749,7 @@ export const bangs = [
         "s": "The Humble Wiki",
         "sc": "Misc",
         "t": "humblewiki",
-        "u": "http://humble.wikia.com/w/{{{s}}}"
+        "u": "https://humble.wikia.com/w/{{{s}}}"
     },
     {
         "c": "News",
@@ -40911,7 +40911,7 @@ export const bangs = [
         "s": "HYMN",
         "sc": "Music",
         "t": "hymn",
-        "u": "http://hymn.se/?s={{{s}}}"
+        "u": "https://hymn.se/?s={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -40956,7 +40956,7 @@ export const bangs = [
         "s": "hypestat",
         "sc": "Domains",
         "t": "hypestat",
-        "u": "http://www.{{{s}}}.hypestat.com/"
+        "u": "https://www.{{{s}}}.hypestat.com/"
     },
     {
         "c": "Online Services",
@@ -41073,7 +41073,7 @@ export const bangs = [
         "s": "iAppMag",
         "sc": "Blogs",
         "t": "iappmag",
-        "u": "http://www.iappmag.de/?s={{{s}}}"
+        "u": "https://www.iappmag.de/?s={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -41307,7 +41307,7 @@ export const bangs = [
         "s": "ICD9Data.com",
         "sc": "Health",
         "t": "icd9",
-        "u": "http://www.icd9data.com/Search/?q={{{s}}}"
+        "u": "https://www.icd9data.com/Search/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -41712,7 +41712,7 @@ export const bangs = [
         "s": "IENS",
         "sc": "Food",
         "t": "iens",
-        "u": "http://www.iens.nl/restaurant?q={{{s}}}"
+        "u": "https://www.iens.nl/restaurant?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -41784,7 +41784,7 @@ export const bangs = [
         "s": "Institue For High-Voltage Technology",
         "sc": "Academic",
         "t": "ifht",
-        "u": "http://www.ifht.rwth-aachen.de/ca/be/ovbs/?lidx=&search={{{s}}}"
+        "u": "https://www.ifht.rwth-aachen.de/ca/be/ovbs/?lidx=&search={{{s}}}"
     },
     {
         "c": "Research",
@@ -41901,7 +41901,7 @@ export const bangs = [
         "s": "igra-apple",
         "sc": "Games (general)",
         "t": "igra",
-        "u": "http://igra-apple.ru/?s={{{s}}}"
+        "u": "https://igra-apple.ru/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -42108,7 +42108,7 @@ export const bangs = [
         "s": "Ikkepedia",
         "sc": "Academic",
         "t": "ikkepedia",
-        "u": "http://ikkepedia.org/wiki/{{{s}}}"
+        "u": "https://ikkepedia.org/wiki/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -42171,7 +42171,7 @@ export const bangs = [
         "s": "iLounge",
         "sc": "Blogs",
         "t": "ilounge",
-        "u": "http://www.ilounge.com/index.php/search/results/search&keywords={{{s}}}"
+        "u": "https://www.ilounge.com/index.php/search/results/search&keywords={{{s}}}"
     },
     {
         "c": "Tech",
@@ -42270,7 +42270,7 @@ export const bangs = [
         "s": "Project iM@S Wiki",
         "sc": "Games (specific)",
         "t": "imas",
-        "u": "http://www.project-imas.com/w/index.php?search={{{s}}}&title=Special:Search&go=Go"
+        "u": "https://www.project-imas.com/w/index.php?search={{{s}}}&title=Special:Search&go=Go"
     },
     {
         "c": "Entertainment",
@@ -42279,7 +42279,7 @@ export const bangs = [
         "s": "project-imas.com wiki",
         "sc": "Games (general)",
         "t": "imaswiki",
-        "u": "http://www.project-imas.com/w/index.php?search={{{s}}}"
+        "u": "https://www.project-imas.com/w/index.php?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -42531,7 +42531,7 @@ export const bangs = [
         "s": "INeedaBargain.com",
         "sc": "Online (deals)",
         "t": "inab",
-        "u": "http://www.ineedabargain.com/deals/search?q={{{s}}}"
+        "u": "https://www.ineedabargain.com/deals/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -42576,7 +42576,7 @@ export const bangs = [
         "s": "incisozluk",
         "sc": "Search (non-US)",
         "t": "inci",
-        "u": "http://inci.sozlukspot.com/w/{{{s}}}"
+        "u": "https://inci.sozlukspot.com/w/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -42603,7 +42603,7 @@ export const bangs = [
         "s": "Indeed",
         "sc": "Jobs",
         "t": "indeed",
-        "u": "http://www.indeed.com/jobs?q={{{s}}}"
+        "u": "https://www.indeed.com/jobs?q={{{s}}}"
     },
     {
         "c": "News",
@@ -42693,7 +42693,7 @@ export const bangs = [
         "s": "Inet",
         "sc": "Online",
         "t": "inet",
-        "u": "http://www.inet.se/hitta?q={{{s}}}"
+        "u": "https://www.inet.se/hitta?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -42837,7 +42837,7 @@ export const bangs = [
         "s": "Inkeri Klubi – Клуб Ингрия",
         "sc": "Specialty",
         "t": "inkeri",
-        "u": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}"
+        "u": "https://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -43026,7 +43026,7 @@ export const bangs = [
         "s": "Instant Logo Search",
         "sc": "Images",
         "t": "instantlogo",
-        "u": "http://instantlogosearch.com/?q={{{s}}}"
+        "u": "https://instantlogosearch.com/?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -43071,7 +43071,7 @@ export const bangs = [
         "s": "Intel",
         "sc": "Companies",
         "t": "intel",
-        "u": "http://www.intel.com/content/www/us/en/search.html?keyword={{{s}}}"
+        "u": "https://www.intel.com/content/www/us/en/search.html?keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -43305,7 +43305,7 @@ export const bangs = [
         "s": "theel0ja.info's IPLookup",
         "sc": "Sysadmin",
         "t": "iplookup",
-        "u": "http://iplookup.theel0ja.info/?host={{{s}}}"
+        "u": "https://iplookup.theel0ja.info/?host={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -43341,7 +43341,7 @@ export const bangs = [
         "s": "IP Tracker",
         "sc": "Tracking",
         "t": "iptracker",
-        "u": "http://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}}"
+        "u": "https://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}}"
     },
     {
         "c": "Tech",
@@ -43350,7 +43350,7 @@ export const bangs = [
         "s": "chair6.net",
         "sc": "Sysadmin (network)",
         "t": "ipv6",
-        "u": "http://ready.chair6.net/?url={{{s}}}"
+        "u": "https://ready.chair6.net/?url={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -43368,7 +43368,7 @@ export const bangs = [
         "s": "WhatIsMyIPAddress.com",
         "sc": "Sysadmin",
         "t": "ip",
-        "u": "http://whatismyipaddress.com/ip/{{{s}}}"
+        "u": "https://whatismyipaddress.com/ip/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -43521,7 +43521,7 @@ export const bangs = [
         "s": "iScrapApp",
         "sc": "Local",
         "t": "iscrap",
-        "u": "http://iscrapapp.com/?SearchTxt={{{s}}}"
+        "u": "https://iscrapapp.com/?SearchTxt={{{s}}}"
     },
     {
         "c": "Tech",
@@ -44088,7 +44088,7 @@ export const bangs = [
         "s": "JAL",
         "sc": "Services",
         "t": "jal",
-        "u": "http://www.jal.co.jp/cgi-bin/jal/insite_search/index.cgi?keyword={{{s}}}&collection=jalcojp&charset=shift_jis"
+        "u": "https://www.jal.co.jp/cgi-bin/jal/insite_search/index.cgi?keyword={{{s}}}&collection=jalcojp&charset=shift_jis"
     },
     {
         "c": "Entertainment",
@@ -44160,7 +44160,7 @@ export const bangs = [
         "s": "FindJar.com",
         "sc": "Languages (java)",
         "t": "jar",
-        "u": "http://www.findjar.com/index.x?query={{{s}}}"
+        "u": "https://www.findjar.com/index.x?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -44349,7 +44349,7 @@ export const bangs = [
         "s": "Jaycar",
         "sc": "Tech",
         "t": "jay",
-        "u": "http://www.jaycar.com.au/search?text={{{s}}}"
+        "u": "https://www.jaycar.com.au/search?text={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -44412,7 +44412,7 @@ export const bangs = [
         "s": "JustDial Canada",
         "sc": "Local",
         "t": "jdca",
-        "u": "http://ca.justdial.com/allus/{{{s}}}"
+        "u": "https://ca.justdial.com/allus/{{{s}}}"
     },
     {
         "c": "News",
@@ -44439,7 +44439,7 @@ export const bangs = [
         "s": "JustDial India",
         "sc": "Local",
         "t": "jdin",
-        "u": "http://www.justdial.com/National-Search/{{{s}}}"
+        "u": "https://www.justdial.com/National-Search/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -44466,7 +44466,7 @@ export const bangs = [
         "s": "JustDial Pune",
         "sc": "Local",
         "t": "jdpune",
-        "u": "http://www.justdial.com/Pune/{{{s}}}"
+        "u": "https://www.justdial.com/Pune/{{{s}}}"
     },
     {
         "c": "Research",
@@ -44475,7 +44475,7 @@ export const bangs = [
         "s": "J D Weatherpoon",
         "sc": "Local",
         "t": "jdw",
-        "u": "http://www.jdwetherspoon.co.uk/home/pubs/find/{{{s}}}"
+        "u": "https://www.jdwetherspoon.co.uk/home/pubs/find/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -44508,7 +44508,7 @@ export const bangs = [
         "c": "Research",
         "d": "www.jedisjeux.net",
         "r": 0,
-        "s": "http://www.jedisjeux.net/",
+        "s": "https://www.jedisjeux.net/",
         "sc": "Local",
         "t": "jedis",
         "u": "https://www.jedisjeux.net/search_results.php?search={{{s}}}&button_search=Ok"
@@ -44682,7 +44682,7 @@ export const bangs = [
         "s": "Website des JHG-Traunreut",
         "sc": "Learning",
         "t": "jhg",
-        "u": "http://jhg-traunreut.de/index.php?q={{{s}}}&option=com_finder&view=search"
+        "u": "https://jhg-traunreut.de/index.php?q={{{s}}}&option=com_finder&view=search"
     },
     {
         "c": "Research",
@@ -44763,7 +44763,7 @@ export const bangs = [
         "s": "Jinja",
         "sc": "Libraries/Frameworks",
         "t": "jj",
-        "u": "http://jinja.pocoo.org/docs/2.10/search/?q={{{s}}}"
+        "u": "https://jinja.pocoo.org/docs/2.10/search/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -44772,7 +44772,7 @@ export const bangs = [
         "s": "John Lewis",
         "sc": "Online",
         "t": "jl",
-        "u": "http://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}"
+        "u": "https://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}"
     },
     {
         "c": "News",
@@ -44781,7 +44781,7 @@ export const bangs = [
         "s": "Jean-Luc Mélenchon",
         "sc": "Specialty",
         "t": "jlm",
-        "u": "http://www.jean-luc-melenchon.fr/?s={{{s}}}"
+        "u": "https://www.jean-luc-melenchon.fr/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -44871,7 +44871,7 @@ export const bangs = [
         "s": "Indeed Canada",
         "sc": "Jobs",
         "t": "jobsca",
-        "u": "http://www.indeed.ca/jobs?q={{{s}}}"
+        "u": "https://www.indeed.ca/jobs?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -45033,7 +45033,7 @@ export const bangs = [
         "s": "Naver Japanese Dictionary",
         "sc": "Learning",
         "t": "jpdic",
-        "u": "http://jpdic.naver.com/search.nhn?query={{{s}}}"
+        "u": "https://jpdic.naver.com/search.nhn?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -45267,7 +45267,7 @@ export const bangs = [
         "s": "Just The Word",
         "sc": "Learning",
         "t": "jtw",
-        "u": "http://www.just-the-word.com/api/combinations?word={{{s}}}"
+        "u": "https://www.just-the-word.com/api/combinations?word={{{s}}}"
     },
     {
         "c": "Tech",
@@ -45330,7 +45330,7 @@ export const bangs = [
         "s": "Jumbo Supermarkten",
         "sc": "Online (marketplace)",
         "t": "jumbosupermarkt",
-        "u": "http://www.jumbo.com/zoeken?SearchTerm={{{s}}}"
+        "u": "https://www.jumbo.com/zoeken?SearchTerm={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -45546,7 +45546,7 @@ export const bangs = [
         "s": "Jehovah's Witnesses",
         "sc": "Reference (religion)",
         "t": "jw",
-        "u": "http://www.jw.org/en/search/?q={{{s}}}"
+        "u": "https://www.jw.org/en/search/?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -45708,7 +45708,7 @@ export const bangs = [
         "s": "Kamelopedia",
         "sc": "Misc",
         "t": "kamelopedia",
-        "u": "http://kamelopedia.mormo.org/index.php?title=Spezial:Suche&search={{{s}}}&button=Senden"
+        "u": "https://kamelopedia.mormo.org/index.php?title=Spezial:Suche&search={{{s}}}&button=Senden"
     },
     {
         "c": "Research",
@@ -45798,7 +45798,7 @@ export const bangs = [
         "s": "Karma Decay",
         "sc": "Search",
         "t": "karmadecay",
-        "u": "http://karmadecay.com/{{{s}}}"
+        "u": "https://karmadecay.com/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -45870,7 +45870,7 @@ export const bangs = [
         "s": "Kateglo",
         "sc": "Reference (words intl)",
         "t": "kateglo",
-        "u": "http://kateglo.lostfocus.org/?phrase={{{s}}}&mod=dictionary"
+        "u": "https://kateglo.lostfocus.org/?phrase={{{s}}}&mod=dictionary"
     },
     {
         "c": "Shopping",
@@ -45924,7 +45924,7 @@ export const bangs = [
         "s": "Kuldne Börs",
         "sc": "Online (intl)",
         "t": "kbors",
-        "u": "http://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string={{{s}}}"
+        "u": "https://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string={{{s}}}"
     },
     {
         "c": "News",
@@ -45942,7 +45942,7 @@ export const bangs = [
         "s": "konachan.net",
         "sc": "Misc",
         "t": "kchannet",
-        "u": "http://konachan.net/post?tags={{{s}}}"
+        "u": "https://konachan.net/post?tags={{{s}}}"
     },
     {
         "c": "Research",
@@ -45969,7 +45969,7 @@ export const bangs = [
         "s": "KittyCorp: MeowMix",
         "sc": "Games (specific)",
         "t": "kcmm",
-        "u": "http://kc-mm.com/?s={{{s}}}"
+        "u": "https://kc-mm.com/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -46014,7 +46014,7 @@ export const bangs = [
         "s": "Kanji Damage",
         "sc": "Learning (intl)",
         "t": "kd",
-        "u": "http://kanjidamage.com/kanji/search?utf8=%E2%9C%93&q={{{s}}}"
+        "u": "https://kanjidamage.com/kanji/search?utf8=%E2%9C%93&q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -46257,7 +46257,7 @@ export const bangs = [
         "s": "KickNews",
         "sc": "Sports",
         "t": "kicknews",
-        "u": "http://www.kicknews.net/news/search?q={{{s}}}"
+        "u": "https://www.kicknews.net/news/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -46473,7 +46473,7 @@ export const bangs = [
         "s": "Kinguin",
         "sc": "Online (marketplace)",
         "t": "kinguin",
-        "u": "http://www.kinguin.net/catalogsearch/result/?q={{{s}}}"
+        "u": "https://www.kinguin.net/catalogsearch/result/?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -46734,7 +46734,7 @@ export const bangs = [
         "s": "MicKey's Land",
         "sc": "Blogs",
         "t": "kln",
-        "u": "http://klnavarro.free.fr/spip/spip.php?page=recherche&recherche={{{s}}}"
+        "u": "https://klnavarro.free.fr/spip/spip.php?page=recherche&recherche={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -46797,7 +46797,7 @@ export const bangs = [
         "s": "Kaomojiya",
         "sc": "Misc",
         "t": "kmjy",
-        "u": "http://kaomojiya.jp/keyword/{{{s}}}/?search_flg=1"
+        "u": "https://kaomojiya.jp/keyword/{{{s}}}/?search_flg=1"
     },
     {
         "c": "Multimedia",
@@ -47049,7 +47049,7 @@ export const bangs = [
         "s": "Reverso Konjugator",
         "sc": "Reference (words intl)",
         "t": "konj",
-        "u": "http://de.bab.la/konjugieren/deutsch/{{{s}}}"
+        "u": "https://de.bab.la/konjugieren/deutsch/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -47598,7 +47598,7 @@ export const bangs = [
         "s": "묻지마 검색",
         "sc": "Search",
         "t": "kwzf",
-        "u": "http://kwzf.net/#search={{{s}}}&page=1"
+        "u": "https://kwzf.net/#search={{{s}}}&page=1"
     },
     {
         "c": "Shopping",
@@ -47634,7 +47634,7 @@ export const bangs = [
         "s": "Lisp Docs",
         "sc": "Programming",
         "t": "l1sp",
-        "u": "http://l1sp.org/search?q={{{s}}}"
+        "u": "https://l1sp.org/search?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -47697,7 +47697,7 @@ export const bangs = [
         "s": "Library and Archives Canada Collection Search",
         "sc": "Government",
         "t": "lac",
-        "u": "http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q={{{s}}}"
+        "u": "https://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -47775,10 +47775,10 @@ export const bangs = [
         "c": "Online Services",
         "d": "forum.lametayel.co.il",
         "r": 0,
-        "s": "http://forum.lametayel.co.il/",
+        "s": "https://forum.lametayel.co.il/",
         "sc": "Search",
         "t": "lametayel",
-        "u": "http://forum.lametayel.co.il/index.php?t=search&forum_limiter=0&field=all&search_logic=AND&type=msg&srch={{{s}}}&btn_submit="
+        "u": "https://forum.lametayel.co.il/index.php?t=search&forum_limiter=0&field=all&search_logic=AND&type=msg&srch={{{s}}}&btn_submit="
     },
     {
         "c": "Online Services",
@@ -47859,7 +47859,7 @@ export const bangs = [
         "s": "lapatilla",
         "sc": "Magazine",
         "t": "lapa",
-        "u": "http://lapatilla.com/?s={{{s}}}"
+        "u": "https://lapatilla.com/?s={{{s}}}"
     },
     {
         "c": "News",
@@ -47886,7 +47886,7 @@ export const bangs = [
         "s": "La Poste Suivi",
         "sc": "Tracking",
         "t": "laposte",
-        "u": "http://www.csuivi.courrier.laposte.fr/suivi?id={{{s}}}"
+        "u": "https://www.csuivi.courrier.laposte.fr/suivi?id={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -48030,7 +48030,7 @@ export const bangs = [
         "s": "Late Model Restoration",
         "sc": "Online",
         "t": "lmr",
-        "u": "http://www.latemodelrestoration.com/Product/Search?q={{{s}}}"
+        "u": "https://www.latemodelrestoration.com/Product/Search?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -48048,7 +48048,7 @@ export const bangs = [
         "s": "LATimes",
         "sc": "Newspaper",
         "t": "latimes",
-        "u": "http://search.latimes.com/search?q={{{s}}}"
+        "u": "https://search.latimes.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -48084,7 +48084,7 @@ export const bangs = [
         "s": "Whitaker's Latin",
         "sc": "Learning (intl)",
         "t": "lat",
-        "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
+        "u": "https://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
     },
     {
         "c": "Research",
@@ -48201,7 +48201,7 @@ export const bangs = [
         "s": "Le Bon Coin",
         "sc": "Online (deals)",
         "t": "lbc",
-        "u": "http://www.leboncoin.fr/recherche/?text={{{s}}}"
+        "u": "https://www.leboncoin.fr/recherche/?text={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -48939,7 +48939,7 @@ export const bangs = [
         "s": "lexparency.org",
         "sc": "Tools",
         "t": "lexp",
-        "u": "http://lexparency.org/eu/EN/search?deep=True&search_words={{{s}}}"
+        "u": "https://lexparency.org/eu/EN/search?deep=True&search_words={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -49065,7 +49065,7 @@ export const bangs = [
         "s": "IIITD library",
         "sc": "Local",
         "t": "libiiitd",
-        "u": "http://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
+        "u": "https://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -49173,7 +49173,7 @@ export const bangs = [
         "s": "Municipal Library of Thessaloniki",
         "sc": "Tools",
         "t": "libth",
-        "u": "http://lib.thessaloniki.gr/ipac20/ipac.jsp?session=14048C549F1N5.44906&menu=search&aspect=subtab37&npp=10&ipp=20&spp=20&profile=central--1&ri=&term={{{s}}}&index=.GW&x=0&y=0&aspect=subtab37"
+        "u": "https://lib.thessaloniki.gr/ipac20/ipac.jsp?session=14048C549F1N5.44906&menu=search&aspect=subtab37&npp=10&ipp=20&spp=20&profile=central--1&ri=&term={{{s}}}&index=.GW&x=0&y=0&aspect=subtab37"
     },
     {
         "c": "Research",
@@ -49596,7 +49596,7 @@ export const bangs = [
         "s": "Linkiesta",
         "sc": "Newspaper (intl)",
         "t": "linkiesta",
-        "u": "http://www.linkiesta.it/cerca/{{{s}}}"
+        "u": "https://www.linkiesta.it/cerca/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -49740,7 +49740,7 @@ export const bangs = [
         "s": "Liquidation",
         "sc": "Online (marketplace)",
         "t": "liquidation",
-        "u": "http://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new"
+        "u": "https://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new"
     },
     {
         "c": "Entertainment",
@@ -50055,7 +50055,7 @@ export const bangs = [
         "s": "LMGTFY",
         "sc": "Tools",
         "t": "lmgtfy",
-        "u": "http://www.lmgtfy.com/?s=d&q={{{s}}}"
+        "u": "https://www.lmgtfy.com/?s=d&q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -50064,7 +50064,7 @@ export const bangs = [
         "s": "LiveMixtapes",
         "sc": "Music",
         "t": "lm",
-        "u": "http://www.livemixtapes.com/main.php?artist={{{s}}}"
+        "u": "https://www.livemixtapes.com/main.php?artist={{{s}}}"
     },
     {
         "c": "Tech",
@@ -50262,7 +50262,7 @@ export const bangs = [
         "s": "logopond",
         "sc": "Design",
         "t": "logo",
-        "u": "http://logopond.com/search/?search={{{s}}}"
+        "u": "https://logopond.com/search/?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -50352,7 +50352,7 @@ export const bangs = [
         "s": "LoL Pro",
         "sc": "Games (specific)",
         "t": "lolpro",
-        "u": "http://www.lolpro.com/search?search={{{s}}}"
+        "u": "https://www.lolpro.com/search?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -50586,7 +50586,7 @@ export const bangs = [
         "s": "Lowes",
         "sc": "Big box/department",
         "t": "lowes",
-        "u": "http://www.lowes.com/SearchCatalogDisplay?Ntt={{{s}}}#!"
+        "u": "https://www.lowes.com/SearchCatalogDisplay?Ntt={{{s}}}#!"
     },
     {
         "c": "Online Services",
@@ -50730,7 +50730,7 @@ export const bangs = [
         "s": "Librerías Santa Fe",
         "sc": "Online (intl)",
         "t": "lsf",
-        "u": "http://www.lsf.com.ar/resulta.aspx?key={{{s}}}"
+        "u": "https://www.lsf.com.ar/resulta.aspx?key={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -50748,7 +50748,7 @@ export const bangs = [
         "s": "Let's sing it",
         "sc": "Audio",
         "t": "lsi",
-        "u": "http://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s={{{s}}}"
+        "u": "https://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s={{{s}}}"
     },
     {
         "c": "Research",
@@ -50856,7 +50856,7 @@ export const bangs = [
         "s": "Lambda the Ultimate",
         "sc": "Social news/links",
         "t": "ltu",
-        "u": "http://lambda-the-ultimate.org/search/node/{{{s}}}"
+        "u": "https://lambda-the-ultimate.org/search/node/{{{s}}}"
     },
     {
         "c": "Research",
@@ -50973,7 +50973,7 @@ export const bangs = [
         "s": "Kubbealtı Lugati",
         "sc": "Reference",
         "t": "lugatım",
-        "u": "http://lugatim.com/s/{{{s}}}"
+        "u": "https://lugatim.com/s/{{{s}}}"
     },
     {
         "c": "Translation",
@@ -50982,7 +50982,7 @@ export const bangs = [
         "s": "Kubbealtı Lugatı",
         "sc": "General",
         "t": "lugat",
-        "u": "http://www.lugatim.com/s/{{{s}}}"
+        "u": "https://www.lugatim.com/s/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -51099,7 +51099,7 @@ export const bangs = [
         "s": "Knihkupectví NeoLuxor",
         "sc": "Big box/department",
         "t": "luxor",
-        "u": "http://neoluxor.cz/vyhledavani/?query={{{s}}}"
+        "u": "https://neoluxor.cz/vyhledavani/?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -51108,7 +51108,7 @@ export const bangs = [
         "s": "Luzme",
         "sc": "Online (intl)",
         "t": "luzme",
-        "u": "http://luzme.com/search_all?keyword={{{s}}}"
+        "u": "https://luzme.com/search_all?keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -51135,7 +51135,7 @@ export const bangs = [
         "s": "La vache libre",
         "sc": "Blogs",
         "t": "lvl",
-        "u": "http://la-vache-libre.org/?s={{{s}}}"
+        "u": "https://la-vache-libre.org/?s={{{s}}}"
     },
     {
         "c": "News",
@@ -51144,7 +51144,7 @@ export const bangs = [
         "s": "Linux Voice",
         "sc": "Magazine",
         "t": "lvmag",
-        "u": "http://www.linuxvoice.com/?s={{{s}}}"
+        "u": "https://www.linuxvoice.com/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -51270,7 +51270,7 @@ export const bangs = [
         "s": "Lyric Wiki",
         "sc": "Music (Lyrics)",
         "t": "lyrics",
-        "u": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+        "u": "https://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Multimedia",
@@ -51297,7 +51297,7 @@ export const bangs = [
         "s": "Lyrster",
         "sc": "Music (Lyrics)",
         "t": "lyrster",
-        "u": "http://www.lyrster.com/songs-lyrics/{{{s}}}.html"
+        "u": "https://www.lyrster.com/songs-lyrics/{{{s}}}.html"
     },
     {
         "c": "Shopping",
@@ -51693,7 +51693,7 @@ export const bangs = [
         "s": "mailcatch.com",
         "sc": "Tools",
         "t": "mailcatch",
-        "u": "http://mailcatch.com/en/temporary-inbox?box={{{s}}}"
+        "u": "https://mailcatch.com/en/temporary-inbox?box={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -51738,7 +51738,7 @@ export const bangs = [
         "s": "Majors Books",
         "sc": "Books",
         "t": "majorsbooks",
-        "u": "http://www.majorsbooks.com/search/?searchQuery={{{s}}}"
+        "u": "https://www.majorsbooks.com/search/?searchQuery={{{s}}}"
     },
     {
         "c": "Tech",
@@ -51837,7 +51837,7 @@ export const bangs = [
         "s": "Memory Alpha",
         "sc": "TV",
         "t": "malpha",
-        "u": "http://memory-alpha.org/index.php?search={{{s}}}"
+        "u": "https://memory-alpha.org/index.php?search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -52017,7 +52017,7 @@ export const bangs = [
         "s": "Manta",
         "sc": "Tools",
         "t": "manta",
-        "u": "http://www.manta.com/mb?search={{{s}}}"
+        "u": "https://www.manta.com/mb?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -52116,7 +52116,7 @@ export const bangs = [
         "s": "Marca",
         "sc": "Sports",
         "t": "marca",
-        "u": "http://cgi.marca.com/buscador/archivo_marca.html?q={{{s}}}"
+        "u": "https://cgi.marca.com/buscador/archivo_marca.html?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -52206,7 +52206,7 @@ export const bangs = [
         "s": "Mark and Graham",
         "sc": "Online",
         "t": "markandgraham",
-        "u": "http://www.markandgraham.com/search/results.html?words={{{s}}}"
+        "u": "https://www.markandgraham.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -52764,7 +52764,7 @@ export const bangs = [
         "s": "MirBSD Manpages",
         "sc": "Programming",
         "t": "mbsdman",
-        "u": "http://www.mirbsd.org/man.cgi?q={{{s}}}"
+        "u": "https://www.mirbsd.org/man.cgi?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -52782,7 +52782,7 @@ export const bangs = [
         "s": "Mapa Interactivo de Buenos Aires",
         "sc": "Maps",
         "t": "mbs",
-        "u": "http://mapa.buenosaires.gov.ar/buscador/?dir={{{s}}}"
+        "u": "https://mapa.buenosaires.gov.ar/buscador/?dir={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -52845,7 +52845,7 @@ export const bangs = [
         "s": "MyCallBot",
         "sc": "Tools",
         "t": "mcb",
-        "u": "http://mycallbot.com/numbers/{{{s}}}"
+        "u": "https://mycallbot.com/numbers/{{{s}}}"
     },
     {
         "c": "Research",
@@ -53106,7 +53106,7 @@ export const bangs = [
         "s": "Meta Crawler",
         "sc": "Learning",
         "t": "mcr",
-        "u": "http://www.metacrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&om_nextpage=True&q={{{s}}}"
+        "u": "https://www.metacrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&om_nextpage=True&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -53232,7 +53232,7 @@ export const bangs = [
         "s": "Mark's Daily Apple",
         "sc": "Health",
         "t": "mda",
-        "u": "http://www.marksdailyapple.com/search-results/?q={{{s}}}"
+        "u": "https://www.marksdailyapple.com/search-results/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -53268,7 +53268,7 @@ export const bangs = [
         "s": "MoriDB",
         "sc": "Games (specific)",
         "t": "mdb",
-        "u": "http://moridb.com/items/search?q={{{s}}}"
+        "u": "https://moridb.com/items/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -53439,7 +53439,7 @@ export const bangs = [
         "s": "Mediadico",
         "sc": "Reference (words intl)",
         "t": "mediadico",
-        "u": "http://mediadico.com/dictionnaire/definition/{{{s}}}"
+        "u": "https://mediadico.com/dictionnaire/definition/{{{s}}}"
     },
     {
         "c": "Research",
@@ -53457,7 +53457,7 @@ export const bangs = [
         "s": "MediaMarkt FR",
         "sc": "Tech",
         "t": "mediamarktfr",
-        "u": "http://www.mediamarkt.be/fr/search.html?query={{{s}}}"
+        "u": "https://www.mediamarkt.be/fr/search.html?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -53466,7 +53466,7 @@ export const bangs = [
         "s": "MediaMarkt",
         "sc": "Online",
         "t": "mediamarkt",
-        "u": "http://www.mediamarkt.nl/nl/search.html?storeId=10259&langId=-11&searchProfile=onlineshop&channel=mmnlnl&searchParams=&path=&query={{{s}}}"
+        "u": "https://www.mediamarkt.nl/nl/search.html?storeId=10259&langId=-11&searchProfile=onlineshop&channel=mmnlnl&searchParams=&path=&query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -53475,7 +53475,7 @@ export const bangs = [
         "s": "MediaMarkt Nederland",
         "sc": "Tech",
         "t": "mediamarktnl",
-        "u": "http://www.mediamarkt.nl/nl/search.html?query={{{s}}}&searchProfile=onlineshop&channel=mmnlnl"
+        "u": "https://www.mediamarkt.nl/nl/search.html?query={{{s}}}&searchProfile=onlineshop&channel=mmnlnl"
     },
     {
         "c": "News",
@@ -53529,7 +53529,7 @@ export const bangs = [
         "s": "Medimops",
         "sc": "Online (marketplace)",
         "t": "medimops",
-        "u": "http://www.medimops.de/produkte-C0/?fcIsSearch=1&searchparam={{{s}}}"
+        "u": "https://www.medimops.de/produkte-C0/?fcIsSearch=1&searchparam={{{s}}}"
     },
     {
         "c": "Tech",
@@ -53556,7 +53556,7 @@ export const bangs = [
         "s": "Mednar",
         "sc": "Health",
         "t": "mednar",
-        "u": "http://www.mednar.com/mednar/result-list/fullRecord:{{{s}}}"
+        "u": "https://www.mednar.com/mednar/result-list/fullRecord:{{{s}}}"
     },
     {
         "c": "Research",
@@ -53691,7 +53691,7 @@ export const bangs = [
         "s": "MemoryAlpha Deutsch",
         "sc": "Reference (fun)",
         "t": "memalphade",
-        "u": "http://de.memory-alpha.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
+        "u": "https://de.memory-alpha.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -53916,7 +53916,7 @@ export const bangs = [
         "s": "Merlin.pl",
         "sc": "Online",
         "t": "merlin",
-        "u": "http://merlin.pl/browse/search.html?offer=O&phrase={{{s}}}"
+        "u": "https://merlin.pl/browse/search.html?offer=O&phrase={{{s}}}"
     },
     {
         "c": "Research",
@@ -53952,7 +53952,7 @@ export const bangs = [
         "s": "Eglise info",
         "sc": "Search (non-US)",
         "t": "messeinfo",
-        "u": "http://egliseinfo.catholique.fr/horaires/{{{s}}}"
+        "u": "https://egliseinfo.catholique.fr/horaires/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -53970,7 +53970,7 @@ export const bangs = [
         "s": "MetaCrawler",
         "sc": "Search",
         "t": "metacrawler",
-        "u": "http://www.metacrawler.com/search/web?q={{{s}}}"
+        "u": "https://www.metacrawler.com/search/web?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -54159,7 +54159,7 @@ export const bangs = [
         "s": "MeuCrespo",
         "sc": "Magazine (fashion)",
         "t": "meucrespo",
-        "u": "http://meucrespo.com.br/?s={{{s}}}"
+        "u": "https://meucrespo.com.br/?s={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -54339,7 +54339,7 @@ export const bangs = [
         "s": "Michaels Stores",
         "sc": "Big box/department",
         "t": "michaels",
-        "u": "http://www.michaels.com/search?q={{{s}}}"
+        "u": "https://www.michaels.com/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -54348,7 +54348,7 @@ export const bangs = [
         "s": "Micro Center",
         "sc": "Tech",
         "t": "microcenter",
-        "u": "http://www.microcenter.com/search/search_results.phtml?Ntt={{{s}}}"
+        "u": "https://www.microcenter.com/search/search_results.phtml?Ntt={{{s}}}"
     },
     {
         "c": "Tech",
@@ -54357,7 +54357,7 @@ export const bangs = [
         "s": "Microsoft",
         "sc": "Companies",
         "t": "microsoft",
-        "u": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
+        "u": "https://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -54465,7 +54465,7 @@ export const bangs = [
         "s": "Milog",
         "sc": "Reference (words)",
         "t": "milog",
-        "u": "http://milog.co.il/{{{s}}}"
+        "u": "https://milog.co.il/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -54474,7 +54474,7 @@ export const bangs = [
         "s": "Mime Types Database",
         "sc": "Programming",
         "t": "mime",
-        "u": "http://mimeapplication.net/search?q={{{s}}}"
+        "u": "https://mimeapplication.net/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -54582,7 +54582,7 @@ export const bangs = [
         "s": "Miniology",
         "sc": "Magazine (car)",
         "t": "miniology",
-        "u": "http://miniology.com/?s={{{s}}}&submit=Search"
+        "u": "https://miniology.com/?s={{{s}}}&submit=Search"
     },
     {
         "c": "Online Services",
@@ -54672,7 +54672,7 @@ export const bangs = [
         "s": "MIT OpenCourseWare",
         "sc": "Academic",
         "t": "mitocw",
-        "u": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
+        "u": "https://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
     },
     {
         "c": "Research",
@@ -54861,7 +54861,7 @@ export const bangs = [
         "s": "Medieval Libraries of Great Britain",
         "sc": "Academic",
         "t": "mlgb",
-        "u": "http://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term={{{s}}}"
+        "u": "https://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term={{{s}}}"
     },
     {
         "c": "Tech",
@@ -55347,7 +55347,7 @@ export const bangs = [
         "s": "Reddit Modhelp",
         "sc": "Search (Private)",
         "t": "modhelp",
-        "u": "http://www.reddit.com/r/modhelp/search?q={{{s}}}"
+        "u": "https://www.reddit.com/r/modhelp/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -55500,7 +55500,7 @@ export const bangs = [
         "s": "Et mon cul c'est du tofu ?",
         "sc": "Audio",
         "t": "moncul",
-        "u": "http://moncul.org/?s={{{s}}}"
+        "u": "https://moncul.org/?s={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -55554,7 +55554,7 @@ export const bangs = [
         "s": "Money Badger by StockTwits",
         "sc": "Business",
         "t": "money",
-        "u": "http://moneybadger.stocktwits.com/?s={{{s}}}"
+        "u": "https://moneybadger.stocktwits.com/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -55581,7 +55581,7 @@ export const bangs = [
         "s": "Monoprice",
         "sc": "Tech",
         "t": "monoprice",
-        "u": "http://www.monoprice.com/products/search.asp?keyword={{{s}}}"
+        "u": "https://www.monoprice.com/products/search.asp?keyword={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -55653,7 +55653,7 @@ export const bangs = [
         "s": "Moran Education",
         "sc": "Online",
         "t": "moraneducation",
-        "u": "http://www.moraneducation.com/index.php?route=product/search&search={{{s}}}"
+        "u": "https://www.moraneducation.com/index.php?route=product/search&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -55761,7 +55761,7 @@ export const bangs = [
         "s": "Mouser Electronics",
         "sc": "Tech",
         "t": "mouser",
-        "u": "http://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}"
+        "u": "https://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -55824,7 +55824,7 @@ export const bangs = [
         "s": "موکسو",
         "sc": "Blogs",
         "t": "moxo.ir",
-        "u": "http://www.moxo.ir/?s={{{s}}}"
+        "u": "https://www.moxo.ir/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -55833,7 +55833,7 @@ export const bangs = [
         "s": "MozBrowser.nl",
         "sc": "Companies",
         "t": "mozbrowser",
-        "u": "http://www.mozbrowser.nl/forum/search.php?keywords={{{s}}}"
+        "u": "https://www.mozbrowser.nl/forum/search.php?keywords={{{s}}}"
     },
     {
         "c": "Tech",
@@ -56418,7 +56418,7 @@ export const bangs = [
         "s": "MTGO Traders",
         "sc": "Online (marketplace)",
         "t": "mtgotraders",
-        "u": "http://www.mtgotraders.com/store/search.php?q={{{s}}}&x=0&y=0"
+        "u": "https://www.mtgotraders.com/store/search.php?q={{{s}}}&x=0&y=0"
     },
     {
         "c": "Entertainment",
@@ -56481,7 +56481,7 @@ export const bangs = [
         "s": "Hong Kong MTR",
         "sc": "Search (Private)",
         "t": "mtr",
-        "u": "http://mwsgsa01.mtr.com.hk/search?site=default_collection&output=xml_no_dtd&client=mtr_eng&proxystylesheet=mtr_eng&proxyreload=1&ie=big5&oe=UTF-8&q={{{s}}}"
+        "u": "https://mwsgsa01.mtr.com.hk/search?site=default_collection&output=xml_no_dtd&client=mtr_eng&proxystylesheet=mtr_eng&proxyreload=1&ie=big5&oe=UTF-8&q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -56697,7 +56697,7 @@ export const bangs = [
         "s": "Musicaneto",
         "sc": "Online",
         "t": "musicaneto",
-        "u": "http://www.musicaneto.com/?s={{{s}}}"
+        "u": "https://www.musicaneto.com/?s={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -56751,7 +56751,7 @@ export const bangs = [
         "s": "Musikazblai Euskaraz",
         "sc": "Music (Lyrics)",
         "t": "musikazblai",
-        "u": "http://eu.musikazblai.com/foro/search.php?q={{{s}}}"
+        "u": "https://eu.musikazblai.com/foro/search.php?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -56787,7 +56787,7 @@ export const bangs = [
         "s": "Musipedia",
         "sc": "Music",
         "t": "musipedia",
-        "u": "http://www.musipedia.org/result.html?tx_mpsearch_pi1[pc]={{{s}}}&tx_mpsearch_pi1[submit_button]=Search"
+        "u": "https://www.musipedia.org/result.html?tx_mpsearch_pi1[pc]={{{s}}}&tx_mpsearch_pi1[submit_button]=Search"
     },
     {
         "c": "Multimedia",
@@ -56859,7 +56859,7 @@ export const bangs = [
         "s": "Muzofon",
         "sc": "Music",
         "t": "muzofon",
-        "u": "http://muzofon.com/search/{{{s}}}"
+        "u": "https://muzofon.com/search/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -56868,7 +56868,7 @@ export const bangs = [
         "s": "mvdbase",
         "sc": "Music",
         "t": "mvdb",
-        "u": "http://www.mvdbase.com/index.php?term={{{s}}}&field=vid&page=results"
+        "u": "https://www.mvdbase.com/index.php?term={{{s}}}&field=vid&page=results"
     },
     {
         "c": "Multimedia",
@@ -56886,7 +56886,7 @@ export const bangs = [
         "s": "MVNRepository",
         "sc": "Libraries/Frameworks",
         "t": "mvnrepository",
-        "u": "http://mvnrepository.com/search.html?query={{{s}}}"
+        "u": "https://mvnrepository.com/search.html?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -56958,7 +56958,7 @@ export const bangs = [
         "s": "Mobile Weather Underground",
         "sc": "Search Engine",
         "t": "mwu",
-        "u": "http://mobile.wunderground.com/q/{{{s}}}"
+        "u": "https://mobile.wunderground.com/q/{{{s}}}"
     },
     {
         "c": "Research",
@@ -57183,7 +57183,7 @@ export const bangs = [
         "s": "Medios y Opinión",
         "sc": "International",
         "t": "myo",
-        "u": "http://www.plazademayo.com/mediosyopinion/?s={{{s}}}"
+        "u": "https://www.plazademayo.com/mediosyopinion/?s={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -57363,7 +57363,7 @@ export const bangs = [
         "s": "Native American Ethnobotany",
         "sc": "Reference",
         "t": "naeb",
-        "u": "http://naeb.brit.org/uses/search/?string={{{s}}}"
+        "u": "https://naeb.brit.org/uses/search/?string={{{s}}}"
     },
     {
         "c": "Research",
@@ -57372,7 +57372,7 @@ export const bangs = [
         "s": "Naija Lingo",
         "sc": "Reference (fun)",
         "t": "naijalingo",
-        "u": "http://naijalingo.com/search?word={{{s}}}"
+        "u": "https://naijalingo.com/search?word={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -57633,7 +57633,7 @@ export const bangs = [
         "s": "Nautiljon",
         "sc": "General",
         "t": "nautiljon",
-        "u": "http://www.nautiljon.com/search.php?q={{{s}}}"
+        "u": "https://www.nautiljon.com/search.php?q={{{s}}}"
     },
     {
         "c": "News",
@@ -57651,7 +57651,7 @@ export const bangs = [
         "s": "Naval Action Wiki",
         "sc": "Games (specific)",
         "t": "nava",
-        "u": "http://www.navalactionwiki.com/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "https://www.navalactionwiki.com/index.php?title=Special:Search&search={{{s}}}&go=Go"
     },
     {
         "c": "Online Services",
@@ -57687,7 +57687,7 @@ export const bangs = [
         "s": "Nayiri Armenian dictionary",
         "sc": "Search (non-US)",
         "t": "nayiri",
-        "u": "http://nayiri.com/search?query={{{s}}}"
+        "u": "https://nayiri.com/search?query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -57813,7 +57813,7 @@ export const bangs = [
         "s": "Nciku English",
         "sc": "Learning (intl)",
         "t": "nce",
-        "u": "http://nciku.com/search/en/{{{s}}}"
+        "u": "https://nciku.com/search/en/{{{s}}}"
     },
     {
         "c": "Research",
@@ -57822,7 +57822,7 @@ export const bangs = [
         "s": "Nciku.com",
         "sc": "Reference (words intl)",
         "t": "nciku",
-        "u": "http://www.nciku.com/search/all/{{{s}}}"
+        "u": "https://www.nciku.com/search/all/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -57831,7 +57831,7 @@ export const bangs = [
         "s": "Nciku",
         "sc": "Search",
         "t": "nck",
-        "u": "http://nciku.com/search/all/{{{s}}}"
+        "u": "https://nciku.com/search/all/{{{s}}}"
     },
     {
         "c": "Research",
@@ -57885,7 +57885,7 @@ export const bangs = [
         "s": "Nciku Chinese",
         "sc": "Learning (intl)",
         "t": "ncz",
-        "u": "http://nciku.com/search/zh/{{{s}}}"
+        "u": "https://nciku.com/search/zh/{{{s}}}"
     },
     {
         "c": "Research",
@@ -58029,7 +58029,7 @@ export const bangs = [
         "s": "Necyklopedie CZ",
         "sc": "Misc",
         "t": "necy",
-        "u": "http://necyklopedie.wikia.com/wiki/{{{s}}}"
+        "u": "https://necyklopedie.wikia.com/wiki/{{{s}}}"
     },
     {
         "c": "Research",
@@ -58056,7 +58056,7 @@ export const bangs = [
         "s": "New England Journal Of Medicine",
         "sc": "Health",
         "t": "nejm",
-        "u": "http://www.nejm.org/search?q={{{s}}}&asug="
+        "u": "https://www.nejm.org/search?q={{{s}}}&asug="
     },
     {
         "c": "Shopping",
@@ -58074,7 +58074,7 @@ export const bangs = [
         "s": "Newegg",
         "sc": "Tech",
         "t": "ne",
-        "u": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
+        "u": "https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
     },
     {
         "c": "Tech",
@@ -58362,7 +58362,7 @@ export const bangs = [
         "s": "Newark",
         "sc": "Tech",
         "t": "newark",
-        "u": "http://www.newark.com/jsp/search/browse.jsp;jsessionid=HLQ02PGLEB0YKCXDUZ1G4IQ?N=0&Ntk=gensearch_001&Ntt={{{s}}}&Ntx=mode+matchallpartial&suggestions=false&ref=globalsearch&_requestid=285160"
+        "u": "https://www.newark.com/jsp/search/browse.jsp;jsessionid=HLQ02PGLEB0YKCXDUZ1G4IQ?N=0&Ntk=gensearch_001&Ntt={{{s}}}&Ntx=mode+matchallpartial&suggestions=false&ref=globalsearch&_requestid=285160"
     },
     {
         "c": "Entertainment",
@@ -58416,7 +58416,7 @@ export const bangs = [
         "s": "News.com.au",
         "sc": "Newspaper",
         "t": "newscomau",
-        "u": "http://search.news.com.au/search?us=ndmnews&as=NEWS&q={{{s}}}"
+        "u": "https://search.news.com.au/search?us=ndmnews&as=NEWS&q={{{s}}}"
     },
     {
         "c": "News",
@@ -58452,7 +58452,7 @@ export const bangs = [
         "s": "NewsHub",
         "sc": "Aggregators",
         "t": "newsh",
-        "u": "http://us.newshub.org/search/{{{s}}}/us/all/p1"
+        "u": "https://us.newshub.org/search/{{{s}}}/us/all/p1"
     },
     {
         "c": "News",
@@ -58551,7 +58551,7 @@ export const bangs = [
         "s": "Next-Episode.net",
         "sc": "TV",
         "t": "next",
-        "u": "http://next-episode.net/site-search-{{{s}}}.html"
+        "u": "https://next-episode.net/site-search-{{{s}}}.html"
     },
     {
         "c": "Research",
@@ -58839,7 +58839,7 @@ export const bangs = [
         "s": "NIIF Institute",
         "sc": "Government",
         "t": "niif",
-        "u": "http://www.niif.hu/search/node/{{{s}}}"
+        "u": "https://www.niif.hu/search/node/{{{s}}}"
     },
     {
         "c": "News",
@@ -58884,7 +58884,7 @@ export const bangs = [
         "s": "Narodowy Instytut Audiowizualny (nina.gov.pl)",
         "sc": "General",
         "t": "nina",
-        "u": "http://www.nina.gov.pl/searchresult?query={{{s}}}"
+        "u": "https://www.nina.gov.pl/searchresult?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -59028,7 +59028,7 @@ export const bangs = [
         "s": "Nix Craft",
         "sc": "Sysadmin",
         "t": "nixcraft",
-        "u": "http://www.cyberciti.biz/faq/?s={{{s}}}"
+        "u": "https://www.cyberciti.biz/faq/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -59307,7 +59307,7 @@ export const bangs = [
         "s": "FAA Aircraft Registry",
         "sc": "Government",
         "t": "nnumber",
-        "u": "http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt={{{s}}}"
+        "u": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt={{{s}}}"
     },
     {
         "c": "News",
@@ -59388,7 +59388,7 @@ export const bangs = [
         "s": "ノイズレスサーチ",
         "sc": "Search (non-US)",
         "t": "noiseless",
-        "u": "http://pasokatu.com/nsearch#gsc.q={{{s}}}"
+        "u": "https://pasokatu.com/nsearch#gsc.q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -59442,7 +59442,7 @@ export const bangs = [
         "s": "Nonciclopedia",
         "sc": "Comics",
         "t": "nonciclopedia",
-        "u": "http://nonciclopedia.wikia.com/index.php?title=Speciale:Ricerca&search={{{s}}}&go=Vai"
+        "u": "https://nonciclopedia.wikia.com/index.php?title=Speciale:Ricerca&search={{{s}}}&go=Vai"
     },
     {
         "c": "Research",
@@ -59793,7 +59793,7 @@ export const bangs = [
         "s": "National Stock Exchange of India",
         "sc": "Tools",
         "t": "nse",
-        "u": "http://www.nseindia.com/gsa/search.jsp?q={{{s}}}"
+        "u": "https://www.nseindia.com/gsa/search.jsp?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -60378,7 +60378,7 @@ export const bangs = [
         "s": "Engine Codes",
         "sc": "Topical",
         "t": "obd",
-        "u": "http://engine-codes.com/search_codes.php?q={{{s}}}"
+        "u": "https://engine-codes.com/search_codes.php?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -60468,7 +60468,7 @@ export const bangs = [
         "s": "Open Clip Art Library",
         "sc": "Images",
         "t": "ocal",
-        "u": "http://www.openclipart.org/search/?query={{{s}}}"
+        "u": "https://www.openclipart.org/search/?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -60783,7 +60783,7 @@ export const bangs = [
         "s": "oeticket",
         "sc": "Online",
         "t": "oeticket",
-        "u": "http://www.oeticket.com/Tickets.html?affiliate=EOE&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}"
+        "u": "https://www.oeticket.com/Tickets.html?affiliate=EOE&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -60828,7 +60828,7 @@ export const bangs = [
         "s": "Offliberty",
         "sc": "Downloads",
         "t": "offliberty",
-        "u": "http://offliberty.com/#{{{s}}}"
+        "u": "https://offliberty.com/#{{{s}}}"
     },
     {
         "c": "Research",
@@ -61080,7 +61080,7 @@ export const bangs = [
         "s": "OldApps.com",
         "sc": "Downloads",
         "t": "oldapps",
-        "u": "http://www.oldapps.com/betasearch.php?q={{{s}}}"
+        "u": "https://www.oldapps.com/betasearch.php?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -61107,7 +61107,7 @@ export const bangs = [
         "s": "OldVersion",
         "sc": "Downloads (software)",
         "t": "oldversion",
-        "u": "http://www.oldversion.com/search?query={{{s}}}"
+        "u": "https://www.oldversion.com/search?query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -61116,7 +61116,7 @@ export const bangs = [
         "s": "Olé",
         "sc": "Sports",
         "t": "ole",
-        "u": "http://buscador.ole.com.ar/{{{s}}}"
+        "u": "https://buscador.ole.com.ar/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -61386,7 +61386,7 @@ export const bangs = [
         "s": "Oncyclopedia",
         "sc": "Misc",
         "t": "oncyclo",
-        "u": "http://oncyclopedia.org/wiki/Speciaal:Zoeken?search={{{s}}}&go=Zoeken"
+        "u": "https://oncyclopedia.org/wiki/Speciaal:Zoeken?search={{{s}}}&go=Zoeken"
     },
     {
         "c": "Multimedia",
@@ -61566,7 +61566,7 @@ export const bangs = [
         "s": "Oolone",
         "sc": "Learning (intl)",
         "t": "oolone",
-        "u": "http://www.oolone.com/?search={{{s}}}"
+        "u": "https://www.oolone.com/?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -61602,7 +61602,7 @@ export const bangs = [
         "s": "L5R: Oracle of the Void",
         "sc": "Games (general)",
         "t": "ootv",
-        "u": "http://www.imperialassembly.com/oracle/?quicksearch=1&search_13={{{s}}}"
+        "u": "https://www.imperialassembly.com/oracle/?quicksearch=1&search_13={{{s}}}"
     },
     {
         "c": "Research",
@@ -61647,7 +61647,7 @@ export const bangs = [
         "s": "OpenClassrooms",
         "sc": "Programming",
         "t": "opc",
-        "u": "http://fr.openclassrooms.com/recherche/?search={{{s}}}"
+        "u": "https://fr.openclassrooms.com/recherche/?search={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -61656,7 +61656,7 @@ export const bangs = [
         "s": "Openbox",
         "sc": "Docs",
         "t": "openbox",
-        "u": "http://openbox.org/wiki/Special:Search?search={{{s}}}"
+        "u": "https://openbox.org/wiki/Special:Search?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -62043,7 +62043,7 @@ export const bangs = [
         "s": "Optimot",
         "sc": "Reference (words intl)",
         "t": "optimot",
-        "u": "http://aplicacions.llengua.gencat.cat/llc/AppJava/index.html?action=Principal&method=cerca_generica&input_cercar={{{s}}}&tipusCerca=cerca.tot"
+        "u": "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html?action=Principal&method=cerca_generica&input_cercar={{{s}}}&tipusCerca=cerca.tot"
     },
     {
         "c": "Tech",
@@ -62574,7 +62574,7 @@ export const bangs = [
         "s": "OStadium",
         "sc": "Sports",
         "t": "ostadium",
-        "u": "http://ostadium.com/search?q={{{s}}}"
+        "u": "https://ostadium.com/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -62583,7 +62583,7 @@ export const bangs = [
         "s": "osta.ee",
         "sc": "Online (marketplace)",
         "t": "osta",
-        "u": "http://www.osta.ee/index.php?q[q]={{{s}}}&fuseaction=search.search&q[show_items]=1&q[show_shop]=1&q[cat]=1000&search=OTSI"
+        "u": "https://www.osta.ee/index.php?q[q]={{{s}}}&fuseaction=search.search&q[show_items]=1&q[show_shop]=1&q[cat]=1000&search=OTSI"
     },
     {
         "c": "Research",
@@ -62637,7 +62637,7 @@ export const bangs = [
         "s": "osu!search",
         "sc": "Games (specific)",
         "t": "osus",
-        "u": "http://osusearch.com/search/?title={{{s}}}"
+        "u": "https://osusearch.com/search/?title={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -62763,7 +62763,7 @@ export const bangs = [
         "s": "OuiCar",
         "sc": "Travel",
         "t": "ouicar",
-        "u": "http://www.ouicar.fr/car/search?where={{{s}}}"
+        "u": "https://www.ouicar.fr/car/search?where={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -63240,7 +63240,7 @@ export const bangs = [
         "s": "PackMan",
         "sc": "Sysadmin (packages)",
         "t": "packman",
-        "u": "http://packman.links2linux.org/search?q={{{s}}}"
+        "u": "https://packman.links2linux.org/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -63330,7 +63330,7 @@ export const bangs = [
         "s": "Palatine Public Library",
         "sc": "Local",
         "t": "palatinelibrary",
-        "u": "http://encore.palatinelibrary.org/iii/encore/search?target={{{s}}}"
+        "u": "https://encore.palatinelibrary.org/iii/encore/search?target={{{s}}}"
     },
     {
         "c": "Tech",
@@ -63591,7 +63591,7 @@ export const bangs = [
         "s": "Parts Dr",
         "sc": "Online",
         "t": "partsdr",
-        "u": "http://partsdr.com/model-number-search/?query={{{s}}}"
+        "u": "https://partsdr.com/model-number-search/?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -63609,7 +63609,7 @@ export const bangs = [
         "s": "Pasetrad",
         "sc": "General",
         "t": "pasetrad",
-        "u": "http://www.pasetrad.com/search-engine.html?#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=="
+        "u": "https://www.pasetrad.com/search-engine.html?#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=="
     },
     {
         "c": "News",
@@ -63861,7 +63861,7 @@ export const bangs = [
         "s": "Pottery Barn Kids",
         "sc": "Online",
         "t": "pbkids",
-        "u": "http://www.potterybarnkids.com/search/results.html?words={{{s}}}"
+        "u": "https://www.potterybarnkids.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Research",
@@ -63870,7 +63870,7 @@ export const bangs = [
         "s": "pages blanches",
         "sc": "Local",
         "t": "pbl",
-        "u": "http://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}&proximite=0"
+        "u": "https://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}&proximite=0"
     },
     {
         "c": "Entertainment",
@@ -63897,7 +63897,7 @@ export const bangs = [
         "s": "Pinboard",
         "sc": "Tools",
         "t": "pb",
-        "u": "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
+        "u": "https://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
     },
     {
         "c": "Entertainment",
@@ -63942,7 +63942,7 @@ export const bangs = [
         "s": "PBteen",
         "sc": "Online",
         "t": "pbteen",
-        "u": "http://www.pbteen.com/search/results.html?words={{{s}}}"
+        "u": "https://www.pbteen.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -64113,7 +64113,7 @@ export const bangs = [
         "s": "PCMag",
         "sc": "Blogs",
         "t": "pcmag",
-        "u": "http://www.pcmag.com/search_redirect/?qry={{{s}}}&searchSection=0&site=3"
+        "u": "https://www.pcmag.com/search_redirect/?qry={{{s}}}&searchSection=0&site=3"
     },
     {
         "c": "News",
@@ -64140,7 +64140,7 @@ export const bangs = [
         "s": "PCPartPicker",
         "sc": "Tech",
         "t": "pcpartpicker",
-        "u": "http://pcpartpicker.com/search/?q={{{s}}}"
+        "u": "https://pcpartpicker.com/search/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -64257,7 +64257,7 @@ export const bangs = [
         "s": "ProQuest Dissertations & Theses Global",
         "sc": "Academic",
         "t": "pdqtglobal",
-        "u": "http://fedsearch.proquest.com/search/sru/pqdtglobal?operation=searchRetrieve&version=1.2&maximumRecords=30&query={{{s}}}"
+        "u": "https://fedsearch.proquest.com/search/sru/pqdtglobal?operation=searchRetrieve&version=1.2&maximumRecords=30&query={{{s}}}"
     },
     {
         "c": "Research",
@@ -64311,7 +64311,7 @@ export const bangs = [
         "s": "Pective",
         "sc": "Images",
         "t": "pective",
-        "u": "http://pective.com/search?q={{{s}}}"
+        "u": "https://pective.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -64365,7 +64365,7 @@ export const bangs = [
         "s": "Peeron",
         "sc": "Games (general)",
         "t": "peeron",
-        "u": "http://peeron.com/cgi-bin/invcgis/psearch?query={{{s}}}&limit=none"
+        "u": "https://peeron.com/cgi-bin/invcgis/psearch?query={{{s}}}&limit=none"
     },
     {
         "c": "Online Services",
@@ -64662,7 +64662,7 @@ export const bangs = [
         "s": "Pexels",
         "sc": "Images",
         "t": "pexels",
-        "u": "http://www.pexels.com/search/{{{s}}}/"
+        "u": "https://www.pexels.com/search/{{{s}}}/"
     },
     {
         "c": "Multimedia",
@@ -64698,7 +64698,7 @@ export const bangs = [
         "s": "Pathfinders Online",
         "sc": "Reference (religion)",
         "t": "pfonline",
-        "u": "http://www.pathfindersonline.org/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all"
+        "u": "https://www.pathfindersonline.org/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all"
     },
     {
         "c": "Entertainment",
@@ -64842,7 +64842,7 @@ export const bangs = [
         "s": "pgri",
         "sc": "Government",
         "t": "pgri",
-        "u": "http://www.pgri.or.id/?s={{{s}}}"
+        "u": "https://www.pgri.or.id/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -65031,7 +65031,7 @@ export const bangs = [
         "s": "PhotoPin",
         "sc": "Tools",
         "t": "photopin",
-        "u": "http://photopin.com/search/{{{s}}}"
+        "u": "https://photopin.com/search/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -65040,7 +65040,7 @@ export const bangs = [
         "s": "Php2Python",
         "sc": "Languages (python)",
         "t": "php2py",
-        "u": "http://www.php2python.com/wiki/search/?search_term={{{s}}}"
+        "u": "https://www.php2python.com/wiki/search/?search_term={{{s}}}"
     },
     {
         "c": "Tech",
@@ -65238,7 +65238,7 @@ export const bangs = [
         "s": "pinboard.in",
         "sc": "Search",
         "t": "pina",
-        "u": "http://pinboard.in/search/?query={{{s}}}&all=Search+All"
+        "u": "https://pinboard.in/search/?query={{{s}}}&all=Search+All"
     },
     {
         "c": "Tech",
@@ -65283,7 +65283,7 @@ export const bangs = [
         "s": "Pin Pin Chinese Dictionary",
         "sc": "Reference (words intl)",
         "t": "pinpin",
-        "u": "http://dictionary.pinpinchinese.com/search/t/{{{s}}}"
+        "u": "https://dictionary.pinpinchinese.com/search/t/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -65319,7 +65319,7 @@ export const bangs = [
         "s": "Pinvoke.net",
         "sc": "Languages (.net)",
         "t": "pinvoke",
-        "u": "http://pinvoke.net/search.aspx?search={{{s}}}"
+        "u": "https://pinvoke.net/search.aspx?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -65427,7 +65427,7 @@ export const bangs = [
         "s": "Pixabay",
         "sc": "Images",
         "t": "pixabay",
-        "u": "http://pixabay.com/en/photos/?q={{{s}}}"
+        "u": "https://pixabay.com/en/photos/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -65535,7 +65535,7 @@ export const bangs = [
         "s": "plaisio.gr",
         "sc": "Big box/department",
         "t": "plaisio",
-        "u": "http://www.plaisio.gr/search.aspx?query={{{s}}}&catalogue=all&mode=searchlist"
+        "u": "https://www.plaisio.gr/search.aspx?query={{{s}}}&catalogue=all&mode=searchlist"
     },
     {
         "c": "Entertainment",
@@ -65715,7 +65715,7 @@ export const bangs = [
         "s": "PlayTerm",
         "sc": "Sysadmin",
         "t": "playterm",
-        "u": "http://www.playterm.org/s/?tags={{{s}}}"
+        "u": "https://www.playterm.org/s/?tags={{{s}}}"
     },
     {
         "c": "Translation",
@@ -65904,7 +65904,7 @@ export const bangs = [
         "s": "PLyrics.com",
         "sc": "Music (Lyrics)",
         "t": "plyrics",
-        "u": "http://www.plyrics.com/search.php?q={{{s}}}"
+        "u": "https://www.plyrics.com/search.php?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -66741,7 +66741,7 @@ export const bangs = [
         "s": "Portal Wiki",
         "sc": "Games (general)",
         "t": "portalwiki",
-        "u": "http://theportalwiki.com/w/index.php?search={{{s}}}"
+        "u": "https://theportalwiki.com/w/index.php?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -66894,7 +66894,7 @@ export const bangs = [
         "s": "Pota Focal",
         "sc": "Reference (words intl)",
         "t": "potafocal",
-        "u": "http://www.potafocal.com/?s={{{s}}}"
+        "u": "https://www.potafocal.com/?s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -66912,7 +66912,7 @@ export const bangs = [
         "s": "Pottery Barn",
         "sc": "Online",
         "t": "potterybarn",
-        "u": "http://www.potterybarn.com/search/results.html?words={{{s}}}"
+        "u": "https://www.potterybarn.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Tech",
@@ -66984,7 +66984,7 @@ export const bangs = [
         "s": "Put on Your Cake Pants",
         "sc": "Food",
         "t": "poycp",
-        "u": "http://putonyourcakepants.com/?s={{{s}}}"
+        "u": "https://putonyourcakepants.com/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -67164,7 +67164,7 @@ export const bangs = [
         "s": "Preloved",
         "sc": "Online (deals)",
         "t": "preloved",
-        "u": "http://preloved.com/?q={{{s}}}"
+        "u": "https://preloved.com/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -67209,7 +67209,7 @@ export const bangs = [
         "s": "Pretty-RFC",
         "sc": "Programming",
         "t": "prfc",
-        "u": "http://pretty-rfc.herokuapp.com/search?q={{{s}}}"
+        "u": "https://pretty-rfc.herokuapp.com/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -67902,7 +67902,7 @@ export const bangs = [
         "s": "Pentax Cameras",
         "sc": "Online",
         "t": "ptax",
-        "u": "http://jp.search.app.ricoh/en_imaging/search.x?q={{{s}}}"
+        "u": "https://jp.search.app.ricoh/en_imaging/search.x?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -68091,7 +68091,7 @@ export const bangs = [
         "s": "PumpBiz",
         "sc": "Online",
         "t": "pumpbiz",
-        "u": "http://www.pumpbiz.com/shopping_search.asp?searchString={{{s}}}&searchType=0&FIND.x=0&FIND.y=0&FIND=FIND+IT"
+        "u": "https://www.pumpbiz.com/shopping_search.asp?searchString={{{s}}}&searchType=0&FIND.x=0&FIND.y=0&FIND=FIND+IT"
     },
     {
         "c": "Multimedia",
@@ -68172,7 +68172,7 @@ export const bangs = [
         "s": "Puzzlopia",
         "sc": "Games (general)",
         "t": "puzzles",
-        "u": "http://www.puzzlopia.com/search-results?search={{{s}}}"
+        "u": "https://www.puzzlopia.com/search-results?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -68226,7 +68226,7 @@ export const bangs = [
         "s": "Phoenix Contact",
         "sc": "Companies",
         "t": "pxc",
-        "u": "http://www.phoenixcontact.com/online/portal/us?q={{{s}}}&uri=pxc-search:website&library=usen"
+        "u": "https://www.phoenixcontact.com/online/portal/us?q={{{s}}}&uri=pxc-search:website&library=usen"
     },
     {
         "c": "Multimedia",
@@ -68370,7 +68370,7 @@ export const bangs = [
         "s": "PyQt",
         "sc": "Languages (python)",
         "t": "pyqt",
-        "u": "http://pyqt.sourceforge.net/Docs/PyQt5/search.html?q={{{s}}}"
+        "u": "https://pyqt.sourceforge.net/Docs/PyQt5/search.html?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -68550,7 +68550,7 @@ export const bangs = [
         "s": "Bash.org",
         "sc": "Misc",
         "t": "qdb",
-        "u": "http://www.bash.org/?search={{{s}}}"
+        "u": "https://www.bash.org/?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -68577,7 +68577,7 @@ export const bangs = [
         "s": "Québec Info Musique (album)",
         "sc": "Music",
         "t": "qimalbum",
-        "u": "http://www.qim.com/albums/albums.asp?search={{{s}}}"
+        "u": "https://www.qim.com/albums/albums.asp?search={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -68586,7 +68586,7 @@ export const bangs = [
         "s": "Québec Info Musique",
         "sc": "Music",
         "t": "qimartiste",
-        "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+        "u": "https://www.qim.com/artistes/artiste.asp?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -68613,7 +68613,7 @@ export const bangs = [
         "s": "quickmeme",
         "sc": "Misc",
         "t": "qme",
-        "u": "http://m.quickmeme.com/search/?q={{{s}}}"
+        "u": "https://m.quickmeme.com/search/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -68649,7 +68649,7 @@ export const bangs = [
         "s": "Qpongo",
         "sc": "Online (deals)",
         "t": "qpon",
-        "u": "http://qpongo.com/ddgsearch.aspx?q={{{s}}}"
+        "u": "https://qpongo.com/ddgsearch.aspx?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -68874,7 +68874,7 @@ export const bangs = [
         "s": "Quizlet",
         "sc": "Academic",
         "t": "quizlet",
-        "u": "http://quizlet.com/subject/{{{s}}}/"
+        "u": "https://quizlet.com/subject/{{{s}}}/"
     },
     {
         "c": "Online Services",
@@ -69216,7 +69216,7 @@ export const bangs = [
         "s": "RailsCasts",
         "sc": "Programming",
         "t": "railscasts",
-        "u": "http://railscasts.com/?search={{{s}}}"
+        "u": "https://railscasts.com/?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -69765,7 +69765,7 @@ export const bangs = [
         "s": "Bab.la Russian Verbs Conjugation",
         "sc": "Reference (words intl)",
         "t": "rconj",
-        "u": "http://bab.la/conjugaison/russe/{{{s}}}"
+        "u": "https://bab.la/conjugaison/russe/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -69792,7 +69792,7 @@ export const bangs = [
         "s": "RealClear Politics",
         "sc": "Specialty",
         "t": "rcp",
-        "u": "http://www.realclearpolitics.com/search/?q={{{s}}}"
+        "u": "https://www.realclearpolitics.com/search/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -69837,7 +69837,7 @@ export const bangs = [
         "s": "Washington State Legislature: Revised Code of Washington",
         "sc": "Law",
         "t": "rcw",
-        "u": "http://apps.leg.wa.gov/RCW/default.aspx?cite={{{s}}}"
+        "u": "https://apps.leg.wa.gov/RCW/default.aspx?cite={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -70116,7 +70116,7 @@ export const bangs = [
         "s": "Reclame Aqui",
         "sc": "Services",
         "t": "reclame",
-        "u": "http://www.reclameaqui.com.br/busca/?q={{{s}}}"
+        "u": "https://www.reclameaqui.com.br/busca/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -70188,7 +70188,7 @@ export const bangs = [
         "s": "RedBubble",
         "sc": "Online",
         "t": "redbubble",
-        "u": "http://www.redbubble.com/shop/{{{s}}}"
+        "u": "https://www.redbubble.com/shop/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -70215,7 +70215,7 @@ export const bangs = [
         "s": "Reddit subreddit",
         "sc": "Social",
         "t": "reddits",
-        "u": "http://www.reddit.com/r/{{{s}}}"
+        "u": "https://www.reddit.com/r/{{{s}}}"
     },
     {
         "c": "Research",
@@ -70503,7 +70503,7 @@ export const bangs = [
         "s": "Regravity",
         "sc": "Blogs",
         "t": "regrav",
-        "u": "http://regravity.com/?s={{{s}}}"
+        "u": "https://regravity.com/?s={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -70746,7 +70746,7 @@ export const bangs = [
         "s": "RetailgMeNot",
         "sc": "Online (deals)",
         "t": "retailmenot",
-        "u": "http://www.retailmenot.com/view/{{{s}}}"
+        "u": "https://www.retailmenot.com/view/{{{s}}}"
     },
     {
         "c": "Research",
@@ -70917,7 +70917,7 @@ export const bangs = [
         "s": "RevZilla",
         "sc": "Online",
         "t": "revzilla",
-        "u": "http://www.revzilla.com/search?query={{{s}}}&commit=Search"
+        "u": "https://www.revzilla.com/search?query={{{s}}}&commit=Search"
     },
     {
         "c": "Shopping",
@@ -70971,7 +70971,7 @@ export const bangs = [
         "s": "RFclipart",
         "sc": "Online",
         "t": "rfclipart",
-        "u": "http://rfclipart.com/search.html?text={{{s}}}"
+        "u": "https://rfclipart.com/search.html?text={{{s}}}"
     },
     {
         "c": "Tech",
@@ -71124,7 +71124,7 @@ export const bangs = [
         "s": "Rhymer",
         "sc": "Music (Lyrics)",
         "t": "rhymer",
-        "u": "http://www.rhymer.com/RhymingDictionary/{{{s}}}.html"
+        "u": "https://www.rhymer.com/RhymingDictionary/{{{s}}}.html"
     },
     {
         "c": "Shopping",
@@ -71160,7 +71160,7 @@ export const bangs = [
         "s": "rightrelevance",
         "sc": "Aggregators",
         "t": "right",
-        "u": "http://www.rightrelevance.com/search/articles?query={{{s}}}"
+        "u": "https://www.rightrelevance.com/search/articles?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -71259,7 +71259,7 @@ export const bangs = [
         "s": "Regesta Imperii OPAC",
         "sc": "Academic",
         "t": "riopac",
-        "u": "http://opac.regesta-imperii.de/lang_en/suche.php?qs={{{s}}}"
+        "u": "https://opac.regesta-imperii.de/lang_en/suche.php?qs={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -71430,7 +71430,7 @@ export const bangs = [
         "s": "RetailMeNot",
         "sc": "Online (deals)",
         "t": "rmn",
-        "u": "http://www.retailmenot.com/s/{{{s}}}"
+        "u": "https://www.retailmenot.com/s/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -71628,7 +71628,7 @@ export const bangs = [
         "s": "Dictionar roman-finlandez-roman",
         "sc": "Tools",
         "t": "rofi",
-        "u": "http://www.dictionar-finlandez.net/online/?word={{{s}}}"
+        "u": "https://www.dictionar-finlandez.net/online/?word={{{s}}}"
     },
     {
         "c": "Tech",
@@ -71817,7 +71817,7 @@ export const bangs = [
         "s": "Rozetka",
         "sc": "Online",
         "t": "rozetka",
-        "u": "http://rozetka.com.ua/search/?section_id=&section=&text={{{s}}}&rz-search-button="
+        "u": "https://rozetka.com.ua/search/?section_id=&section=&text={{{s}}}&rz-search-button="
     },
     {
         "c": "News",
@@ -72060,7 +72060,7 @@ export const bangs = [
         "s": "RS Component (FR)",
         "sc": "Tech",
         "t": "rsfr",
-        "u": "http://radiospares-fr.rs-online.com/web/c/?searchTerm={{{s}}}"
+        "u": "https://radiospares-fr.rs-online.com/web/c/?searchTerm={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -72267,7 +72267,7 @@ export const bangs = [
         "s": "Read the Docs",
         "sc": "Programming",
         "t": "rtfd",
-        "u": "http://{{{s}}}.rtfd.io/"
+        "u": "https://{{{s}}}.rtfd.io/"
     },
     {
         "c": "Shopping",
@@ -72681,7 +72681,7 @@ export const bangs = [
         "s": "Reddit (past year (and more))",
         "sc": "Social news/links",
         "t": "ryear",
-        "u": "http://www.reddit.com/search?q={{{s}}}&t=year"
+        "u": "https://www.reddit.com/search?q={{{s}}}&t=year"
     },
     {
         "c": "Multimedia",
@@ -72753,7 +72753,7 @@ export const bangs = [
         "s": "Society6 (all content)",
         "sc": "Online (marketplace)",
         "t": "s6all",
-        "u": "http://society6.com/search/?q={{{s}}}"
+        "u": "https://society6.com/search/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -72897,7 +72897,7 @@ export const bangs = [
         "s": "sahibinden.com",
         "sc": "Online (marketplace)",
         "t": "sahibinden",
-        "u": "http://www.sahibinden.com/kelime-ile-arama?query_text={{{s}}}"
+        "u": "https://www.sahibinden.com/kelime-ile-arama?query_text={{{s}}}"
     },
     {
         "c": "News",
@@ -73050,7 +73050,7 @@ export const bangs = [
         "s": "saltystock",
         "sc": "Images",
         "t": "saltystock",
-        "u": "http://www.saltystock.com/search.pp?keyword={{{s}}}"
+        "u": "https://www.saltystock.com/search.pp?keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -73077,7 +73077,7 @@ export const bangs = [
         "s": "whosampled",
         "sc": "Music",
         "t": "sampled",
-        "u": "http://www.whosampled.com/search/artists/?q={{{s}}}"
+        "u": "https://www.whosampled.com/search/artists/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -73158,7 +73158,7 @@ export const bangs = [
         "s": "Spoken Sanskrit Dictionary",
         "sc": "Reference (words intl)",
         "t": "sanskrit",
-        "u": "http://spokensanskrit.de/index.php?tinput={{{s}}}"
+        "u": "https://spokensanskrit.de/index.php?tinput={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -73257,7 +73257,7 @@ export const bangs = [
         "s": "SAPO",
         "sc": "Search (non-US)",
         "t": "sapo",
-        "u": "http://pesquisa.sapo.pt/?barra=&q={{{s}}}"
+        "u": "https://pesquisa.sapo.pt/?barra=&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -73527,7 +73527,7 @@ export const bangs = [
         "s": "Socialblade YouTube",
         "sc": "Social (intl)",
         "t": "sbyt",
-        "u": "http://socialblade.com/youtube/user/{{{s}}}"
+        "u": "https://socialblade.com/youtube/user/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -73653,7 +73653,7 @@ export const bangs = [
         "s": "SyncFile",
         "sc": "Video",
         "t": "scf",
-        "u": "http://syncfile.co/{{{s}}}"
+        "u": "https://syncfile.co/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -73716,7 +73716,7 @@ export const bangs = [
         "s": "Scholarpedia",
         "sc": "Academic",
         "t": "schp",
-        "u": "http://scholarpedia.org/w/index.php?search={{{s}}}"
+        "u": "https://scholarpedia.org/w/index.php?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -73734,7 +73734,7 @@ export const bangs = [
         "s": "Schuh",
         "sc": "Online",
         "t": "schuh",
-        "u": "http://www.schuh.co.uk/results.aspx#st={{{s}}}"
+        "u": "https://www.schuh.co.uk/results.aspx#st={{{s}}}"
     },
     {
         "c": "Research",
@@ -73743,7 +73743,7 @@ export const bangs = [
         "s": "The Science Dictionary",
         "sc": "Academic",
         "t": "scidict",
-        "u": "http://thesciencedictionary.org/search2/?q={{{s}}}"
+        "u": "https://thesciencedictionary.org/search2/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -73887,7 +73887,7 @@ export const bangs = [
         "s": "Smash Custom Music",
         "sc": "Games (general)",
         "t": "scm",
-        "u": "http://www.smashcustommusic.com/index.php?song={{{s}}}"
+        "u": "https://www.smashcustommusic.com/index.php?song={{{s}}}"
     },
     {
         "c": "Tech",
@@ -73932,7 +73932,7 @@ export const bangs = [
         "s": "scope.dk",
         "sc": "Video",
         "t": "scope.dk",
-        "u": "http://www.scope.dk/sogning?sog={{{s}}}"
+        "u": "https://www.scope.dk/sogning?sog={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -74031,7 +74031,7 @@ export const bangs = [
         "s": "SCP Foundation",
         "sc": "Misc",
         "t": "scp",
-        "u": "http://www.scp-wiki.net/search:site/a/p/q/{{{s}}}"
+        "u": "https://www.scp-wiki.net/search:site/a/p/q/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -74058,7 +74058,7 @@ export const bangs = [
         "s": "scrabblelookup",
         "sc": "Games (general)",
         "t": "scrabblelookup",
-        "u": "http://www.scrabblelookup.com/word/portion/search/{{{s}}}"
+        "u": "https://www.scrabblelookup.com/word/portion/search/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -74247,7 +74247,7 @@ export const bangs = [
         "s": "searchco.de",
         "sc": "Libraries/Frameworks",
         "t": "searchcode",
-        "u": "http://searchco.de/?q={{{s}}}"
+        "u": "https://searchco.de/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -74301,7 +74301,7 @@ export const bangs = [
         "s": "Nautical Dictionary",
         "sc": "Reference (words)",
         "t": "seatalk",
-        "u": "http://www.seatalk.info/cgi-bin/nautical-marine-sailing-dictionary/db.cgi?db=db&view_records=1&uid=default&Term={{{s}}}"
+        "u": "https://www.seatalk.info/cgi-bin/nautical-marine-sailing-dictionary/db.cgi?db=db&view_records=1&uid=default&Term={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -74346,7 +74346,7 @@ export const bangs = [
         "s": "www.sechenovclinic.ru",
         "sc": "Health",
         "t": "sechenovclinic",
-        "u": "http://www.sechenovclinic.ru/search/index.php?q={{{s}}}"
+        "u": "https://www.sechenovclinic.ru/search/index.php?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -74553,7 +74553,7 @@ export const bangs = [
         "s": "SenderBase",
         "sc": "Sysadmin",
         "t": "senderbase",
-        "u": "http://www.senderbase.org/senderbase_queries/detailhost?search_string={{{s}}}"
+        "u": "https://www.senderbase.org/senderbase_queries/detailhost?search_string={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -74733,7 +74733,7 @@ export const bangs = [
         "s": "sesli sözlük",
         "sc": "Reference (words)",
         "t": "seslisozluk",
-        "u": "http://www.seslisozluk.com/?word={{{s}}}"
+        "u": "https://www.seslisozluk.com/?word={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -74823,7 +74823,7 @@ export const bangs = [
         "s": "SFGate",
         "sc": "Newspaper",
         "t": "sfgate",
-        "u": "http://www.sfgate.com/search/?action=search&query={{{s}}}"
+        "u": "https://www.sfgate.com/search/?action=search&query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -75075,7 +75075,7 @@ export const bangs = [
         "s": "Shinden",
         "sc": "Video",
         "t": "shinden",
-        "u": "http://shinden.pl/search?q={{{s}}}"
+        "u": "https://shinden.pl/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -75102,7 +75102,7 @@ export const bangs = [
         "s": "shitcore.org",
         "sc": "Forum",
         "t": "shitcore",
-        "u": "http://shitcore.org/search.php?keywords={{{s}}}"
+        "u": "https://shitcore.org/search.php?keywords={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -75165,7 +75165,7 @@ export const bangs = [
         "s": "SHOPCLUES",
         "sc": "Online (marketplace)",
         "t": "shopclues",
-        "u": "http://shopclues.com/?q={{{s}}}:"
+        "u": "https://shopclues.com/?q={{{s}}}:"
     },
     {
         "c": "Shopping",
@@ -75417,7 +75417,7 @@ export const bangs = [
         "s": "Sikuli",
         "sc": "Programming",
         "t": "sikuli",
-        "u": "http://doc.sikuli.org/search.html?q={{{s}}}"
+        "u": "https://doc.sikuli.org/search.html?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -75480,7 +75480,7 @@ export const bangs = [
         "s": "SimilarWeb",
         "sc": "Tools",
         "t": "similarweb",
-        "u": "http://www.similarweb.com/website/{{{s}}}"
+        "u": "https://www.similarweb.com/website/{{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -75552,7 +75552,7 @@ export const bangs = [
         "s": "SimplyHired",
         "sc": "Jobs",
         "t": "simplyhired",
-        "u": "http://www.simplyhired.com/a/jobs/list/q-{{{s}}}"
+        "u": "https://www.simplyhired.com/a/jobs/list/q-{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -75633,7 +75633,7 @@ export const bangs = [
         "s": "sinopak",
         "sc": "Online",
         "t": "sinopak",
-        "u": "http://sinopak.net/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Search"
+        "u": "https://sinopak.net/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Search"
     },
     {
         "c": "Tech",
@@ -75831,7 +75831,7 @@ export const bangs = [
         "s": "sk98q",
         "sc": "Games (Minecraft)",
         "t": "sk98q",
-        "u": "http://wiki.sk89q.com/w/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search"
+        "u": "https://wiki.sk89q.com/w/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Shopping",
@@ -76101,7 +76101,7 @@ export const bangs = [
         "s": "Slader",
         "sc": "Search (Real-time)",
         "t": "slader",
-        "u": "http://www.slader.com/search/?search_query={{{s}}}"
+        "u": "https://www.slader.com/search/?search_query={{{s}}}"
     },
     {
         "c": "Research",
@@ -76119,7 +76119,7 @@ export const bangs = [
         "s": "The Online Slang Dictionary",
         "sc": "Reference (fun)",
         "t": "slang",
-        "u": "http://onlineslangdictionary.com/definition+of/{{{s}}}"
+        "u": "https://onlineslangdictionary.com/definition+of/{{{s}}}"
     },
     {
         "c": "News",
@@ -76335,7 +76335,7 @@ export const bangs = [
         "s": "sciencemag",
         "sc": "Academic",
         "t": "smag",
-        "u": "http://science.sciencemag.org/search/{{{s}}}"
+        "u": "https://science.sciencemag.org/search/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -76614,7 +76614,7 @@ export const bangs = [
         "s": "Smulweb",
         "sc": "Food",
         "t": "smulweb",
-        "u": "http://www.smulweb.nl/recepten/{{{s}}}"
+        "u": "https://www.smulweb.nl/recepten/{{{s}}}"
     },
     {
         "c": "News",
@@ -76893,7 +76893,7 @@ export const bangs = [
         "s": "Soccerway",
         "sc": "Sports",
         "t": "soccerway",
-        "u": "http://int.soccerway.com/search/?q={{{s}}}&module=all"
+        "u": "https://int.soccerway.com/search/?q={{{s}}}&module=all"
     },
     {
         "c": "Entertainment",
@@ -76902,7 +76902,7 @@ export const bangs = [
         "s": "Soccer Wiki",
         "sc": "Sports",
         "t": "soccerwiki",
-        "u": "http://soccerwiki.com/wiki.php?action=search&q={{{s}}}&searchType=players"
+        "u": "https://soccerwiki.com/wiki.php?action=search&q={{{s}}}&searchType=players"
     },
     {
         "c": "Entertainment",
@@ -76947,7 +76947,7 @@ export const bangs = [
         "s": "Stack Overflow Careers (Company Pages)",
         "sc": "Jobs",
         "t": "socp",
-        "u": "http://careers.stackoverflow.com/companies?searchTerm={{{s}}}"
+        "u": "https://careers.stackoverflow.com/companies?searchTerm={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -76956,7 +76956,7 @@ export const bangs = [
         "s": "Stack Overflow Careers",
         "sc": "Jobs",
         "t": "soc",
-        "u": "http://careers.stackoverflow.com/jobs?searchTerm={{{s}}}"
+        "u": "https://careers.stackoverflow.com/jobs?searchTerm={{{s}}}"
     },
     {
         "c": "Tech",
@@ -77163,7 +77163,7 @@ export const bangs = [
         "s": "Son2Teuf",
         "sc": "Music",
         "t": "son2teuf",
-        "u": "http://son2teuf.org/search/category_sort/Page-1?searchphrase=any&searchword={{{s}}}&view=search"
+        "u": "https://son2teuf.org/search/category_sort/Page-1?searchphrase=any&searchword={{{s}}}&view=search"
     },
     {
         "c": "Tech",
@@ -77271,7 +77271,7 @@ export const bangs = [
         "s": "Son of Marketing",
         "sc": "Audio",
         "t": "sonofmarketing",
-        "u": "http://www.sonofmarketing.it/?q={{{s}}}"
+        "u": "https://www.sonofmarketing.it/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -77415,7 +77415,7 @@ export const bangs = [
         "s": "SourceForge",
         "sc": "Downloads (software)",
         "t": "sourceforge",
-        "u": "http://sourceforge.net/directory/?q={{{s}}}"
+        "u": "https://sourceforge.net/directory/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -77901,7 +77901,7 @@ export const bangs = [
         "s": "The Sporum",
         "sc": "Forum",
         "t": "sporum",
-        "u": "http://forum.spore.com/jforum/jforum.page?module=search&action=search&search_keywords={{{s}}}"
+        "u": "https://forum.spore.com/jforum/jforum.page?module=search&action=search&search_keywords={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -77991,7 +77991,7 @@ export const bangs = [
         "s": "SitePoint Reference",
         "sc": "Blogs",
         "t": "spr",
-        "u": "http://search.sitepoint.com/?q={{{s}}}&refinements[reference]=1"
+        "u": "https://search.sitepoint.com/?q={{{s}}}&refinements[reference]=1"
     },
     {
         "c": "Online Services",
@@ -78027,7 +78027,7 @@ export const bangs = [
         "s": "Sputnik",
         "sc": "Search (non-US)",
         "t": "sputnik",
-        "u": "http://www.sputnik.ru/search?q={{{s}}}"
+        "u": "https://www.sputnik.ru/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -78063,7 +78063,7 @@ export const bangs = [
         "s": "Square Faction",
         "sc": "Games (general)",
         "t": "sqfa",
-        "u": "http://squarefaction.ru/main/search/google?searchQuery={{{s}}}"
+        "u": "https://squarefaction.ru/main/search/google?searchQuery={{{s}}}"
     },
     {
         "c": "Tech",
@@ -78297,7 +78297,7 @@ export const bangs = [
         "s": "Bos.zrs-sazu.si",
         "sc": "Tools",
         "t": "sskj",
-        "u": "http://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression={{{s}}}&hs=1"
+        "u": "https://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression={{{s}}}&hs=1"
     },
     {
         "c": "Tech",
@@ -78738,7 +78738,7 @@ export const bangs = [
         "s": "Steam Database",
         "sc": "Games (general)",
         "t": "steamdb",
-        "u": "http://steamdb.info/search/?a=app&q={{{s}}}"
+        "u": "https://steamdb.info/search/?a=app&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -78900,7 +78900,7 @@ export const bangs = [
         "s": "Supremo Tribunal Federal",
         "sc": "Government",
         "t": "stf",
-        "u": "http://portal.stf.jus.br/processos/listarProcessos.asp?classe=&numeroProcesso={{{s}}}"
+        "u": "https://portal.stf.jus.br/processos/listarProcessos.asp?classe=&numeroProcesso={{{s}}}"
     },
     {
         "c": "Research",
@@ -78945,7 +78945,7 @@ export const bangs = [
         "s": "stixoi.info",
         "sc": "Learning",
         "t": "stixoi",
-        "u": "http://www.stixoi.info/stixoi.php?info=SS&keywords={{{s}}}&act=ss"
+        "u": "https://www.stixoi.info/stixoi.php?info=SS&keywords={{{s}}}&act=ss"
     },
     {
         "c": "Tech",
@@ -78963,7 +78963,7 @@ export const bangs = [
         "s": "STM-Blog",
         "sc": "Blogs",
         "t": "stm",
-        "u": "http://stmblog.com/?s={{{s}}}"
+        "u": "https://stmblog.com/?s={{{s}}}"
     },
     {
         "c": "News",
@@ -79017,7 +79017,7 @@ export const bangs = [
         "s": "Sierra Trading Post",
         "sc": "Online",
         "t": "stp",
-        "u": "http://www.sierratradingpost.com/s~{{{s}}}"
+        "u": "https://www.sierratradingpost.com/s~{{{s}}}"
     },
     {
         "c": "Research",
@@ -79242,7 +79242,7 @@ export const bangs = [
         "s": "Stupidedia",
         "sc": "Reference (fun)",
         "t": "stupi",
-        "u": "http://www.stupidedia.org/stupi?title=Spezial:Suche&search={{{s}}}"
+        "u": "https://www.stupidedia.org/stupi?title=Spezial:Suche&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -79287,7 +79287,7 @@ export const bangs = [
         "s": "Subeen.com",
         "sc": "Blogs",
         "t": "subeen",
-        "u": "http://subeen.com/?s={{{s}}}"
+        "u": "https://subeen.com/?s={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -79449,7 +79449,7 @@ export const bangs = [
         "s": "La Poste",
         "sc": "Tracking",
         "t": "suivicourrier",
-        "u": "http://www.csuivi.courrier.laposte.fr/suivi/index?id={{{s}}}#"
+        "u": "https://www.csuivi.courrier.laposte.fr/suivi/index?id={{{s}}}#"
     },
     {
         "c": "Online Services",
@@ -79557,7 +79557,7 @@ export const bangs = [
         "s": "SuperDownloads",
         "sc": "Downloads (software)",
         "t": "superdownloads",
-        "u": "http://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
+        "u": "https://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
     },
     {
         "c": "Research",
@@ -79647,7 +79647,7 @@ export const bangs = [
         "s": "Susy",
         "sc": "Libraries/Frameworks",
         "t": "susy",
-        "u": "http://susydocs.oddbird.net/en/latest/?q={{{s}}}"
+        "u": "https://susydocs.oddbird.net/en/latest/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -80097,7 +80097,7 @@ export const bangs = [
         "s": "Systranet English-French",
         "sc": "Reference (words intl)",
         "t": "sysef",
-        "u": "http://www.systranet.com/fr/fr/dictionary/english-french/{{{s}}}?"
+        "u": "https://www.systranet.com/fr/fr/dictionary/english-french/{{{s}}}?"
     },
     {
         "c": "Research",
@@ -80106,7 +80106,7 @@ export const bangs = [
         "s": "Systranet English-Swedish",
         "sc": "Reference (words intl)",
         "t": "sysensw",
-        "u": "http://www.systranet.com/fr/fr/dictionary/english-swedish/{{{s}}}?"
+        "u": "https://www.systranet.com/fr/fr/dictionary/english-swedish/{{{s}}}?"
     },
     {
         "c": "Research",
@@ -80115,7 +80115,7 @@ export const bangs = [
         "s": "Systranet French-English",
         "sc": "Reference (words intl)",
         "t": "sysfe",
-        "u": "http://www.systranet.com/fr/fr/dictionary/french-english/{{{s}}}?"
+        "u": "https://www.systranet.com/fr/fr/dictionary/french-english/{{{s}}}?"
     },
     {
         "c": "Entertainment",
@@ -80142,7 +80142,7 @@ export const bangs = [
         "s": "Systranet Swedish-English",
         "sc": "Reference (words intl)",
         "t": "sysswen",
-        "u": "http://www.systranet.com/fr/fr/dictionary/swedish-english/{{{s}}}?"
+        "u": "https://www.systranet.com/fr/fr/dictionary/swedish-english/{{{s}}}?"
     },
     {
         "c": "Shopping",
@@ -80160,7 +80160,7 @@ export const bangs = [
         "s": "Systranet",
         "sc": "Tools",
         "t": "systranet",
-        "u": "http://www.systranet.com/translate?text={{{s}}}"
+        "u": "https://www.systranet.com/translate?text={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -80232,7 +80232,7 @@ export const bangs = [
         "s": "Time2Game",
         "sc": "Online",
         "t": "t2g",
-        "u": "http://www.time2game.be/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+        "u": "https://www.time2game.be/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -80385,7 +80385,7 @@ export const bangs = [
         "s": "taginfo Switzerland",
         "sc": "Tools",
         "t": "taginfoch",
-        "u": "http://taginfo.openstreetmap.ch/search?q={{{s}}}"
+        "u": "https://taginfo.openstreetmap.ch/search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -80457,7 +80457,7 @@ export const bangs = [
         "s": "takealot.com",
         "sc": "Online",
         "t": "takealot",
-        "u": "http://www.takealot.com/all/?qsearch={{{s}}}"
+        "u": "https://www.takealot.com/all/?qsearch={{{s}}}"
     },
     {
         "c": "Research",
@@ -80556,7 +80556,7 @@ export const bangs = [
         "s": "Tanum",
         "sc": "Online",
         "t": "tanum",
-        "u": "http://www.tanum.no/tanum/search/search.action?query={{{s}}}"
+        "u": "https://www.tanum.no/tanum/search/search.action?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -80655,7 +80655,7 @@ export const bangs = [
         "s": "Taringa!",
         "sc": "Social",
         "t": "tar",
-        "u": "http://www.taringa.net/buscar/?q={{{s}}}"
+        "u": "https://www.taringa.net/buscar/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -80700,7 +80700,7 @@ export const bangs = [
         "s": "Taste.com.au",
         "sc": "Misc",
         "t": "taste",
-        "u": "http://www.taste.com.au/search-recipes/?q={{{s}}}"
+        "u": "https://www.taste.com.au/search-recipes/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -80718,7 +80718,7 @@ export const bangs = [
         "s": "tripadvisor",
         "sc": "Travel",
         "t": "ta",
-        "u": "http://www.tripadvisor.com/Search?q={{{s}}}"
+        "u": "https://www.tripadvisor.com/Search?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -80799,7 +80799,7 @@ export const bangs = [
         "s": "Tibia",
         "sc": "Games (specific)",
         "t": "tbc",
-        "u": "http://www.tibia.com/community/?subtopic=characters&name={{{s}}}"
+        "u": "https://www.tibia.com/community/?subtopic=characters&name={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -80817,7 +80817,7 @@ export const bangs = [
         "s": "The Book Depository",
         "sc": "Online",
         "t": "tbd",
-        "u": "http://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
+        "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
     },
     {
         "c": "Online Services",
@@ -80844,7 +80844,7 @@ export const bangs = [
         "s": "OLX.co.id (Tokobagus)",
         "sc": "Online (marketplace)",
         "t": "tb",
-        "u": "http://www.olx.co.id/halaman/mencari/{{{s}}}/search"
+        "u": "https://www.olx.co.id/halaman/mencari/{{{s}}}/search"
     },
     {
         "c": "Shopping",
@@ -80862,7 +80862,7 @@ export const bangs = [
         "s": "TechnoBuffalo",
         "sc": "Blogs",
         "t": "tbuff",
-        "u": "http://www.technobuffalo.com/search-results/?q={{{s}}}"
+        "u": "https://www.technobuffalo.com/search-results/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -81114,7 +81114,7 @@ export const bangs = [
         "s": "Tech2days",
         "sc": "Blogs",
         "t": "tech2days",
-        "u": "http://tech2days.com/?q={{{s}}}:"
+        "u": "https://tech2days.com/?q={{{s}}}:"
     },
     {
         "c": "Tech",
@@ -81330,7 +81330,7 @@ export const bangs = [
         "s": "Teketen",
         "sc": "Blogs (intl)",
         "t": "teketen",
-        "u": "http://teketen.com/?s={{{s}}}&submit=Search"
+        "u": "https://teketen.com/?s={{{s}}}&submit=Search"
     },
     {
         "c": "Shopping",
@@ -81348,7 +81348,7 @@ export const bangs = [
         "s": "TeknoFiyat",
         "sc": "Tech",
         "t": "teknofiyat",
-        "u": "http://www.teknofiyat.com/?search={{{s}}}"
+        "u": "https://www.teknofiyat.com/?search={{{s}}}"
     },
     {
         "c": "News",
@@ -81429,7 +81429,7 @@ export const bangs = [
         "s": "Telegraaf",
         "sc": "Newspaper",
         "t": "telegraaf",
-        "u": "http://www.telegraaf.nl/zoeken/{{{s}}}"
+        "u": "https://www.telegraaf.nl/zoeken/{{{s}}}"
     },
     {
         "c": "News",
@@ -81465,7 +81465,7 @@ export const bangs = [
         "s": "Teletekst",
         "sc": "Broadcast",
         "t": "teletekst",
-        "u": "http://teletekst-data.nos.nl/webplus?p={{{s}}}"
+        "u": "https://teletekst-data.nos.nl/webplus?p={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -81672,7 +81672,7 @@ export const bangs = [
         "s": "Tesco UK",
         "sc": "Big box/department",
         "t": "tesco",
-        "u": "http://www.tesco.com/groceries/product/search/default.aspx?searchBox={{{s}}}"
+        "u": "https://www.tesco.com/groceries/product/search/default.aspx?searchBox={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -81978,7 +81978,7 @@ export const bangs = [
         "s": "thai-language.com",
         "sc": "Reference",
         "t": "thai",
-        "u": "http://www.thai-language.com/default.aspx?search={{{s}}}"
+        "u": "https://www.thai-language.com/default.aspx?search={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -82104,7 +82104,7 @@ export const bangs = [
         "s": "The Futon Critic",
         "sc": "TV",
         "t": "thefutoncritic",
-        "u": "http://www.thefutoncritic.com/search.aspx?q={{{s}}}&type=titles"
+        "u": "https://www.thefutoncritic.com/search.aspx?q={{{s}}}&type=titles"
     },
     {
         "c": "Entertainment",
@@ -82230,7 +82230,7 @@ export const bangs = [
         "s": "The Source",
         "sc": "Tech",
         "t": "thesource",
-        "u": "http://www.thesource.ca/en-ca/search/?text={{{s}}}&search_submit="
+        "u": "https://www.thesource.ca/en-ca/search/?text={{{s}}}&search_submit="
     },
     {
         "c": "News",
@@ -82284,7 +82284,7 @@ export const bangs = [
         "s": "The Yard Dr",
         "sc": "Images",
         "t": "theyarddr",
-        "u": "http://theyarddr.com/?s={{{s}}}"
+        "u": "https://theyarddr.com/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -82527,7 +82527,7 @@ export const bangs = [
         "s": "Touhouwiki (English)",
         "sc": "Games (specific)",
         "t": "thwiki",
-        "u": "http://en.touhouwiki.net/index.php?title=Special:Search&search={{{s}}}"
+        "u": "https://en.touhouwiki.net/index.php?title=Special:Search&search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -82581,7 +82581,7 @@ export const bangs = [
         "s": "Ticketmaster UK",
         "sc": "Online (intl)",
         "t": "ticketmasteruk",
-        "u": "http://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q={{{s}}}"
+        "u": "https://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -82959,7 +82959,7 @@ export const bangs = [
         "s": "tkkrlab",
         "sc": "Programming",
         "t": "tkkrlab",
-        "u": "http://tkkrlab.nl/wiki/Special:Search?search={{{s}}}&go=Go"
+        "u": "https://tkkrlab.nl/wiki/Special:Search?search={{{s}}}&go=Go"
     },
     {
         "c": "Research",
@@ -83040,7 +83040,7 @@ export const bangs = [
         "s": "The Ladies Finger",
         "sc": "Magazine",
         "t": "tlf",
-        "u": "http://theladiesfinger.com/?s={{{s}}}"
+        "u": "https://theladiesfinger.com/?s={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -83283,7 +83283,7 @@ export const bangs = [
         "s": "Tunisie Annonces",
         "sc": "Online (deals)",
         "t": "tn-annonces",
-        "u": "http://www.tunisie-annonce.com/search.asp?q={{{s}}}"
+        "u": "https://www.tunisie-annonce.com/search.asp?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -83355,7 +83355,7 @@ export const bangs = [
         "s": "Custom Mario Kart Wiki",
         "sc": "Games (general)",
         "t": "tockdom",
-        "u": "http://wiki.tockdom.com/w/index.php?title=Special:Search&search={{{s}}}&fulltext=Search"
+        "u": "https://wiki.tockdom.com/w/index.php?title=Special:Search&search={{{s}}}&fulltext=Search"
     },
     {
         "c": "Online Services",
@@ -83382,7 +83382,7 @@ export const bangs = [
         "s": "Tree Of Life Web Project",
         "sc": "Reference (science)",
         "t": "tof",
-        "u": "http://www.tolweb.org/tree/{{{s}}}"
+        "u": "https://www.tolweb.org/tree/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -83418,7 +83418,7 @@ export const bangs = [
         "s": "Tome of Knowledge",
         "sc": "Games (general)",
         "t": "tok",
-        "u": "http://tomeofknowledge.info/?q={{{s}}}"
+        "u": "https://tomeofknowledge.info/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -83427,7 +83427,7 @@ export const bangs = [
         "s": "TokyoNoise",
         "sc": "Audio",
         "t": "tokyonoise",
-        "u": "http://www.tokyonoise.net/cerca.php?s={{{s}}}&p=1"
+        "u": "https://www.tokyonoise.net/cerca.php?s={{{s}}}&p=1"
     },
     {
         "c": "Research",
@@ -83436,7 +83436,7 @@ export const bangs = [
         "s": "Tree of Life Web Project",
         "sc": "Academic",
         "t": "tol",
-        "u": "http://tolweb.org/tree/home.pages/search.html?q={{{s}}}&sa=Search"
+        "u": "https://tolweb.org/tree/home.pages/search.html?q={{{s}}}&sa=Search"
     },
     {
         "c": "Entertainment",
@@ -83535,7 +83535,7 @@ export const bangs = [
         "s": "Toppreise.ch",
         "sc": "Online",
         "t": "toppreise",
-        "u": "http://www.toppreise.ch/index.php?search={{{s}}}&res=OK"
+        "u": "https://www.toppreise.ch/index.php?search={{{s}}}&res=OK"
     },
     {
         "c": "Shopping",
@@ -83661,7 +83661,7 @@ export const bangs = [
         "s": "Touhou Wiki",
         "sc": "Games (specific)",
         "t": "touhou",
-        "u": "http://en.touhouwiki.net/index.php?search={{{s}}}"
+        "u": "https://en.touhouwiki.net/index.php?search={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -83715,7 +83715,7 @@ export const bangs = [
         "s": "The People's Cube",
         "sc": "Blogs",
         "t": "tpc",
-        "u": "http://thepeoplescube.com/searchGoogle.php?q={{{s}}}"
+        "u": "https://thepeoplescube.com/searchGoogle.php?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -83805,7 +83805,7 @@ export const bangs = [
         "s": "Packagetrackr",
         "sc": "Tracking",
         "t": "trackr",
-        "u": "http://www.packagetrackr.com/track/?submit=&n={{{s}}}&c="
+        "u": "https://www.packagetrackr.com/track/?submit=&n={{{s}}}&c="
     },
     {
         "c": "Shopping",
@@ -84057,7 +84057,7 @@ export const bangs = [
         "s": "Trip Advisor",
         "sc": "Travel",
         "t": "tripadvisor",
-        "u": "http://www.tripadvisor.com/Search?q={{{s}}}&sub-search=Go"
+        "u": "https://www.tripadvisor.com/Search?q={{{s}}}&sub-search=Go"
     },
     {
         "c": "Entertainment",
@@ -84291,7 +84291,7 @@ export const bangs = [
         "s": "Truly Texan",
         "sc": "Online (marketplace)",
         "t": "trulytexan",
-        "u": "http://www.trulytexan.com/?{{{s}}}"
+        "u": "https://www.trulytexan.com/?{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -84462,7 +84462,7 @@ export const bangs = [
         "s": "Tutti ticino",
         "sc": "Online (marketplace)",
         "t": "tti",
-        "u": "http://www.tutti.ch/ticino?q={{{s}}}"
+        "u": "https://www.tutti.ch/ticino?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -84579,7 +84579,7 @@ export const bangs = [
         "s": "Tudo Gostoso",
         "sc": "Food",
         "t": "tudogostoso",
-        "u": "http://www.tudogostoso.com.br/busca?q={{{s}}}"
+        "u": "https://www.tudogostoso.com.br/busca?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -84714,7 +84714,7 @@ export const bangs = [
         "s": "Turnstone",
         "sc": "Online",
         "t": "turnstone",
-        "u": "http://myturnstone.com/?s={{{s}}}&lang=en"
+        "u": "https://myturnstone.com/?s={{{s}}}&lang=en"
     },
     {
         "c": "Online Services",
@@ -84759,7 +84759,7 @@ export const bangs = [
         "s": "tutti.ch",
         "sc": "Online (marketplace)",
         "t": "tuttich",
-        "u": "http://www.tutti.ch/ganze-schweiz?q={{{s}}}"
+        "u": "https://www.tutti.ch/ganze-schweiz?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -84912,7 +84912,7 @@ export const bangs = [
         "s": "tvi24",
         "sc": "Newspaper",
         "t": "tvi",
-        "u": "http://www.tvi24.iol.pt/pesquisa/{{{s}}}"
+        "u": "https://www.tvi24.iol.pt/pesquisa/{{{s}}}"
     },
     {
         "c": "News",
@@ -84984,7 +84984,7 @@ export const bangs = [
         "s": "TVShow Time",
         "sc": "TV",
         "t": "tvst",
-        "u": "http://www.tvshowtime.com/en/search?q={{{s}}}"
+        "u": "https://www.tvshowtime.com/en/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -85776,7 +85776,7 @@ export const bangs = [
         "s": "Universidade Federal do Rio de Janeiro",
         "sc": "Academic",
         "t": "ufrj",
-        "u": "http://www.ufrj.br/buscagoogle2.php?q={{{s}}}"
+        "u": "https://www.ufrj.br/buscagoogle2.php?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -85947,7 +85947,7 @@ export const bangs = [
         "s": "UK Parliament (Official Site)",
         "sc": "Government",
         "t": "ukparl",
-        "u": "http://www.parliament.uk/search/results/?q={{{s}}}"
+        "u": "https://www.parliament.uk/search/results/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -86055,7 +86055,7 @@ export const bangs = [
         "s": "Um3bd",
         "sc": "Music",
         "t": "um3bd",
-        "u": "http://um3bd.free.fr/?s={{{s}}}"
+        "u": "https://um3bd.free.fr/?s={{{s}}}"
     },
     {
         "c": "Tech",
@@ -86136,7 +86136,7 @@ export const bangs = [
         "s": "Biblioteka UMK",
         "sc": "Learning",
         "t": "umk",
-        "u": "http://opac.bu.umk.pl/webpac-bin/B_horizonPL/wgbroker.exe?new+-access+top+search+open+CI+{{{s}}}"
+        "u": "https://opac.bu.umk.pl/webpac-bin/B_horizonPL/wgbroker.exe?new+-access+top+search+open+CI+{{{s}}}"
     },
     {
         "c": "Research",
@@ -86172,7 +86172,7 @@ export const bangs = [
         "s": "Universidade de Brasília / Repositório Institucional",
         "sc": "Academic",
         "t": "unbri",
-        "u": "http://repositorio.unb.br/simple-search?query={{{s}}}&submit=Ir"
+        "u": "https://repositorio.unb.br/simple-search?query={{{s}}}&submit=Ir"
     },
     {
         "c": "Research",
@@ -86361,7 +86361,7 @@ export const bangs = [
         "s": "Search for character(s) in Unicode",
         "sc": "Programming",
         "t": "uni",
-        "u": "http://unicode-search.net/unicode-namesearch.pl?term={{{s}}}"
+        "u": "https://unicode-search.net/unicode-namesearch.pl?term={{{s}}}"
     },
     {
         "c": "Research",
@@ -86460,7 +86460,7 @@ export const bangs = [
         "s": "Universidad de Zaragoza",
         "sc": "Search (non-US)",
         "t": "unizar",
-        "u": "http://www.unizar.es/search/node/{{{s}}}"
+        "u": "https://www.unizar.es/search/node/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -86469,7 +86469,7 @@ export const bangs = [
         "s": "アンサイクロペディア",
         "sc": "Search",
         "t": "unja",
-        "u": "http://ja.uncyclopedia.info/wiki/{{{s}}}"
+        "u": "https://ja.uncyclopedia.info/wiki/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -86811,7 +86811,7 @@ export const bangs = [
         "s": "Urbaani Sanakirja",
         "sc": "Reference (words)",
         "t": "urbaani",
-        "u": "http://urbaanisanakirja.com/search/?q={{{s}}}"
+        "u": "https://urbaanisanakirja.com/search/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -86928,7 +86928,7 @@ export const bangs = [
         "s": "US Chess Federation",
         "sc": "Games (specific)",
         "t": "uschess",
-        "u": "http://www.uschess.org/datapage/player-search.php?name={{{s}}}&state=ANY&ratingmin=&ratingmax=&order=N&rating=R&mode=Find"
+        "u": "https://www.uschess.org/datapage/player-search.php?name={{{s}}}&state=ANY&ratingmin=&ratingmax=&order=N&rating=R&mode=Find"
     },
     {
         "c": "Research",
@@ -87054,7 +87054,7 @@ export const bangs = [
         "s": "The United States Mint",
         "sc": "Government",
         "t": "usmint",
-        "u": "http://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query={{{s}}}"
+        "u": "https://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -87171,7 +87171,7 @@ export const bangs = [
         "s": "Utopia Wiki",
         "sc": "Games (general)",
         "t": "utopia",
-        "u": "http://wiki.utopia-game.com/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "https://wiki.utopia-game.com/index.php?title=Special:Search&search={{{s}}}&go=Go"
     },
     {
         "c": "Research",
@@ -87261,7 +87261,7 @@ export const bangs = [
         "s": "The Daily of the University of Washington",
         "sc": "Newspaper",
         "t": "uwd",
-        "u": "http://www.dailyuw.com/search/?t=article&nsa=eedition&q=&x=17&y=23{{{s}}}:"
+        "u": "https://www.dailyuw.com/search/?t=article&nsa=eedition&q=&x=17&y=23{{{s}}}:"
     },
     {
         "c": "Online Services",
@@ -87864,7 +87864,7 @@ export const bangs = [
         "s": "Vemo.it forniture alberghiere",
         "sc": "Online (intl)",
         "t": "vemo",
-        "u": "http://www.vemo.it/cerca.php?prodotto={{{s}}}"
+        "u": "https://www.vemo.it/cerca.php?prodotto={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -87873,7 +87873,7 @@ export const bangs = [
         "s": "Vem ringde",
         "sc": "Search",
         "t": "vem",
-        "u": "http://vemringde.se/?q={{{s}}}"
+        "u": "https://vemringde.se/?q={{{s}}}"
     },
     {
         "c": "News",
@@ -87909,7 +87909,7 @@ export const bangs = [
         "s": "VERBES - Conjugaison française",
         "sc": "Learning (intl)",
         "t": "verbes",
-        "u": "http://www.les-verbes.com/conjuguer.php?verbe={{{s}}}"
+        "u": "https://www.les-verbes.com/conjuguer.php?verbe={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -87918,7 +87918,7 @@ export const bangs = [
         "s": "Finnish Verb Conjugator",
         "sc": "Tools",
         "t": "verbfi",
-        "u": "http://www.dictionar-finlandez.net/online/verbs/conjugate_verb.php?verb={{{s}}}"
+        "u": "https://www.dictionar-finlandez.net/online/verbs/conjugate_verb.php?verb={{{s}}}"
     },
     {
         "c": "Research",
@@ -88431,7 +88431,7 @@ export const bangs = [
         "s": "Decode This!",
         "sc": "Reference",
         "t": "vin",
-        "u": "http://www.decodethis.com/VINdecoder/65/vin/{{{s}}}"
+        "u": "https://www.decodethis.com/VINdecoder/65/vin/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -88584,7 +88584,7 @@ export const bangs = [
         "s": "Vikia Vortaro",
         "sc": "Reference (words intl)",
         "t": "vivo",
-        "u": "http://www.kono.be/cgi-bin/vivo/ViVo.cgi?lingvo=eo&esprimo={{{s}}}"
+        "u": "https://www.kono.be/cgi-bin/vivo/ViVo.cgi?lingvo=eo&esprimo={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -89043,7 +89043,7 @@ export const bangs = [
         "s": "Vivid Seats",
         "sc": "Online (marketplace)",
         "t": "vs",
-        "u": "http://www.vividseats.com/Search.action?searchTerm={{{s}}}"
+        "u": "https://www.vividseats.com/Search.action?searchTerm={{{s}}}"
     },
     {
         "c": "Research",
@@ -89394,7 +89394,7 @@ export const bangs = [
         "s": "Waitrose",
         "sc": "Online (marketplace)",
         "t": "waitrose",
-        "u": "http://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}"
+        "u": "https://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}"
     },
     {
         "c": "Research",
@@ -89412,7 +89412,7 @@ export const bangs = [
         "s": "Wakoopa",
         "sc": "Companies",
         "t": "wakoopa",
-        "u": "http://social.wakoopa.com/search?query={{{s}}}"
+        "u": "https://social.wakoopa.com/search?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -89511,7 +89511,7 @@ export const bangs = [
         "s": "Wanelo",
         "sc": "Online",
         "t": "wanelo",
-        "u": "http://wanelo.com/search?query={{{s}}}"
+        "u": "https://wanelo.com/search?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -89574,7 +89574,7 @@ export const bangs = [
         "s": "World-Art.ru",
         "sc": "Misc",
         "t": "waru",
-        "u": "http://www.world-art.ru/search.php?public_search={{{s}}}&global_sector=all"
+        "u": "https://www.world-art.ru/search.php?public_search={{{s}}}&global_sector=all"
     },
     {
         "c": "Online Services",
@@ -89601,7 +89601,7 @@ export const bangs = [
         "s": "WatchCount.com",
         "sc": "Search Engine",
         "t": "watchcount",
-        "u": "http://www.watchcount.com/completed.php?bkw={{{s}}}&bcat=0&bcts=&sfsb=Show+Me!&csbin=all&cssrt=ts&bslr=&bnp=&bxp="
+        "u": "https://www.watchcount.com/completed.php?bkw={{{s}}}&bcat=0&bcts=&sfsb=Show+Me!&csbin=all&cssrt=ts&bslr=&bnp=&bxp="
     },
     {
         "c": "Multimedia",
@@ -89682,7 +89682,7 @@ export const bangs = [
         "s": "Wayfair",
         "sc": "Online",
         "t": "wayfair",
-        "u": "http://www.wayfair.com/keyword.php?keyword={{{s}}}"
+        "u": "https://www.wayfair.com/keyword.php?keyword={{{s}}}"
     },
     {
         "c": "Research",
@@ -89844,7 +89844,7 @@ export const bangs = [
         "s": "WhoCallsMe",
         "sc": "Reference",
         "t": "wcm",
-        "u": "http://whocallsme.com/nb/search.aspx?q={{{s}}}"
+        "u": "https://whocallsme.com/nb/search.aspx?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -89979,7 +89979,7 @@ export const bangs = [
         "s": "Web2Py",
         "sc": "Companies",
         "t": "web2py",
-        "u": "http://web2py.com/books/default/search/29?search={{{s}}}"
+        "u": "https://web2py.com/books/default/search/29?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -90141,7 +90141,7 @@ export const bangs = [
         "s": "Webstagram",
         "sc": "Images",
         "t": "webstagram",
-        "u": "http://web.stagram.com/search/{{{s}}}"
+        "u": "https://web.stagram.com/search/{{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90150,7 +90150,7 @@ export const bangs = [
         "s": "webstatsdomain",
         "sc": "Search",
         "t": "webstats",
-        "u": "http://www.webstatsdomain.com/?q={{{s}}}"
+        "u": "https://www.webstatsdomain.com/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90213,7 +90213,7 @@ export const bangs = [
         "s": "Webutation",
         "sc": "Tools (URLs)",
         "t": "webutation",
-        "u": "http://www.webutations.org/go/review/{{{s}}}"
+        "u": "https://www.webutations.org/go/review/{{{s}}}"
     },
     {
         "c": "Research",
@@ -90222,7 +90222,7 @@ export const bangs = [
         "s": "Webxicon -> English",
         "sc": "Reference (words intl)",
         "t": "webxiconen",
-        "u": "http://webxicon.org/search.php?l=-1&l2=3&q={{{s}}}"
+        "u": "https://webxicon.org/search.php?l=-1&l2=3&q={{{s}}}"
     },
     {
         "c": "Research",
@@ -90231,7 +90231,7 @@ export const bangs = [
         "s": "Webxicon -> Finnish",
         "sc": "Reference (words intl)",
         "t": "webxiconfi",
-        "u": "http://webxicon.org/search.php?l=-1&l2=17&q={{{s}}}"
+        "u": "https://webxicon.org/search.php?l=-1&l2=17&q={{{s}}}"
     },
     {
         "c": "Research",
@@ -90240,7 +90240,7 @@ export const bangs = [
         "s": "Webxicon -> Swedish",
         "sc": "Reference (words intl)",
         "t": "webxiconse",
-        "u": "http://webxicon.org/search.php?l=-1&l2=15&q={{{s}}}"
+        "u": "https://webxicon.org/search.php?l=-1&l2=15&q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90249,7 +90249,7 @@ export const bangs = [
         "s": "webxicon",
         "sc": "Tools",
         "t": "webxicon",
-        "u": "http://webxicon.org/search.php?q={{{s}}}"
+        "u": "https://webxicon.org/search.php?q={{{s}}}"
     },
     {
         "c": "News",
@@ -90294,7 +90294,7 @@ export const bangs = [
         "s": "Wehkamp",
         "sc": "Online",
         "t": "wehkamp",
-        "u": "http://www.wehkamp.nl/Winkelen/SearchOverview.aspx?N=186&Nty=1&Ntk=ART&VIEW=Grid&Ntt={{{s}}}"
+        "u": "https://www.wehkamp.nl/Winkelen/SearchOverview.aspx?N=186&Nty=1&Ntk=ART&VIEW=Grid&Ntt={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90375,7 +90375,7 @@ export const bangs = [
         "s": "West Elm",
         "sc": "Online",
         "t": "westelm",
-        "u": "http://www.westelm.com/search/results.html?words={{{s}}}"
+        "u": "https://www.westelm.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Research",
@@ -90456,7 +90456,7 @@ export const bangs = [
         "s": "Warframe Wiki (DE)",
         "sc": "Games (specific)",
         "t": "wfde",
-        "u": "http://de.warframe.wikia.com/wiki/Spezial:Suche?search={{{s}}}"
+        "u": "https://de.warframe.wikia.com/wiki/Spezial:Suche?search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90528,7 +90528,7 @@ export const bangs = [
         "s": "WGBH News",
         "sc": "Broadcast",
         "t": "wgbh",
-        "u": "http://wgbhnews.org/search/google/{{{s}}}"
+        "u": "https://wgbhnews.org/search/google/{{{s}}}"
     },
     {
         "c": "Shopping",
@@ -90627,7 +90627,7 @@ export const bangs = [
         "s": "The World's Healthiest Foods",
         "sc": "Food",
         "t": "whfoods",
-        "u": "http://whfoods.org/sitesearch.php?sstr={{{s}}}&how=1"
+        "u": "https://whfoods.org/sitesearch.php?sstr={{{s}}}&how=1"
     },
     {
         "c": "Research",
@@ -90681,7 +90681,7 @@ export const bangs = [
         "s": "Whirlpool Forums",
         "sc": "Forum",
         "t": "whirlpool",
-        "u": "http://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
+        "u": "https://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -90708,7 +90708,7 @@ export const bangs = [
         "s": "Whitaker's Words English",
         "sc": "Academic",
         "t": "whitakers",
-        "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?english={{{s}}}"
+        "u": "https://www.archives.nd.edu/cgi-bin/wordz.pl?english={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -90780,7 +90780,7 @@ export const bangs = [
         "s": "Heroku Whoiz",
         "sc": "Sysadmin (network)",
         "t": "whoizh",
-        "u": "http://whoiz.herokuapp.com/lookup?url={{{s}}}"
+        "u": "https://whoiz.herokuapp.com/lookup?url={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -90789,7 +90789,7 @@ export const bangs = [
         "s": "Who Sampled",
         "sc": "Music",
         "t": "whosampled",
-        "u": "http://whosampled.com/search/?q={{{s}}}"
+        "u": "https://whosampled.com/search/?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90807,7 +90807,7 @@ export const bangs = [
         "s": "WhoScored",
         "sc": "Sports",
         "t": "whoscored",
-        "u": "http://www.whoscored.com/Search/?t={{{s}}}"
+        "u": "https://www.whoscored.com/Search/?t={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -90870,7 +90870,7 @@ export const bangs = [
         "s": "WikiAnswers",
         "sc": "Misc",
         "t": "wikianswers",
-        "u": "http://answers.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns112=1&ns500=1&ns502=1"
+        "u": "https://answers.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns112=1&ns500=1&ns502=1"
     },
     {
         "c": "Shopping",
@@ -91005,7 +91005,7 @@ export const bangs = [
         "s": "Wikimapia",
         "sc": "Maps",
         "t": "wikimapia",
-        "u": "http://www.wikimapia.org/#search={{{s}}}"
+        "u": "https://www.wikimapia.org/#search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -91122,7 +91122,7 @@ export const bangs = [
         "s": "Wikitravel",
         "sc": "Travel",
         "t": "wikitravel",
-        "u": "http://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
+        "u": "https://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
     },
     {
         "c": "Entertainment",
@@ -91500,7 +91500,7 @@ export const bangs = [
         "s": "Willhaben",
         "sc": "Online (marketplace)",
         "t": "willhaben",
-        "u": "http://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}&x=0&y=0"
+        "u": "https://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}&x=0&y=0"
     },
     {
         "c": "Tech",
@@ -91518,7 +91518,7 @@ export const bangs = [
         "s": "Williams-Sonoma",
         "sc": "Online",
         "t": "williamssonoma",
-        "u": "http://www.williams-sonoma.com/search/results.html?words={{{s}}}"
+        "u": "https://www.williams-sonoma.com/search/results.html?words={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -92112,7 +92112,7 @@ export const bangs = [
         "s": "WooordHunt",
         "sc": "General",
         "t": "woo",
-        "u": "http://wooordhunt.ru/word/{{{s}}}"
+        "u": "https://wooordhunt.ru/word/{{{s}}}"
     },
     {
         "c": "Research",
@@ -92121,7 +92121,7 @@ export const bangs = [
         "s": "Merriam-Webster's Word Central",
         "sc": "Reference (words)",
         "t": "wordcentral",
-        "u": "http://wordcentral.com/cgi-bin/student?book=Student&va={{{s}}}"
+        "u": "https://wordcentral.com/cgi-bin/student?book=Student&va={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -92157,7 +92157,7 @@ export const bangs = [
         "s": "WordNet",
         "sc": "Tools",
         "t": "wordnet",
-        "u": "http://wordnetweb.princeton.edu/perl/webwn?s={{{s}}}&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h="
+        "u": "https://wordnetweb.princeton.edu/perl/webwn?s={{{s}}}&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h="
     },
     {
         "c": "Online Services",
@@ -92274,7 +92274,7 @@ export const bangs = [
         "s": "worshiptogether.com",
         "sc": "Music (Lyrics)",
         "t": "worshiptogether",
-        "u": "http://worship-songs-resources.worshiptogether.com/search?w={{{s}}}"
+        "u": "https://worship-songs-resources.worshiptogether.com/search?w={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -92454,7 +92454,7 @@ export const bangs = [
         "s": "WoWWiki",
         "sc": "Reference (fun)",
         "t": "wowwiki",
-        "u": "http://www.wowwiki.com/Special:Search?search={{{s}}}"
+        "u": "https://www.wowwiki.com/Special:Search?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -92517,7 +92517,7 @@ export const bangs = [
         "s": "WordPress.com",
         "sc": "Blogs",
         "t": "wpblog",
-        "u": "http://{{{s}}}.wordpress.com/"
+        "u": "https://{{{s}}}.wordpress.com/"
     },
     {
         "c": "Research",
@@ -93129,7 +93129,7 @@ export const bangs = [
         "s": "MirBSD Acronyms Database",
         "sc": "Reference (words)",
         "t": "wtf",
-        "u": "http://www.mirbsd.org/wtf.cgi?q={{{s}}}"
+        "u": "https://www.mirbsd.org/wtf.cgi?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -93291,7 +93291,7 @@ export const bangs = [
         "s": "Project Wulfila",
         "sc": "Academic",
         "t": "wulfila",
-        "u": "http://www.wulfila.be/gothic/browse/search/?find={{{s}}}&mode=1"
+        "u": "https://www.wulfila.be/gothic/browse/search/?find={{{s}}}&mode=1"
     },
     {
         "c": "Entertainment",
@@ -93633,7 +93633,7 @@ export const bangs = [
         "s": "x86 Opcode & Instruction Reference",
         "sc": "Languages (other)",
         "t": "x86",
-        "u": "http://ref.x86asm.net/geek.html#{{{s}}}"
+        "u": "https://ref.x86asm.net/geek.html#{{{s}}}"
     },
     {
         "c": "Tech",
@@ -93642,7 +93642,7 @@ export const bangs = [
         "s": "Xamarin Forums",
         "sc": "Libraries/Frameworks",
         "t": "xamarinforums",
-        "u": "http://forums.xamarin.com/search?Search={{{s}}}"
+        "u": "https://forums.xamarin.com/search?Search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -93804,7 +93804,7 @@ export const bangs = [
         "s": "XIVDB",
         "sc": "Games (specific)",
         "t": "xivdb",
-        "u": "http://xivdb.com/?search={{{s}}}"
+        "u": "https://xivdb.com/?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -93813,7 +93813,7 @@ export const bangs = [
         "s": "XKCDB: The #xkcd quotes database",
         "sc": "Forum",
         "t": "xkcdb",
-        "u": "http://www.xkcdb.com/?search={{{s}}}"
+        "u": "https://www.xkcdb.com/?search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -94002,7 +94002,7 @@ export const bangs = [
         "s": "Yahoo! Auctions Japan",
         "sc": "Online (marketplace)",
         "t": "yajp",
-        "u": "http://auctions.search.yahoo.co.jp/search?p={{{s}}}"
+        "u": "https://auctions.search.yahoo.co.jp/search?p={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -94074,7 +94074,7 @@ export const bangs = [
         "s": "Yahoo! Answers",
         "sc": "Social",
         "t": "yanswers",
-        "u": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers"
+        "u": "https://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers"
     },
     {
         "c": "Online Services",
@@ -94515,7 +94515,7 @@ export const bangs = [
         "s": "Yubnub",
         "sc": "Search",
         "t": "yn",
-        "u": "http://yubnub.org/parser/parse?command={{{s}}}"
+        "u": "https://yubnub.org/parser/parse?command={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -94524,7 +94524,7 @@ export const bangs = [
         "s": "Yodobashi.com",
         "sc": "Online",
         "t": "yodobashi",
-        "u": "http://www.yodobashi.com/ec/category/index.html?word={{{s}}}"
+        "u": "https://www.yodobashi.com/ec/category/index.html?word={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -94623,7 +94623,7 @@ export const bangs = [
         "s": "youloop.org",
         "sc": "Video",
         "t": "youloop",
-        "u": "http://youloop.org/search.php?q={{{s}}}"
+        "u": "https://youloop.org/search.php?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -94992,7 +94992,7 @@ export const bangs = [
         "s": "Yummly",
         "sc": "Food",
         "t": "yummly",
-        "u": "http://www.yummly.com/recipes?q={{{s}}}"
+        "u": "https://www.yummly.com/recipes?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -95001,7 +95001,7 @@ export const bangs = [
         "s": "Vancouver Airport",
         "sc": "Travel",
         "t": "yvr",
-        "u": "http://www.yvr.ca/en/search#q={{{s}}}"
+        "u": "https://www.yvr.ca/en/search#q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -95172,7 +95172,7 @@ export const bangs = [
         "s": "Zara",
         "sc": "Online (intl)",
         "t": "zara",
-        "u": "http://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?storeId=10701&langId=-5&searchTerm={{{s}}}"
+        "u": "https://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?storeId=10701&langId=-5&searchTerm={{{s}}}"
     },
     {
         "c": "Research",
@@ -95361,7 +95361,7 @@ export const bangs = [
         "s": "zeno.org",
         "sc": "Academic",
         "t": "zeno",
-        "u": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Bibliothek"
+        "u": "https://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Bibliothek"
     },
     {
         "c": "News",
@@ -95415,7 +95415,7 @@ export const bangs = [
         "s": "Zetax.net",
         "sc": "Search",
         "t": "zetax",
-        "u": "http://zetax.net/search/?q={{{s}}}"
+        "u": "https://zetax.net/search/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -95478,7 +95478,7 @@ export const bangs = [
         "s": "Zillow",
         "sc": "Real Estate",
         "t": "zillow",
-        "u": "http://www.zillow.com/homes/{{{s}}}_rb/"
+        "u": "https://www.zillow.com/homes/{{{s}}}_rb/"
     },
     {
         "c": "Online Services",
@@ -95523,7 +95523,7 @@ export const bangs = [
         "s": "ZING MP3",
         "sc": "Music",
         "t": "zmp3",
-        "u": "http://mp3.zing.vn/tim-kiem/bai-hat.html?q={{{s}}}"
+        "u": "https://mp3.zing.vn/tim-kiem/bai-hat.html?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -95541,7 +95541,7 @@ export const bangs = [
         "s": "Zomato",
         "sc": "Search",
         "t": "zomato",
-        "u": "http://zomato.com/restaurants?q={{{s}}}"
+        "u": "https://zomato.com/restaurants?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -95568,7 +95568,7 @@ export const bangs = [
         "s": "Zoopla",
         "sc": "Real Estate",
         "t": "zoopla",
-        "u": "http://www.zoopla.co.uk/search/?q={{{s}}}&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include"
+        "u": "https://www.zoopla.co.uk/search/?q={{{s}}}&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include"
     },
     {
         "c": "Online Services",
@@ -95757,7 +95757,7 @@ export const bangs = [
         "s": "docs.cntd.ru",
         "sc": "Docs",
         "t": "гост",
-        "u": "http://docs.cntd.ru/search/intellectual?q={{{s}}}"
+        "u": "https://docs.cntd.ru/search/intellectual?q={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -95838,7 +95838,7 @@ export const bangs = [
         "s": "Nayiri",
         "sc": "Design",
         "t": "նայ",
-        "u": "http://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query={{{s}}}"
+        "u": "https://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query={{{s}}}"
     },
     {
         "c": "News",
@@ -95847,7 +95847,7 @@ export const bangs = [
         "s": "Astronet.Ge",
         "sc": "Online",
         "t": "ასტრო",
-        "u": "http://astronet.ge/?s={{{s}}}"
+        "u": "https://astronet.ge/?s={{{s}}}"
     },
     {
         "c": "Research",
@@ -95905,12 +95905,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "en.wikipedia.org",
+        "d": "wikipedia.org",
         "r": 0,
         "s": "Wikipedia",
         "sc": "Reference",
         "t": "wikipedia",
-        "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}"
+        "u": "https://wikipedia.org/w/index.php?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -97359,7 +97359,7 @@ export const bangs = [
         "s": "Pokemon Wiki",
         "sc": "Games (Pokemon)",
         "t": "wdex",
-        "u": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}"
+        "u": "https://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -98332,5 +98332,14 @@ export const bangs = [
         "sc": "Games (specific)",
         "t": "uma",
         "u": "https://umamusu.wiki/w/index.php?search={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "en.wikipedia.org",
+        "r": 0,
+        "s": "Wikipedia (English)",
+        "sc": "Reference",
+        "t": "wen",
+        "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}"
     }
 ];
