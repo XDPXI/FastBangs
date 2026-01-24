@@ -69546,10 +69546,10 @@ export const bangs = [
         "c": "Entertainment",
         "d": "www.roblox.com",
         "r": 0,
-        "s": "Roblox",
+        "s": "Roblox Marketplace",
         "sc": "Games (general)",
         "t": "rblx",
-        "u": "https://www.roblox.com/Catalog/Lists.aspx?m=TopFavorites&c=9&t=AllTime&d=All&q={{{s}}}"
+        "u": "https://www.roblox.com/catalog?Keyword={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -71481,28 +71481,28 @@ export const bangs = [
         "c": "Entertainment",
         "d": "www.roblox.com",
         "r": 0,
-        "s": "Roblox Games",
+        "s": "Roblox Experiences",
         "sc": "Games (specific)",
         "t": "robloxg",
-        "u": "https://www.roblox.com/games/?Keyword={{{s}}}"
+        "u": "https://www.roblox.com/discover/?Keyword={{{s}}}"
     },
     {
         "c": "Entertainment",
         "d": "www.roblox.com",
         "r": 0,
-        "s": "Roblox Groups",
+        "s": "Roblox Communities",
         "sc": "Games (general)",
         "t": "robloxgr",
-        "u": "https://www.roblox.com/Groups/search.aspx?val={{{s}}}"
+        "u": "https://www.roblox.com/search/communities?keyword={{{s}}}"
     },
     {
         "c": "Entertainment",
-        "d": "www.roblox.com",
+        "d": "create.roblox.com",
         "r": 0,
-        "s": "Roblox Library",
+        "s": "Roblox Creator Store",
         "sc": "Games (general)",
         "t": "robloxl",
-        "u": "https://www.roblox.com/develop/library?CatalogContext=2&Keyword={{{s}}}&SortAggregation=5&LegendExpanded=true&Category=6"
+        "u": "https://create.roblox.com/store/models?keyword={{{s}}}"
     },
     {
         "c": "News",
@@ -98341,5 +98341,23 @@ export const bangs = [
         "sc": "Reference",
         "t": "wen",
         "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "www.openstreetmap.org",
+        "r": 0,
+        "s": "OpenStreetMap",
+        "sc": "Maps",
+        "t": "osm",
+        "u": "https://www.openstreetmap.org/search?query={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "arcraiders.wiki",
+        "r": 0,
+        "s": "ARC Raiders Wiki",
+        "sc": "Games (specific)",
+        "t": "arcwiki",
+        "u": "https://arcraiders.wiki/w/index.php?search={{{s}}}"
     }
 ];
