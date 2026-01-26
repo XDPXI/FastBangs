@@ -1972,12 +1972,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "forums.developer.apple.com",
+        "d": "developer.apple.com",
         "r": 0,
         "s": "Apple dev form",
         "sc": "Programming",
         "t": "adf",
-        "u": "https://forums.developer.apple.com/search.jspa?q={{{s}}}"
+        "u": "https://developer.apple.com/forums/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -4893,7 +4893,7 @@ export const bangs = [
         "s": "Apple",
         "sc": "Tech",
         "t": "apple",
-        "u": "https://www.apple.com/search/?q={{{s}}}"
+        "u": "https://www.apple.com/search/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -4929,7 +4929,7 @@ export const bangs = [
         "s": "Apple Discussions",
         "sc": "Companies",
         "t": "applediscuss",
-        "u": "https://discussions.apple.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q={{{s}}}"
+        "u": "https://discussions.apple.com/search?source=aml&origin=asc_serp&q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -72838,12 +72838,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "safari-extensions.apple.com",
+        "d": "apps.apple.com",
         "r": 0,
         "s": "Safari Extensions Gallery",
         "sc": "Downloads (add-ons)",
         "t": "safariext",
-        "u": "https://safari-extensions.apple.com/?q={{{s}}}"
+        "u": "https://apps.apple.com/us/mac/search?term={{{s}}}"
     },
     {
         "c": "Multimedia",
