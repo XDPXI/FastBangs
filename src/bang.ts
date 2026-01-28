@@ -45631,12 +45631,12 @@ export const bangs = [
     },
     {
         "c": "Shopping",
-        "d": "kakaku.com",
+        "d": "search.kakaku.com",
         "r": 0,
-        "s": "kakaku.com",
+        "s": "Kakaku.com",
         "sc": "Online",
         "t": "kakaku",
-        "u": "https://kakaku.com/search_results/{{{s}}}"
+        "u": "https://search.kakaku.com/{{{s}}}/"
     },
     {
         "c": "Research",
@@ -98359,5 +98359,23 @@ export const bangs = [
         "sc": "Games (specific)",
         "t": "arcwiki",
         "u": "https://arcraiders.wiki/w/index.php?search={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "npmx.dev",
+        "r": 0,
+        "s": "NPMX",
+        "sc": "Programming",
+        "t": "npmx",
+        "u": "https://npmx.dev/search?q={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "skills.sh",
+        "r": 0,
+        "s": "Skills.sh",
+        "sc": "AI",
+        "t": "skills",
+        "u": "https://skills.sh/?q={{{s}}}"
     }
 ];
