@@ -82603,12 +82603,12 @@ export const bangs = [
     },
     {
         "c": "Multimedia",
-        "d": "listen.tidal.com",
+        "d": "tidal.com",
         "r": 0,
         "s": "Tidal",
         "sc": "Music",
         "t": "tidal",
-        "u": "https://listen.tidal.com/search/{{{s}}}"
+        "u": "https://tidal.com/search/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -89967,7 +89967,7 @@ export const bangs = [
         "c": "Research",
         "d": "www.websters1913.com",
         "r": 0,
-        "s": "Webster's Dictionary (1913) !websters Webster's Dictionary 1828 - Online Edition !owd Merriam-Webster Dictionary !mw Merriam-Webster Pronunciation !say Merriam-Webster's Learner's Dictionary !mwl Webster's Revised Unabridged Dictionary (1913)",
+        "s": "Webster's Dictionary (1913)",
         "sc": "Reference (words)",
         "t": "web1913",
         "u": "https://www.websters1913.com/words/{{{s}}}"
