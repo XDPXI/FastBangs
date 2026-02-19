@@ -7413,7 +7413,7 @@ export const bangs = [
         "s": "Books-A-Million",
         "sc": "Online",
         "t": "bam",
-        "u": "https://www.booksamillion.com/search?query={{{s}}}"
+        "u": "https://www.booksamillion.com/search2?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -21804,7 +21804,7 @@ export const bangs = [
         "s": "DM.DE",
         "sc": "Online",
         "t": "dmde",
-        "u": "https://www.dm.de/search/468652.html?type=product&q={{{s}}}"
+        "u": "https://www.dm.de/search?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -52192,12 +52192,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "putusan.mahkamahagung.go.id",
+        "d": "putusan3.mahkamahagung.go.id",
         "r": 0,
         "s": "Supreme Court of Indonesia",
         "sc": "Law",
         "t": "mari",
-        "u": "https://putusan.mahkamahagung.go.id/main/pencarian/?q={{{s}}}"
+        "u": "https://putusan3.mahkamahagung.go.id/search.html?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -55761,7 +55761,7 @@ export const bangs = [
         "s": "Mouser Electronics",
         "sc": "Tech",
         "t": "mouser",
-        "u": "https://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}"
+        "u": "https://www.mouser.com/c/?q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -89394,7 +89394,7 @@ export const bangs = [
         "s": "Waitrose",
         "sc": "Online (marketplace)",
         "t": "waitrose",
-        "u": "https://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}"
+        "u": "https://www.waitrose.com/ecom/shop/search?searchTerm={{{s}}}"
     },
     {
         "c": "Research",
@@ -98377,5 +98377,23 @@ export const bangs = [
         "sc": "AI",
         "t": "skills",
         "u": "https://skills.sh/?q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "blockscan.com",
+        "r": 0,
+        "s": "Blockscan",
+        "sc": "Cryptocurrency",
+        "t": "blockscan",
+        "u": "https://blockscan.com/home/searchaddress?searchAddress={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "tesaurus.kemendikdasmen.go.id",
+        "r": 0,
+        "s": "Tesaurus Tematis Badan Bahasa Indonesia",
+        "sc": "Reference (words)",
+        "t": "tesaurus",
+        "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}"
     }
 ];
