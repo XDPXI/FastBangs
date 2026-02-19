@@ -98395,5 +98395,14 @@ export const bangs = [
         "sc": "Reference (words)",
         "t": "tesaurus",
         "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "domains.cloudflare.com",
+        "r": 0,
+        "s": "Cloudflare Domains",
+        "sc": "domains",
+        "t": "cdomain",
+        "u": "https://domains.cloudflare.com/?domain={{{s}}}/"
     }
 ];
