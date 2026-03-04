@@ -4573,12 +4573,12 @@ export const bangs = [
     },
     {
         "c": "News",
-        "d": "ap.org",
+        "d": "apnews.com",
         "r": 0,
-        "s": "AP",
+        "s": "AP News",
         "sc": "Broadcast",
         "t": "ap",
-        "u": "https://ap.org/?s={{{s}}}&orderby="
+        "u": "https://apnews.com/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -98404,5 +98404,23 @@ export const bangs = [
         "sc": "domains",
         "t": "cdomain",
         "u": "https://domains.cloudflare.com/?domain={{{s}}}/"
+    },
+    {
+        "c": "Shopping",
+        "d": "blinkit.com",
+        "r": 0,
+        "s": "Blinkit",
+        "sc": "Online",
+        "t": "blinkit",
+        "u": "https://blinkit.com/s/?q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "ziglang.org",
+        "r": 0,
+        "s": "Ziglang std docs",
+        "sc": "Programming",
+        "t": "zig",
+        "u": "https://ziglang.org/documentation/master/std/#?{{{s}}}"
     }
 ];
