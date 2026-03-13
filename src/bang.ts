@@ -6148,12 +6148,12 @@ export const bangs = [
     },
     {
         "c": "Shopping",
-        "d": "smile.amazon.com",
+        "d": "www.amazon.com",
         "r": 0,
         "s": "Amazon Subscribe & Save",
         "sc": "Online",
         "t": "ass",
-        "u": "https://smile.amazon.com/s?url=srs=5856181011&field-keywords={{{s}}}"
+        "u": "https://www.amazon.com/gp/subscribe-and-save/manager/"
     },
     {
         "c": "Tech",
@@ -86766,7 +86766,7 @@ export const bangs = [
         "s": "Uptodown",
         "sc": "Downloads (apps)",
         "t": "uptodown",
-        "u": "https://en.uptodown.com/android/search/{{{s}}}"
+        "u": "https://en.uptodown.com/android/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -98403,7 +98403,7 @@ export const bangs = [
         "s": "Cloudflare Domains",
         "sc": "domains",
         "t": "cdomain",
-        "u": "https://domains.cloudflare.com/?domain={{{s}}}/"
+        "u": "https://domains.cloudflare.com/?domain={{{s}}}"
     },
     {
         "c": "Shopping",
