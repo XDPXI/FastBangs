@@ -23721,7 +23721,7 @@ export const bangs = [
         "s": "e926",
         "sc": "Images",
         "t": "e926",
-        "u": "https://e926.net/post/search?tags={{{s}}}"
+        "u": "https://e926.net/posts?tags={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -94033,12 +94033,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "yandex.ru",
+        "d": "ya.ru",
         "r": 0,
         "s": "Yandex Maps",
         "sc": "Maps",
         "t": "yandexmaps",
-        "u": "https://yandex.ru/maps/?text={{{s}}}"
+        "u": "https://ya.ru/maps/?text={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -94132,12 +94132,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "yandex.ru",
+        "d": "ya.ru",
         "r": 0,
         "s": "Yandex Video",
         "sc": "Search (non-US)",
         "t": "yav",
-        "u": "https://yandex.ru/video/search?text={{{s}}}"
+        "u": "https://ya.ru/video/search?text={{{s}}}"
     },
     {
         "c": "News",
@@ -94150,12 +94150,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "yandex.ru",
+        "d": "ya.ru",
         "r": 0,
         "s": "Yandex",
         "sc": "Search (non-US)",
         "t": "ya",
-        "u": "https://yandex.ru/search?text={{{s}}}"
+        "u": "https://ya.ru/search?text={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -98254,12 +98254,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "yandex.ru",
+        "d": "ya.ru",
         "r": 0,
         "s": "Yandex Images",
         "sc": "Search (non-US)",
         "t": "yai",
-        "u": "https://yandex.ru/images/search?text={{{s}}}"
+        "u": "https://ya.ru/images/search?text={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -98422,5 +98422,32 @@ export const bangs = [
         "sc": "Programming",
         "t": "zig",
         "u": "https://ziglang.org/documentation/master/std/#?{{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "pds.ls",
+        "r": 0,
+        "s": "PDSls",
+        "sc": "Social",
+        "t": "pdsls",
+        "u": "https://pds.ls/?q={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "www.kobo.com",
+        "r": 0,
+        "s": "Kobo UK",
+        "sc": "Online",
+        "t": "kobouk",
+        "u": "https://www.kobo.com/gb/en/search?Query={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "wpt.fyi",
+        "r": 0,
+        "s": "wpt.fyi",
+        "sc": "Programming",
+        "t": "wptfyi",
+        "u": "https://wpt.fyi/results/?q={{{s}}}"
     }
 ];
