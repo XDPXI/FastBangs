@@ -5631,7 +5631,7 @@ export const bangs = [
         "s": "ARIN Whois",
         "sc": "Sysadmin (network)",
         "t": "arin",
-        "u": "https://whois.arin.net/ui/query.do?queryinput={{{s}}}"
+        "u": "https://whois.arin.net/ui/?q={{{s}}}"
     },
     {
         "c": "Tech",
