@@ -18406,12 +18406,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "asturianu.elahorcado.net",
+        "d": "www.diccionariu.alladixital.org",
         "r": 0,
         "s": "Diccionariu de l'Academia de la Llingua Asturiana",
-        "sc": "Academic",
+        "sc": "Reference (words intl)",
         "t": "dalla",
-        "u": "https://asturianu.elahorcado.net/search.php?search={{{s}}}"
+        "u": "https://www.diccionariu.alladixital.org/index.php?pallabra={{{s}}}"
     },
     {
         "c": "News",
@@ -26920,12 +26920,12 @@ export const bangs = [
     },
     {
         "c": "Multimedia",
-        "d": "www.esvbible.org",
+        "d": "www.esv.org",
         "r": 0,
         "s": "ESV Bible",
         "sc": "Books",
         "t": "esv",
-        "u": "https://www.esvbible.org/search/?q={{{s}}}"
+        "u": "https://www.esv.org/search/?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -33567,7 +33567,7 @@ export const bangs = [
         "s": "geeksforgeeks",
         "sc": "Programming",
         "t": "gfg",
-        "u": "https://www.geeksforgeeks.org/?q={{{s}}}"
+        "u": "https://www.geeksforgeeks.org/search/?gq={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -62244,13 +62244,13 @@ export const bangs = [
         "u": "https://www.orfoqrafiya.az/aze/{{{s}}}"
     },
     {
-        "c": "Entertainment",
-        "d": "tvthek.orf.at",
+        "c": "Search",
+        "d": "orionfeedback.org",
         "r": 0,
-        "s": "ORF TVThek",
-        "sc": "TV",
+        "s": "Orion Feedback",
+        "sc": "Search Engine",
         "t": "orf",
-        "u": "https://tvthek.orf.at/search?q={{{s}}}"
+        "u": "https://orionfeedback.org/?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -69346,12 +69346,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "www.residentadvisor.net",
+        "d": "retroachievements.org",
         "r": 0,
-        "s": "Resident Advisor",
-        "sc": "Misc",
+        "s": "RetroAchievements",
+        "sc": "Games (general)",
         "t": "ra",
-        "u": "https://www.residentadvisor.net/search.aspx?searchstr={{{s}}}"
+        "u": "https://retroachievements.org/search?query={{{s}}}"
     },
     {
         "c": "Tech",
@@ -98449,5 +98449,77 @@ export const bangs = [
         "sc": "Programming",
         "t": "wptfyi",
         "u": "https://wpt.fyi/results/?q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "formulae.brew.sh",
+        "r": 0,
+        "s": "Homebrew Cask",
+        "sc": "Downloads (software)",
+        "t": "brewc",
+        "u": "https://formulae.brew.sh/cask/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "docs.godotengine.org",
+        "r": 0,
+        "s": "Godot Engine Documentation",
+        "sc": "Programming",
+        "t": "godotl",
+        "u": "https://docs.godotengine.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+    },
+    {
+        "c": "Research",
+        "d": "www.kingarthurbaking.com",
+        "r": 0,
+        "s": "King Arthur Baking",
+        "sc": "Food",
+        "t": "kingarthur",
+        "u": "https://www.kingarthurbaking.com/search?query={{{s}}}#all_indices"
+    },
+    {
+        "c": "Tech",
+        "d": "legacy.cplusplus.com",
+        "r": 0,
+        "s": "legacy cplusplus.com ",
+        "sc": "Languages (c++)",
+        "t": "lc++",
+        "u": "https://legacy.cplusplus.com/search.do?q={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "netbible.org",
+        "r": 0,
+        "s": "netbible",
+        "sc": "Reference (religion)",
+        "t": "netbible",
+        "u": "https://netbible.org/bible/search?q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "tvthek.orf.at",
+        "r": 0,
+        "s": "ORF TVThek",
+        "sc": "TV",
+        "t": "tvthek",
+        "u": "https://tvthek.orf.at/search?q={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "global.oliveyoung.com",
+        "r": 0,
+        "s": "Olive Young",
+        "sc": "Online",
+        "t": "oliveyoung",
+        "u": "https://global.oliveyoung.com/display/search?query={{{s}}}"
+    },
+    {
+        "c": "Search",
+        "d": "orionfeedback.org",
+        "r": 0,
+        "s": "Orion Feedback (Discussions)",
+        "sc": "Search Engine",
+        "t": "orfd",
+        "u": "https://orionfeedback.org/?q={{{s}}}"
     }
 ];
