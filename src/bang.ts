@@ -7548,7 +7548,7 @@ export const bangs = [
         "s": "Barnes & Noble",
         "sc": "Big box/department",
         "t": "barnesandnoble",
-        "u": "https://www.barnesandnoble.com/s/{{{s}}}"
+        "u": "https://www.barnesandnoble.com/search?q={{{s}}}"
     },
     {
         "c": "Research",
@@ -83580,7 +83580,7 @@ export const bangs = [
         "s": "Tori",
         "sc": "Online (marketplace)",
         "t": "tori",
-        "u": "https://www.tori.fi/koko_suomi?q={{{s}}}"
+        "u": "https://www.tori.fi/recommerce/forsale/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -88224,7 +88224,7 @@ export const bangs = [
         "s": "VIDAL",
         "sc": "Health",
         "t": "vidal",
-        "u": "https://www.vidal.fr/recherche/index/q:{{{s}}}/"
+        "u": "https://www.vidal.fr/recherche.html?query={{{s}}}/"
     },
     {
         "c": "Multimedia",
@@ -98521,5 +98521,23 @@ export const bangs = [
         "sc": "Search Engine",
         "t": "orfd",
         "u": "https://orionfeedback.org/?q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "search.nixos.org",
+        "r": 0,
+        "s": "NixOS Home Manager Options Search",
+        "sc": "Languages (nix)",
+        "t": "nixhopt",
+        "u": "https://search.nixos.org/options?query={{{s}}}&source=home_manager"
+    },
+    {
+        "c": "Tech",
+        "d": "archive.softwareheritage.org",
+        "r": 0,
+        "s": "The Software Heritage Archive",
+        "sc": "Programming",
+        "t": "swh",
+        "u": "https://archive.softwareheritage.org/browse/search/?q={{{s}}}"
     }
 ];
