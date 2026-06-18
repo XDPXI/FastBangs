@@ -71481,7 +71481,7 @@ export const bangs = [
         "c": "Entertainment",
         "d": "www.roblox.com",
         "r": 0,
-        "s": "Roblox Experiences",
+        "s": "Roblox Games",
         "sc": "Games (specific)",
         "t": "robloxg",
         "u": "https://www.roblox.com/discover/?Keyword={{{s}}}"
@@ -94785,7 +94785,7 @@ export const bangs = [
         "s": "YouTube Channel",
         "sc": "Misc",
         "t": "ytc",
-        "u": "https://www.youtube.com/user/{{{s}}}"
+        "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIQAg%253D%253D"
     },
     {
         "c": "Multimedia",
@@ -98584,5 +98584,23 @@ export const bangs = [
         "sc": "Search",
         "t": "rdap",
         "u": "https://client.rdap.org/?object={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "deltarune.wiki",
+        "r": 0,
+        "s": "Deltarune Wiki",
+        "sc": "Games (specific)",
+        "t": "deltarune",
+        "u": "https://deltarune.wiki/index.php?search={{{s}}}&title=Special:Search"
+    },
+    {
+        "c": "Online Services",
+        "d": "podcastindex.org",
+        "r": 0,
+        "s": "Podcast Index",
+        "sc": "Search",
+        "t": "podindex",
+        "u": "https://podcastindex.org/search?{{{s}}}&type=all"
     }
 ];
