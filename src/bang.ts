@@ -10072,12 +10072,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "bloons.wikia.com",
+        "d": "www.bloonswiki.com",
         "r": 0,
         "s": "Bloons Wiki",
         "sc": "Games (specific)",
         "t": "bloonswiki",
-        "u": "https://bloons.wikia.com/search?query={{{s}}}"
+        "u": "https://www.bloonswiki.com/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Research",
@@ -17182,12 +17182,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "criticalrole.wikia.com",
+        "d": "criticalrole.miraheze.org",
         "r": 0,
-        "s": "Critical Role Wikia",
+        "s": "Critical Role Wiki",
         "sc": "Misc",
         "t": "critrole",
-        "u": "https://criticalrole.wikia.com/wiki/Special:Search?query={{{s}}}"
+        "u": "https://criticalrole.miraheze.org/w/index.php?search={{{s}}}&title=Special:Search"
     },
     {
         "c": "Research",
@@ -19072,12 +19072,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "deathbattle.wikia.com",
+        "d": "deathbattle.miraheze.org",
         "r": 0,
         "s": "DEATH BATTLE Wiki",
         "sc": "Misc",
         "t": "dbwiki",
-        "u": "https://deathbattle.wikia.com/wiki/Special:Search?fulltext=Search&search={{{s}}}"
+        "u": "https://deathbattle.miraheze.org/w/index.php?title=Special:Search&search={{{s}}}"
     },
     {
         "c": "Research",
@@ -20562,7 +20562,7 @@ export const bangs = [
         "s": "DwarfFortress Wiki",
         "sc": "Games (offline)",
         "t": "dfw",
-        "u": "https://dwarffortresswiki.org/index.php?title=Special:Search&search={{{s}}}&go=Go"
+        "u": "https://dwarffortresswiki.org/index.php?title=Special:Search&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -21331,12 +21331,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "discworld.wikia.com",
+        "d": "wiki.lspace.org",
         "r": 0,
-        "s": "discworld",
+        "s": "Terry Pratchett Wiki",
         "sc": "Forum",
         "t": "discworld",
-        "u": "https://discworld.wikia.com/wiki/Special:Search?query={{{s}}}"
+        "u": "https://wiki.lspace.org/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Entertainment",
@@ -23752,12 +23752,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "earthbound.wikia.com",
+        "d": "wikibound.info",
         "r": 0,
         "s": "Earthbound Wiki",
         "sc": "Games (specific)",
         "t": "earthbound",
-        "u": "https://earthbound.wikia.com/wiki/Special:Search?search={{{s}}}"
+        "u": "https://wikibound.info/w/index.php?title=Special%3ASearch&search={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -36784,12 +36784,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "gta.fandom.com",
+        "d": "gta.wiki",
         "r": 0,
         "s": "GTA Wiki",
         "sc": "Games (general)",
         "t": "gtawiki",
-        "u": "https://gta.fandom.com/search?query={{{s}}}"
+        "u": "https://gta.wiki/?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Translation",
@@ -40978,12 +40978,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "hypixel-skyblock.fandom.com",
+        "d": "hypixelskyblock.minecraft.wiki",
         "r": 0,
         "s": "Hypixel Skyblock Wiki",
         "sc": "Games (Minecraft)",
         "t": "hysb",
-        "u": "https://hypixel-skyblock.fandom.com/wiki/Special:Search?query={{{s}}}"
+        "u": "https://hypixelskyblock.minecraft.wiki/?search={{{s}}}&title=Special:Search"
     },
     {
         "c": "Entertainment",
@@ -42265,12 +42265,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "www.project-imas.com",
+        "d": "project-imas.wiki",
         "r": 0,
         "s": "Project iM@S Wiki",
         "sc": "Games (specific)",
         "t": "imas",
-        "u": "https://www.project-imas.com/w/index.php?search={{{s}}}&title=Special:Search&go=Go"
+        "u": "https://project-imas.wiki/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Entertainment",
@@ -53605,12 +53605,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "megamitensei.wikia.com",
+        "d": "megatenwiki.com",
         "r": 0,
-        "s": "Megami Tensei Wikia",
+        "s": "Megami Tensei Wiki",
         "sc": "Games (specific)",
         "t": "megamitensei",
-        "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+        "u": "https://megatenwiki.com/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Entertainment",
@@ -54955,12 +54955,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "mlp.wikia.com",
+        "d": "equestripedia.org",
         "r": 0,
-        "s": "My Little Pony: Friendship is Magic Wiki",
+        "s": "Equestripedia",
         "sc": "TV",
         "t": "mlp",
-        "u": "https://mlp.wikia.com/wiki/Special:Search?search={{{s}}}"
+        "u": "https://equestripedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Entertainment",
@@ -68194,12 +68194,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "plantsvszombies.wikia.com",
+        "d": "plantsvszombies.wiki.gg",
         "r": 0,
         "s": "Plants vs. Zombies Wiki",
         "sc": "Games (general)",
         "t": "pvz",
-        "u": "https://plantsvszombies.wikia.com/wiki/Special:Search?query={{{s}}}"
+        "u": "https://plantsvszombies.wiki.gg/wiki/Special:Search?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -79165,12 +79165,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "slay-the-spire.fandom.com",
+        "d": "slaythespire.wiki.gg",
         "r": 0,
-        "s": "Slay the spire Wiki | Fandom powered by Wikia",
+        "s": "Slay the Spire Wiki",
         "sc": "Games (specific)",
         "t": "stsw",
-        "u": "https://slay-the-spire.fandom.com/wiki/Special:Search?query={{{s}}}"
+        "u": "https://slaythespire.wiki.gg/wiki/Special:Search?search={{{s}}}"
     },
     {
         "c": "Research",
@@ -79354,12 +79354,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "subnautica.wikia.com",
+        "d": "wiki.subnautica.com",
         "r": 0,
         "s": "Subnautica Wiki",
         "sc": "Games (specific)",
         "t": "subnautica",
-        "u": "https://subnautica.wikia.com/wiki/Special:Search?search={{{s}}}"
+        "u": "https://wiki.subnautica.com/sn/?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Tech",
@@ -85740,7 +85740,7 @@ export const bangs = [
         "s": "The Unofficial Elder Scrolls Pages",
         "sc": "Games (specific)",
         "t": "uesp",
-        "u": "https://en.uesp.net/w/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search"
+        "u": "https://en.uesp.net/w/index.php?title=Special%3ASearch&search={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -86194,12 +86194,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "undertale.wikia.com",
+        "d": "undertale.wiki",
         "r": 0,
-        "s": "Undertale wiki",
+        "s": "Undertale Wiki",
         "sc": "Games (offline)",
         "t": "undertale",
-        "u": "https://undertale.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+        "u": "https://undertale.wiki/index.php?search={{{s}}}&title=Special:Search"
     },
     {
         "c": "Shopping",
@@ -93700,12 +93700,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "xenoblade.wikia.com",
+        "d": "www.xenoserieswiki.org",
         "r": 0,
         "s": "Xenoblade Wiki",
         "sc": "Games (specific)",
         "t": "xenoblade",
-        "u": "https://xenoblade.wikia.com/wiki/Special:Search?search={{{s}}}"
+        "u": "https://www.xenoserieswiki.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
     },
     {
         "c": "Research",
@@ -98539,5 +98539,50 @@ export const bangs = [
         "sc": "Programming",
         "t": "swh",
         "u": "https://archive.softwareheritage.org/browse/search/?q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "chzzk.naver.com",
+        "r": 0,
+        "s": "CHZZK",
+        "sc": "Games (general)",
+        "t": "chzzk",
+        "u": "https://chzzk.naver.com/search?query={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "modrinth.com",
+        "r": 0,
+        "s": "Modrinth (Project by slug)",
+        "sc": "Games (Minecraft)",
+        "t": "mdproject",
+        "u": "https://modrinth.com/project/{{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "www.sooplive.com",
+        "r": 0,
+        "s": "SOOP",
+        "sc": "Games (general)",
+        "t": "soop",
+        "u": "https://www.sooplive.com/search?szKeyword={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "wavedash.com",
+        "r": 0,
+        "s": "Wavedash",
+        "sc": "Games (general)",
+        "t": "wavedash",
+        "u": "https://wavedash.com/browse?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "client.rdap.org",
+        "r": 0,
+        "s": "RDAP",
+        "sc": "Search",
+        "t": "rdap",
+        "u": "https://client.rdap.org/?object={{{s}}}"
     }
 ];
