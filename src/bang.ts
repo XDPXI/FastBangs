@@ -90786,7 +90786,7 @@ export const bangs = [
         "c": "Multimedia",
         "d": "whosampled.com",
         "r": 0,
-        "s": "Who Sampled",
+        "s": "WhoSampled",
         "sc": "Music",
         "t": "whosampled",
         "u": "https://whosampled.com/search/?q={{{s}}}"
@@ -98601,6 +98601,42 @@ export const bangs = [
         "s": "Podcast Index",
         "sc": "Search",
         "t": "podindex",
-        "u": "https://podcastindex.org/search?{{{s}}}&type=all"
+        "u": "https://podcastindex.org/search?q={{{s}}}&type=all"
+    },
+    {
+        "c": "Tech",
+        "d": "oxc.rs",
+        "r": 0,
+        "s": "Oxlint (Rule)",
+        "sc": "Languages (javascript)",
+        "t": "oxlint",
+        "u": "https://oxc.rs/docs/guide/usage/linter/rules/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "oxc.rs",
+        "r": 0,
+        "s": "Oxlint (ESLint Rule)",
+        "sc": "Languages (javascript)",
+        "t": "oxlinte",
+        "u": "https://oxc.rs/docs/guide/usage/linter/rules/eslint/{{{s}}}"
+    },
+    {
+        "c": "Multimedia",
+        "d": "www.whosampled.com",
+        "r": 0,
+        "s": "WhoSampled (Artists)",
+        "sc": "Music",
+        "t": "whosama",
+        "u": "https://www.whosampled.com/search/artists/?q={{{s}}}"
+    },
+    {
+        "c": "Multimedia",
+        "d": "www.whosampled.com",
+        "r": 0,
+        "s": "WhoSampled (Tracks)",
+        "sc": "Music",
+        "t": "whosamt",
+        "u": "https://www.whosampled.com/search/tracks/?q={{{s}}}"
     }
 ];
