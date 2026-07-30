@@ -22438,12 +22438,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "downdetector.co.uk",
+        "d": "downdetector.com",
         "r": 0,
         "s": "Downdetector",
         "sc": "Tools (URLs)",
         "t": "downd",
-        "u": "https://downdetector.co.uk/search/?q={{{s}}}"
+        "u": "https://downdetector.com/status/{{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -67614,7 +67614,7 @@ export const bangs = [
         "s": "Proton Mail",
         "sc": "Tools",
         "t": "protonmail",
-        "u": "https://mail.proton.me/#keyword={{{s}}}"
+        "u": "https://mail.proton.me/u/0/all-mail#keyword={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -83890,12 +83890,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "trakt.tv",
+        "d": "app.trakt.tv",
         "r": 0,
         "s": "Trakt",
         "sc": "TV",
         "t": "trakt",
-        "u": "https://trakt.tv/search?utf8=%E2%9C%93&query={{{s}}}"
+        "u": "https://app.trakt.tv/search?m=media&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -89076,10 +89076,10 @@ export const bangs = [
         "c": "Tech",
         "d": "www.virustotal.com",
         "r": 0,
-        "s": "www.virustotal.com",
+        "s": "VirusTotal IP",
         "sc": "Sysadmin",
         "t": "vtip",
-        "u": "https://www.virustotal.com/en/ip-address/{{{s}}}/information/"
+        "u": "https://www.virustotal.com/gui/ip-address/{{{s}}}"
     },
     {
         "c": "Tech",
@@ -98638,5 +98638,77 @@ export const bangs = [
         "sc": "Music",
         "t": "whosamt",
         "u": "https://www.whosampled.com/search/tracks/?q={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "www.amazon.ie",
+        "r": 0,
+        "s": "Amazon Ireland",
+        "sc": "Online",
+        "t": "aie",
+        "u": "https://www.amazon.ie/s?k={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "context7.com",
+        "r": 0,
+        "s": "Context7",
+        "sc": "Libraries/Frameworks",
+        "t": "context7",
+        "u": "https://context7.com/?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "reddit.com",
+        "r": 0,
+        "s": "Reddit: subreddit Defined Search",
+        "sc": "Social",
+        "t": "rsr",
+        "u": "https://reddit.com/r/$1/search?q=$2&restrict_sr=on"
+    },
+    {
+        "c": "Research",
+        "d": "wiki.rpcs3.net",
+        "r": 0,
+        "s": "RPCS3 Wiki",
+        "sc": "Reference",
+        "t": "rpcs3",
+        "u": "https://wiki.rpcs3.net/index.php?title=Special%3ASearch&search={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "www.xe.com",
+        "r": 0,
+        "s": "XE Currency Defined Search",
+        "sc": "Tools",
+        "t": "xec",
+        "u": "https://www.xe.com/currencyconverter/convert/?Amount=$3&From=$1&To=$2"
+    },
+    {
+        "c": "Tech",
+        "d": "www.virustotal.com",
+        "r": 0,
+        "s": "VirusTotal",
+        "sc": "Sysadmin",
+        "t": "virustotal",
+        "u": "https://www.virustotal.com/gui/search?query={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "www.virustotal.com",
+        "r": 0,
+        "s": "VirusTotal Domain",
+        "sc": "Sysadmin",
+        "t": "vtdomain",
+        "u": "https://www.virustotal.com/gui/domain/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "www.virustotal.com",
+        "r": 0,
+        "s": "VirusTotal File",
+        "sc": "Sysadmin",
+        "t": "vtfile",
+        "u": "https://www.virustotal.com/gui/file/{{{s}}}"
     }
 ];
