@@ -98710,5 +98710,41 @@ export const bangs = [
         "sc": "Sysadmin",
         "t": "vtfile",
         "u": "https://www.virustotal.com/gui/file/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "docs.gtk.org",
+        "r": 0,
+        "s": "GTK 4 Documentation",
+        "sc": "Programming",
+        "t": "gtk4",
+        "u": "https://docs.gtk.org/gtk4/index.html?q={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "gnome.pages.gitlab.gnome.org",
+        "r": 0,
+        "s": "libadwaita Documentation",
+        "sc": "Programming",
+        "t": "libadwaita",
+        "u": "https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/index.html?q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "nbarapm.com",
+        "r": 0,
+        "s": "nbarapm.com",
+        "sc": "Sports",
+        "t": "nbarapm",
+        "u": "https://nbarapm.com/player/{{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "rateyourmusic.com",
+        "r": 0,
+        "s": "Rate Your Music (films)",
+        "sc": "Movies",
+        "t": "rymf",
+        "u": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}"
     }
 ];
