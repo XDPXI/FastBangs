@@ -1,14 +1,23 @@
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const root = path.resolve(__dirname, "..");
+
 
 // Helpers
 
-function loadJSON(path) {
-    return JSON.parse(fs.readFileSync(path, "utf8"));
+function loadJSON(file) {
+    return JSON.parse(fs.readFileSync(path.join(root, file), "utf8"));
 }
 
-function safeRead(path) {
+
+function safeRead(file) {
     try {
-        return fs.readFileSync(path, "utf8");
+        return fs.readFileSync(path.join(root, file), "utf8");
     } catch {
         return "";
     }
@@ -16,9 +25,9 @@ function safeRead(path) {
 
 // Load raw sources
 
-const ddgRaw = loadJSON("ddg_bangs.json");
-const kagiRaw = loadJSON("kagi_bangs.json");
-const original = safeRead("src/bang.ts");
+const ddgRaw = loadJSON("../ddg_bangs.json");
+const kagiRaw = loadJSON("../kagi_bangs.json");
+const original = safeRead("../src/bang.ts");
 
 // Parse custom bangs from existing file
 
@@ -80,6 +89,6 @@ const deduped = Object.values(
 
 const output = `export const bangs = ${JSON.stringify(deduped, null, 4)};\n`;
 
-fs.writeFileSync("src/bang.ts", output);
+fs.writeFileSync(path.join(root, "src", "bang.ts"), output);
 
 console.log(`Updated src/bang.ts with ${deduped.length} bangs.`);
