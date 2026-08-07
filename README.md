@@ -17,15 +17,11 @@ A fork of Und*ck that provides QoL features
 DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables all
 of DuckDuckGo's bangs to work, but much faster.
 
----
-
 ## See it in action
 
 [![Unduck - Making DuckDuckGo Bangs Faster](https://img.youtube.com/vi/_DnNzRaBWUU/0.jpg)](https://www.youtube.com/watch?v=_DnNzRaBWUU)
 
 Click to watch how it works and why I built it
-
----
 
 ## How is it that much faster?
 
