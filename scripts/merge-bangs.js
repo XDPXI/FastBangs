@@ -17,9 +17,9 @@ function safeRead(file) {
 
 // Load raw sources
 
-const ddgRaw = loadJSON("../ddg_bangs.json");
-const kagiRaw = loadJSON("../kagi_bangs.json");
-const original = safeRead("../src/bang.ts");
+const ddgRaw = loadJSON("ddg_bangs.json");
+const kagiRaw = loadJSON("kagi_bangs.json");
+const original = safeRead("src/bang.ts");
 
 // Parse custom bangs from existing file
 
