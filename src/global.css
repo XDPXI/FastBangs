@@ -1,14 +1,6 @@
 /* Font fallback that closely matches Inter metrics */
-@font-face {
-    font-family: "Inter Fallback";
-    size-adjust: 107%;
-    ascent-override: 90%;
-    src: local("Arial");
-}
-
 :root {
-    font-family: Inter,
-    "Inter Fallback",
+  font-family:
     system-ui,
     -apple-system,
     BlinkMacSystemFont,
@@ -20,10 +12,11 @@
     "Open Sans",
     "Helvetica Neue",
     sans-serif;
-    font-synthesis: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 * {
