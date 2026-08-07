@@ -2,22 +2,16 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const root = path.resolve(__dirname, "..");
-
-
 // Helpers
 
 function loadJSON(file) {
-    return JSON.parse(fs.readFileSync(path.join(root, file), "utf8"));
+    return JSON.parse(fs.readFileSync(file, "utf8"));
 }
 
 
 function safeRead(file) {
     try {
-        return fs.readFileSync(path.join(root, file), "utf8");
+        return fs.readFileSync(file, "utf8");
     } catch {
         return "";
     }
@@ -89,6 +83,6 @@ const deduped = Object.values(
 
 const output = `export const bangs = ${JSON.stringify(deduped, null, 4)};\n`;
 
-fs.writeFileSync(path.join(root, "src", "bang.ts"), output);
+fs.writeFileSync(path.join("src", "bang.ts"), output);
 
 console.log(`Updated src/bang.ts with ${deduped.length} bangs.`);
