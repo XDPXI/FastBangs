@@ -53,3 +53,21 @@ For specific browser configuration instructions, refer to these guides:
 - **Brave**: [How do I set my default search engine?](https://support.brave.com/hc/en-us/articles/360017479752-How-do-I-set-my-default-search-engine)
 
 ---
+
+## Running locally via Docker
+
+Build and run via docker compose
+```sh
+docker compose up
+```
+
+Or without compose
+```sh
+# build
+docker build -t fastbangs:latest -f docker/Dockerfile .
+
+# run
+docker run --rm -p 80:80 fastbangs:latest 
+```
+
+---
