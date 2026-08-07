@@ -18,18 +18,19 @@ const DEFAULT_SEARCH_ENGINES = [
 ];
 
 function noSearchDefaultPageRender() {
+    const currentUrl = window.location.href.replace(/\/+$/, "");
     const app = document.querySelector<HTMLDivElement>("#app")!;
     app.innerHTML = `
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>FastBangs</h1>
         <p>A fork of Und*ck that provides QoL features</p>
-        <div class="url-container"> 
-          <input 
-            type="text" 
+        <div class="url-container">
+          <input
+            type="text"
             class="url-input"
-            value="https://fastbangs.xdpxi.dev?q=%s"
-            readonly 
+            value="${currentUrl}?q=%s"
+            readonly
           />
           <button class="copy-button">
             <img src="/clipboard.svg" alt="Copy" />
