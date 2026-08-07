@@ -29,11 +29,13 @@ jobs:
 
       - name: Fetch DDG bangs
         run: |
-          curl -s https://duckduckgo.com/bang.js > ddg_bangs.json
+          curl -fsSL https://duckduckgo.com/bang.js -o ddg_bangs.json
+          ls -lh ddg_bangs.json
 
       - name: Fetch Kagi bangs
         run: |
-          curl -s https://raw.githubusercontent.com/kagisearch/bangs/refs/heads/main/data/bangs.json > kagi_bangs.json
+          curl -fsSL https://raw.githubusercontent.com/kagisearch/bangs/main/data/bangs.json -o kagi_bangs.json
+          ls -lh kagi_bangs.json
 
       - name: Merge bangs into src/bangs.ts
         run: bun run scripts/merge-bangs.js
