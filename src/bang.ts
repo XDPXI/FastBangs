@@ -44772,7 +44772,7 @@ export const bangs = [
         "s": "John Lewis",
         "sc": "Online",
         "t": "jl",
-        "u": "https://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}"
+        "u": "https://www.johnlewis.com/search?search-term={{{s}}}"
     },
     {
         "c": "News",
@@ -98746,5 +98746,32 @@ export const bangs = [
         "sc": "Movies",
         "t": "rymf",
         "u": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "cptdb.ca",
+        "r": 0,
+        "s": "Canadian Public Transit Discussion Board",
+        "sc": "Forum",
+        "t": "cptdb",
+        "u": "https://cptdb.ca/search/?q={{{s}}}&quick=1"
+    },
+    {
+        "c": "Research",
+        "d": "cptdb.ca",
+        "r": 0,
+        "s": "Canadian Public Transit Discussion Board Wiki",
+        "sc": "Reference",
+        "t": "cptdbwiki",
+        "u": "https://cptdb.ca/wiki/index.php?search={{{s}}}&title=Special:Search&go=Go"
+    },
+    {
+        "c": "Online Services",
+        "d": "wiki.resonite.com",
+        "r": 0,
+        "s": "Resonite Wiki",
+        "sc": "Search Engine",
+        "t": "resowiki",
+        "u": "https://wiki.resonite.com/index.php?search={{{s}}}"
     }
 ];
