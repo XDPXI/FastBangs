@@ -89637,7 +89637,7 @@ export const bangs = [
         "s": "Watson",
         "sc": "Aggregators",
         "t": "watson",
-        "u": "https://www.watson.ch/u/search?#{{{s}}}"
+        "u": "https://www.watson.ch/u/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
