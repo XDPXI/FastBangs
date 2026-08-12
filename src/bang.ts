@@ -98773,5 +98773,14 @@ export const bangs = [
         "sc": "Search Engine",
         "t": "resowiki",
         "u": "https://wiki.resonite.com/index.php?search={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "wiki.avakot.org",
+        "r": 0,
+        "s": "Avakot Wiki",
+        "sc": "Games (specific)",
+        "t": "avakotw",
+        "u": "https://wiki.avakot.org/?search={{{s}}}"
     }
 ];
