@@ -98782,5 +98782,14 @@ export const bangs = [
         "sc": "Games (specific)",
         "t": "avakotw",
         "u": "https://wiki.avakot.org/?search={{{s}}}"
+    },
+    {
+        "c": "Multimedia",
+        "d": "klipy.com",
+        "r": 0,
+        "s": "KLIPY",
+        "sc": "Images",
+        "t": "klipy",
+        "u": "https://klipy.com/search/{{{s}}}"
     }
 ];
