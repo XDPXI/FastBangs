@@ -5635,12 +5635,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "ark.intel.com",
+        "d": "www.intel.com",
         "r": 0,
         "s": "Intel Processor Specification",
         "sc": "Companies",
         "t": "ark",
-        "u": "https://ark.intel.com/search?q={{{s}}}"
+        "u": "https://www.intel.com/content/www/us/en/search.html#cf-tabfilter=Products&q={{{s}}}"
     },
     {
         "c": "Entertainment",
@@ -83737,12 +83737,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "www.torontopubliclibrary.ca",
+        "d": "tpl.bibliocommons.com",
         "r": 0,
         "s": "Toronto Public Library",
         "sc": "Local",
         "t": "tpl",
-        "u": "https://www.torontopubliclibrary.ca/search.jsp?Ntt={{{s}}}"
+        "u": "https://tpl.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart"
     },
     {
         "c": "News",
@@ -98791,5 +98791,14 @@ export const bangs = [
         "sc": "Images",
         "t": "klipy",
         "u": "https://klipy.com/search/{{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "github.com",
+        "r": 0,
+        "s": "GitHub Pull Requests",
+        "sc": "Programming",
+        "t": "ghpr",
+        "u": "https://github.com/search?q={{{s}}}&type=pullrequests"
     }
 ];
