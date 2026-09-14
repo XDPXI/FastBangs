@@ -28158,7 +28158,7 @@ export const bangs = [
         "s": "Fangraphs",
         "sc": "Sports",
         "t": "fangraphs",
-        "u": "https://www.fangraphs.com/players.aspx?lastname={{{s}}}"
+        "u": "https://www.fangraphs.com/search?q={{{s}}}"
     },
     {
         "c": "Multimedia",
