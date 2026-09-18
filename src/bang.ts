@@ -20211,7 +20211,7 @@ export const bangs = [
         "s": "Le Dénicheur",
         "sc": "Online (deals)",
         "t": "denicheur",
-        "u": "https://ledenicheur.fr/#rparams=ss={{{s}}}"
+        "u": "https://ledenicheur.fr/search?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -22357,12 +22357,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "dota2.gamepedia.com",
+        "d": "liquipedia.net",
         "r": 0,
         "s": "Dota 2 Wiki",
         "sc": "Games (specific)",
         "t": "dota",
-        "u": "https://dota2.gamepedia.com/index.php?search={{{s}}}"
+        "u": "https://liquipedia.net/dota2/index.php?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -65472,7 +65472,7 @@ export const bangs = [
         "s": "Prisjakt (Norway)",
         "sc": "Online (deals)",
         "t": "pjno",
-        "u": "https://www.prisjakt.no/search?search={{{s}}}"
+        "u": "https://www.prisjakt.no/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -65481,7 +65481,7 @@ export const bangs = [
         "s": "Prisjakt",
         "sc": "Online (deals)",
         "t": "pj",
-        "u": "https://www.prisjakt.nu/search?search={{{s}}}"
+        "u": "https://www.prisjakt.nu/search?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -67272,7 +67272,7 @@ export const bangs = [
         "s": "pricespy.co.nz",
         "sc": "Online (deals)",
         "t": "pricespy",
-        "u": "https://pricespy.co.nz/search?search={{{s}}}"
+        "u": "https://pricespy.co.nz/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -67857,7 +67857,7 @@ export const bangs = [
         "s": "pricespyuk",
         "sc": "Online (deals)",
         "t": "psuk",
-        "u": "https://pricespy.co.uk/search?q={{{s}}}"
+        "u": "https://pricespy.co.uk/search?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -75061,12 +75061,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "shikimori.org",
+        "d": "shikimori.io",
         "r": 0,
         "s": "Shikimori",
         "sc": "Movies",
         "t": "shikimori",
-        "u": "https://shikimori.org/animes?search={{{s}}}"
+        "u": "https://shikimori.io/animes?search={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -98800,5 +98800,32 @@ export const bangs = [
         "sc": "Programming",
         "t": "ghpr",
         "u": "https://github.com/search?q={{{s}}}&type=pullrequests"
+    },
+    {
+        "c": "Shopping",
+        "d": "www.prisjagt.dk",
+        "r": 0,
+        "s": "Prisjagt",
+        "sc": "Online (deals)",
+        "t": "pjdk",
+        "u": "https://www.prisjagt.dk/search?query={{{s}}}"
+    },
+    {
+        "c": "Search",
+        "d": "kagi.com",
+        "r": 0,
+        "s": "Kagi Universal Summarizer (Bullet Points)",
+        "sc": "Search Engine",
+        "t": "sumb",
+        "u": "https://kagi.com/summarizer?url={{{s}}}&summary=keypoints"
+    },
+    {
+        "c": "Search",
+        "d": "kagi.com",
+        "r": 0,
+        "s": "Kagi Universal Summarizer (ELI5)",
+        "sc": "Search Engine",
+        "t": "sume",
+        "u": "https://kagi.com/summarizer?url={{{s}}}&summary=eli5"
     }
 ];
