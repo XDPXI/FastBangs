@@ -4269,8 +4269,8 @@ export const bangs = [
         "c": "Entertainment",
         "d": "www.animenewsnetwork.com",
         "r": 0,
-        "s": "AnimeNewsNetwork Encyclopedia",
-        "sc": "Comics",
+        "s": "Anime News Network Encyclopedia",
+        "sc": "TV",
         "t": "anne",
         "u": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}"
     },
@@ -20211,7 +20211,7 @@ export const bangs = [
         "s": "Le Dénicheur",
         "sc": "Online (deals)",
         "t": "denicheur",
-        "u": "https://ledenicheur.fr/#rparams=ss={{{s}}}"
+        "u": "https://ledenicheur.fr/search?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -22357,12 +22357,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "dota2.gamepedia.com",
+        "d": "liquipedia.net",
         "r": 0,
         "s": "Dota 2 Wiki",
         "sc": "Games (specific)",
         "t": "dota",
-        "u": "https://dota2.gamepedia.com/index.php?search={{{s}}}"
+        "u": "https://liquipedia.net/dota2/index.php?search={{{s}}}"
     },
     {
         "c": "Tech",
@@ -26220,7 +26220,7 @@ export const bangs = [
         "c": "News",
         "d": "en.wikinews.org",
         "r": 0,
-        "s": "English WIkinews",
+        "s": "English Wikinews",
         "sc": "International",
         "t": "enwn",
         "u": "https://en.wikinews.org/w/index.php?search={{{s}}}"
@@ -65472,7 +65472,7 @@ export const bangs = [
         "s": "Prisjakt (Norway)",
         "sc": "Online (deals)",
         "t": "pjno",
-        "u": "https://www.prisjakt.no/search?search={{{s}}}"
+        "u": "https://www.prisjakt.no/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -65481,7 +65481,7 @@ export const bangs = [
         "s": "Prisjakt",
         "sc": "Online (deals)",
         "t": "pj",
-        "u": "https://www.prisjakt.nu/search?search={{{s}}}"
+        "u": "https://www.prisjakt.nu/search?query={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -65989,12 +65989,12 @@ export const bangs = [
     },
     {
         "c": "Research",
-        "d": "www.ncbi.nlm.nih.gov",
+        "d": "pubmed.ncbi.nlm.nih.gov",
         "r": 0,
         "s": "Pubmed",
         "sc": "Academic",
         "t": "pmd",
-        "u": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+        "u": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}"
     },
     {
         "c": "Online Services",
@@ -67272,7 +67272,7 @@ export const bangs = [
         "s": "pricespy.co.nz",
         "sc": "Online (deals)",
         "t": "pricespy",
-        "u": "https://pricespy.co.nz/search?search={{{s}}}"
+        "u": "https://pricespy.co.nz/search?query={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -67857,7 +67857,7 @@ export const bangs = [
         "s": "pricespyuk",
         "sc": "Online (deals)",
         "t": "psuk",
-        "u": "https://pricespy.co.uk/search?q={{{s}}}"
+        "u": "https://pricespy.co.uk/search?query={{{s}}}"
     },
     {
         "c": "Research",
@@ -75061,12 +75061,12 @@ export const bangs = [
     },
     {
         "c": "Entertainment",
-        "d": "shikimori.org",
+        "d": "shikimori.io",
         "r": 0,
         "s": "Shikimori",
         "sc": "Movies",
         "t": "shikimori",
-        "u": "https://shikimori.org/animes?search={{{s}}}"
+        "u": "https://shikimori.io/animes?search={{{s}}}"
     },
     {
         "c": "Multimedia",
@@ -79912,12 +79912,12 @@ export const bangs = [
     },
     {
         "c": "Online Services",
-        "d": "www.post.ch",
+        "d": "mys.post.ch",
         "r": 0,
         "s": "Swiss Post",
         "sc": "Tracking",
         "t": "swisspost",
-        "u": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={{{s}}}"
+        "u": "https://mys.post.ch/my-consignments/deeplink-search?formattedParcelCodes={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -98115,7 +98115,7 @@ export const bangs = [
         "s": "Cloudflare Developer Documentation",
         "sc": "Sysadmin (man)",
         "t": "cdev",
-        "u": "https://developers.cloudflare.com/search/?query={{{s}}}"
+        "u": "https://developers.cloudflare.com//?q={{{s}}}"
     },
     {
         "c": "Tech",
@@ -98398,12 +98398,12 @@ export const bangs = [
     },
     {
         "c": "Tech",
-        "d": "domains.cloudflare.com",
+        "d": "www.cloudflare.com",
         "r": 0,
         "s": "Cloudflare Domains",
         "sc": "domains",
         "t": "cdomain",
-        "u": "https://domains.cloudflare.com/?domain={{{s}}}"
+        "u": "https://www.cloudflare.com/domains/search?q={{{s}}}"
     },
     {
         "c": "Shopping",
@@ -98800,5 +98800,158 @@ export const bangs = [
         "sc": "Programming",
         "t": "ghpr",
         "u": "https://github.com/search?q={{{s}}}&type=pullrequests"
+    },
+    {
+        "c": "Entertainment",
+        "d": "anilist.co",
+        "r": 0,
+        "s": "AniList (Manga)",
+        "sc": "Comics",
+        "t": "alm",
+        "u": "https://anilist.co/search/manga?search={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "kitsu.io",
+        "r": 0,
+        "s": "Kitsu Anime",
+        "sc": "TV",
+        "t": "kitsu",
+        "u": "https://kitsu.io/anime?text={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "kitsu.io",
+        "r": 0,
+        "s": "Kitsu Manga",
+        "sc": "Comics",
+        "t": "kitsum",
+        "u": "https://kitsu.io/manga?text={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "deadlock.wiki",
+        "r": 0,
+        "s": "Deadlock Wiki",
+        "sc": "Games (specific)",
+        "t": "deadlock",
+        "u": "https://deadlock.wiki/index.php?search={{{s}}}"
+    },
+    {
+        "c": "Tech",
+        "d": "kagi.com",
+        "r": 0,
+        "s": "DeepWiki",
+        "sc": "Programming",
+        "t": "deepwiki",
+        "u": "/search?q={{{s}}}+site:deepwiki.com"
+    },
+    {
+        "c": "Online Services",
+        "d": "map.kakao.com",
+        "r": 0,
+        "s": "Kakao Map",
+        "sc": "Maps",
+        "t": "kamap",
+        "u": "https://map.kakao.com/?q={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "caselaw.nationalarchives.gov.uk",
+        "r": 0,
+        "s": "Find Case Law (National Archives)",
+        "sc": "Law",
+        "t": "fcl",
+        "u": "https://caselaw.nationalarchives.gov.uk/search?query={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "forever.wowhead.com",
+        "r": 0,
+        "s": "Wowhead Forever",
+        "sc": "Games (WOW)",
+        "t": "fwow",
+        "u": "https://forever.wowhead.com/search?q={{{s}}}"
+    },
+    {
+        "c": "Research",
+        "d": "www.iledefrance-mobilites.fr",
+        "r": 0,
+        "s": "Île-de-France Mobilités",
+        "sc": "Travel",
+        "t": "idfm",
+        "u": "https://www.iledefrance-mobilites.fr/#{{{s}}}"
+    },
+    {
+        "c": "Multimedia",
+        "d": "downloads.khinsider.com",
+        "r": 0,
+        "s": "KHInsider Video Game Music",
+        "sc": "Music",
+        "t": "khi",
+        "u": "https://downloads.khinsider.com/search?search={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "myanimelist.net",
+        "r": 0,
+        "s": "MyAnimeList",
+        "sc": "TV",
+        "t": "mal",
+        "u": "https://myanimelist.net/search/all?q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "myanimelist.net",
+        "r": 0,
+        "s": "MyAnimeList (Anime)",
+        "sc": "TV",
+        "t": "mala",
+        "u": "https://myanimelist.net/anime.php?q={{{s}}}"
+    },
+    {
+        "c": "Entertainment",
+        "d": "myanimelist.net",
+        "r": 0,
+        "s": "MyAnimeList (Manga)",
+        "sc": "Comics",
+        "t": "malm",
+        "u": "https://myanimelist.net/manga.php?q={{{s}}}"
+    },
+    {
+        "c": "Online Services",
+        "d": "osmand.net",
+        "r": 0,
+        "s": "OsmAnd",
+        "sc": "Maps",
+        "t": "osmand",
+        "u": "https://osmand.net/map/search/result/?query={{{s}}}"
+    },
+    {
+        "c": "Shopping",
+        "d": "www.prisjagt.dk",
+        "r": 0,
+        "s": "Prisjagt",
+        "sc": "Online (deals)",
+        "t": "pjdk",
+        "u": "https://www.prisjagt.dk/search?query={{{s}}}"
+    },
+    {
+        "c": "Search",
+        "d": "kagi.com",
+        "r": 0,
+        "s": "Kagi Universal Summarizer (Bullet Points)",
+        "sc": "Search Engine",
+        "t": "sumb",
+        "u": "https://kagi.com/summarizer?url={{{s}}}&summary=keypoints"
+    },
+    {
+        "c": "Search",
+        "d": "kagi.com",
+        "r": 0,
+        "s": "Kagi Universal Summarizer (ELI5)",
+        "sc": "Search Engine",
+        "t": "sume",
+        "u": "https://kagi.com/summarizer?url={{{s}}}&summary=eli5"
     }
 ];
